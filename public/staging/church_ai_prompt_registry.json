@@ -1,0 +1,11 @@
+{
+  "apps": [
+     {
+       "id": "church_ai_prompts",
+       "name": "AI Prompts for Churchgoers",
+       "level1Config": "/data/configuration_church_prompts_level1.json",
+       "level2Config": "/data/configuration_church_prompts_level2.json"
+     }
+  ]
+}
+  

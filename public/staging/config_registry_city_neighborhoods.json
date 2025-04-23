@@ -1,0 +1,10 @@
+{
+    "apps": [
+      {
+        "id": "city_neighborhoods",
+        "name": "City Neighborhoods Explorer",
+        "level1Config": "/data/configuration_city_neighborhoods_level1.json",
+        "level2Config": "/data/configuration_city_neighborhoods_level2.json"
+      }
+    ]
+  }

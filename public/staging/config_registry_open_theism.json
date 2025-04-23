@@ -1,0 +1,28 @@
+{
+  "apps": [
+    {
+      "id": "open_theism_history",
+      "name": "Open Theism History Explorer",
+      "level1Config": "/data/configuration_open_theism_history_level1.json",
+      "level2Config": "/data/configuration_open_theism_history_level2.json"
+    },
+    {
+      "id": "open_theism_practice",
+      "name": "Open Theism in Practice",
+      "level1Config": "/data/configuration_open_theism_practice_level1.json",
+      "level2Config": "/data/configuration_open_theism_practice_level2.json"
+    },
+    {
+      "id": "biblical_texts_for",
+      "name": "Biblical Texts Supporting Open Theism",
+      "level1Config": "/data/configuration_open_theism_biblical_texts_for_level1.json",
+      "level2Config": "/data/configuration_open_theism_biblical_texts_for_level2.json"
+    },
+    {
+      "id": "biblical_texts_against",
+      "name": "Biblical Texts Challenging Open Theism",
+      "level1Config": "/data/configuration_open_theism_biblical_texts_against_level1.json",
+      "level2Config": "/data/configuration_open_theism_biblical_texts_against_level2.json"
+    }
+  ]
+}

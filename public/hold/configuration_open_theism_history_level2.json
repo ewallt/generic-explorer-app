@@ -1,0 +1,194 @@
+{
+    "items": [
+      {
+        "id": "1a",
+        "name": "Clement of Alexandria",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "Clement of Alexandria (c. 150–215 AD) was a theologian and philosopher who emphasized the role of human free will in moral and spiritual development. He saw divine foreknowledge as compatible with human agency, portraying God as a teacher who guides rather than dictates human choices. Clement's view of divine providence suggested that God engages dynamically with creation, allowing genuine human response to divine initiatives. While not an Open Theist, his thought contributed to an early theological framework that resisted deterministic interpretations of divine omniscience."
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "name": "Origen",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "Origen (c. 185–253 AD) was a highly influential early Christian theologian who explored the relationship between divine foreknowledge and human free will. He argued that God, as an infinitely wise and loving being, possesses foreknowledge of human choices but does not causally determine them. Origen's theological framework emphasized the soul's preexistence, spiritual progression, and the idea that God's knowledge operates in harmony with human freedom. While he did not articulate Open Theism as later theologians would, his rejection of strict determinism set a foundation for non-Augustinian views of divine providence. His ideas were later condemned as heretical, but they influenced future discussions on the nature of God's knowledge and relationality."
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "name": "Gregory of Nyssa",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "Gregory of Nyssa (c. 335–395 AD), one of the Cappadocian Fathers, contributed significantly to early Christian thought on divine knowledge and human freedom. He rejected deterministic views, emphasizing that God's providence operates in a way that allows human beings to genuinely participate in their moral and spiritual development. Influenced by Platonic and Origenist thought, Gregory saw divine foreknowledge not as coercive but as a reflection of God's wisdom and relational engagement with creation. His theological emphasis on divine adaptability and the progressive sanctification of the soul aligns with later Open Theist perspectives. While his ideas did not directly challenge classical theism, his rejection of rigid determinism was an important precursor to later theological debates on divine omniscience and freedom."
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "name": "Augustine of Hippo",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "Augustine of Hippo (354–430 AD) profoundly shaped Western Christianity's understanding of divine foreknowledge and predestination. He argued that God's knowledge of the future is absolute and unchangeable, which led him to develop a strong doctrine of predestination. According to Augustine, human free will is real but operates under divine grace, which ultimately determines salvation. His influence set the stage for later deterministic systems, including Calvinism. Open Theists critique Augustine's model, arguing that it makes human decisions irrelevant and portrays God as an all-controlling sovereign rather than a relational being. Despite this criticism, Augustine's theological legacy remains deeply embedded in much of Christian thought.\n\nAugustine's theological framework was heavily influenced by his personal journey from Manichaeism to Christianity and his Neo-Platonic philosophical background. His emphasis on divine sovereignty emerged partly as a response to the Pelagian controversy, where he defended the necessity of God's grace against what he saw as human presumption. While Augustine affirmed human free will, he placed it within strict boundaries of divine determination, creating a tension that theologians have wrestled with for centuries. His concept of predestination was developed further by medieval scholastics and later by Protestant Reformers like Luther and Calvin. Open Theists argue that Augustine's views were unduly influenced by Greek philosophical notions of divine impassibility and timelessness, which they believe compromise the biblical portrayal of God as responsive and emotionally engaged with humanity."
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "name": "Thomas Aquinas",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "Thomas Aquinas (1225–1274) developed one of the most influential models of divine foreknowledge in Christian history. Rooted in Aristotelian philosophy, his theology asserted that God exists outside of time, seeing past, present, and future in an eternal 'now.' This view, known as divine timelessness, became a cornerstone of classical theism and the primary position that Open Theism would later challenge. Aquinas maintained that God's knowledge does not negate human free will, but struggled to reconcile divine omniscience with genuine contingency. His framework of divine simplicity and immutability—where God cannot change or be affected by creation—stands in direct contrast to Open Theism's relational divine model. Aquinas' influence remains dominant in Catholic theology, providing the philosophical foundation that Open Theists must engage with, even as they reject its conclusions."
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "name": "John Calvin",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "John Calvin (1509–1564) reinforced Augustine's deterministic theology by asserting that God's sovereign will unconditionally determines human salvation or damnation. His doctrine of double predestination taught that God's eternal decree fixes all events, including human choices, without any uncertainty. Calvin's influence solidified deterministic views within Protestant theology, particularly through Reformed traditions. Open Theists reject Calvinist determinism, arguing that it undermines human freedom and relational love as central to God's character."
+          }
+        ]
+      },
+      {
+        "id": "3c",
+        "name": "Luis de Molina",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "Luis de Molina (1535–1600) was a Jesuit theologian who sought to reconcile divine foreknowledge with human freedom through his doctrine of middle knowledge (scientia media). He argued that God possesses knowledge of all possible choices individuals might make in any given situation, allowing Him to shape the world accordingly while preserving free will. Molina's model attempted to uphold both divine sovereignty and genuine human agency, providing an alternative to both strict determinism and Open Theism. Some scholars see middle knowledge as a mediating position between classical theism and Open Theism, though Open Theists typically reject Molina's assumption that God meticulously arranges the world based on counterfactual knowledge."
+          }
+        ]
+      },
+      {
+        "id": "3d",
+        "name": "Jacobus Arminius",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "Jacobus Arminius (1560–1609) was a Dutch theologian who rejected the strict predestination of Calvinism, arguing that God's foreknowledge does not necessitate determinism. He maintained that God knows future free choices without causally determining them, advocating for a model of divine providence that respects human agency. Arminius' emphasis on conditional election and divine-human relationality influenced later theological movements, including Wesleyan and Open Theist thought. While Arminianism still maintains exhaustive divine foreknowledge, its rejection of determinism opened the door for later discussions about a truly open future."
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "name": "Friedrich Schleiermacher",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "Friedrich Schleiermacher (1768–1834) was a German theologian and philosopher who helped reshape theological discussions about divine attributes. He emphasized that God's relationship with the world is dynamic and personal, challenging the static conceptions of divine knowledge prevalent in classical theism. Schleiermacher redefined divine omniscience in relational terms, arguing that God's knowledge should be understood in connection with His ongoing interactions with creation. Though not an Open Theist himself, his emphasis on religious experience and divine-human relationality created conceptual space for later developments in process theology and Open Theism. His willingness to reinterpret traditional theological concepts in light of human experience and relationship foreshadowed Open Theism's similar methodological approaches."
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "name": "Clark Pinnock",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "Clark Pinnock (1937–2010) was one of the most influential figures in developing Open Theism into a formal theological position. Initially a strong defender of classical evangelical theology, he later rejected deterministic views of divine omniscience and argued for a more relational and dynamic understanding of God. Pinnock maintained that true love requires genuine freedom, and thus, God does not exhaustively determine the future but responds to human choices in real time. His book *Most Moved Mover* systematically laid out Open Theism as an alternative to classical theism, portraying God as deeply engaged in history and human affairs. Pinnock's work faced intense criticism from classical theists, but his arguments helped legitimize Open Theism as a viable theological framework and encouraged broader discussions on divine providence and relational theology."
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "name": "Richard Rice",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "Richard Rice is one of the earliest advocates of Open Theism and played a significant role in shaping the movement's theological foundation. His 1980 book The Openness of God: The Relationship of Divine Foreknowledge and Human Free Will was the first major work to systematically articulate what would later be called Open Theism. This groundbreaking text laid the initial framework before Rice later collaborated with other scholars on the more widely known 1994 volume of the same name. Rice emphasizes that divine love is at the heart of Open Theism, requiring that God's knowledge be dynamic rather than exhaustively settled. He argues that many biblical passages depict God as genuinely interacting with creation, changing plans, and responding to human decisions. His early contributions helped establish Open Theism as a coherent theological position, influencing many later thinkers in the movement and contributing to the discussion on divine omniscience and providence."
+          }
+        ]
+      },
+      {
+        "id": "5c",
+        "name": "John Sanders",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "John Sanders is one of the most articulate defenders of Open Theism, contributing to both its theological and philosophical development. His book *The God Who Risks* presents a thorough argument that God's relationship with the world is characterized by risk-taking love, meaning that God grants humans genuine freedom and does not determine all future events. Sanders argues that a God who risks is not weaker but more relational, choosing to allow history to unfold freely rather than exercising meticulous control. He has been deeply involved in academic and public debates on Open Theism, responding to critics and clarifying how it differs from other models of divine providence. His work has shaped contemporary discussions on the nature of God's foreknowledge, the problem of evil, and the implications of human freedom, making him a central voice in the movement."
+          }
+        ]
+      },
+      {
+        "id": "5d",
+        "name": "William Hasker",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "William Hasker is a philosopher of religion who has provided some of the most rigorous philosophical defenses of Open Theism. His book *God, Time, and Knowledge* lays out a detailed argument for how God's omniscience is compatible with an open future, challenging classical views of divine timelessness and foreknowledge. Hasker argues that the future is genuinely indeterminate and that God's knowledge is dynamic rather than eternally fixed. His work has been instrumental in establishing Open Theism as a viable philosophical position, particularly in addressing objections related to divine providence, free will, and the problem of evil. Hasker continues to contribute to discussions on divine omniscience, demonstrating how Open Theism provides a coherent alternative to both classical theism and process theology."
+          }
+        ]
+      },
+      {
+        "id": "6a",
+        "name": "Greg Boyd",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "Greg Boyd is one of the most influential contemporary defenders of Open Theism, known for making these complex theological ideas accessible to broader audiences. His book God of the Possible presents a biblical and theological case for Open Theism, arguing that God's foreknowledge is partly open because the future is genuinely undetermined. Boyd uniquely integrates Open Theism with his 'warfare worldview,' suggesting that God battles against cosmic evil while respecting human freedom. He highlights numerous biblical passages where God appears to change plans or respond to human actions, interpreting these as evidence for a dynamic, relational deity rather than dismissing them as anthropomorphisms. Boyd has been particularly effective at bringing Open Theist perspectives into evangelical conversations, defending the view that this understanding of God enhances rather than diminishes divine sovereignty."
+          }
+        ]
+      },
+      {
+        "id": "6b",
+        "name": "David Basinger",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "David Basinger is a philosopher who has defended Open Theism against objections related to divine providence, human free will, and the problem of evil. His work clarifies how Open Theism upholds both God's sovereignty and human agency, addressing concerns that Open Theism might make God too weak or uninvolved. Basinger argues that Open Theism provides a stronger explanation for the existence of evil than classical theism, as it maintains that God does not causally determine all events. His contributions have been particularly valuable in philosophical debates, making Open Theism more accessible to those coming from an analytic philosophy background. He continues to be an important defender of Open Theism in theological and philosophical circles."
+          }
+        ]
+      },
+      {
+        "id": "6c",
+        "name": "Terence Fretheim",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "Terence Fretheim was a biblical scholar who emphasized the dynamic nature of God's interaction with creation, particularly in Old Testament narratives. He argued that many biblical passages depict God as responding to human actions and making contingent decisions, which challenges classical notions of divine immutability. Fretheim's work highlighted how relationality is central to the biblical portrayal of God, making Open Theism a more biblically grounded alternative to classical theism. His scholarship provided a strong exegetical foundation for Open Theists, reinforcing the idea that God's knowledge and actions are shaped by His genuine relationships with creation."
+          }
+        ]
+      },
+      {
+        "id": "6d",
+        "name": "Alan Rhoda",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "Alan Rhoda is a philosopher who has contributed to discussions on divine foreknowledge, time, and Open Theism. His work explores the philosophical implications of an open future, particularly in relation to the nature of time and God's knowledge. Rhoda has engaged deeply with questions about whether Open Theism requires a commitment to a particular theory of time, such as the A-theory of time (presentism). His research has helped clarify the metaphysical underpinnings of Open Theism, showing how it can be defended within contemporary philosophical debates on free will and divine omniscience."
+          }
+        ]
+      },
+      {
+        "id": "6e",
+        "name": "Thomas Jay Oord",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "Thomas Jay Oord engages with Open Theism in relation to relational theology and the problem of evil. He argues that God's nature is defined by love, which requires genuine human freedom and divine openness to the future. Oord has also explored the connections between Open Theism and process theology, emphasizing that God's power is persuasive rather than coercive. His work provides a theological bridge between Open Theism and broader discussions on the nature of divine love and providence. His books, including *The Uncontrolling Love of God*, have influenced many scholars and laypeople interested in a relational understanding of God."
+          }
+        ]
+      },
+      {
+        "id": "6f",
+        "name": "Bruce Ware",
+        "sectionProperties": ["description"],
+        "sections": [
+          {
+            "description": "Bruce Ware is one of the most vocal critics of Open Theism, defending a classical theistic view of divine omniscience and sovereignty. His book *God's Lesser Glory: The Diminished God of Open Theism* presents a systematic critique of Open Theism, arguing that it undermines God's sovereignty and biblical authority. Ware contends that Open Theism makes God too reactive, limiting His control over history and diminishing the confidence believers can have in divine providence. While a critic, Ware's engagement with Open Theism has significantly shaped the discussion, forcing Open Theists to refine their arguments in response to his critiques."
+          }
+        ]
+      }
+    ]
+  }

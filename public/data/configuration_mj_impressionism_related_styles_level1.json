@@ -1,0 +1,39 @@
+{
+    "appTitle": "Impressionism & Related Styles Explorer for Midjourney",
+    "firstLevelLabel": "Style",
+    "secondLevelLabel": "Artist",
+    "items": [
+      {
+        "id": "1",
+        "name": "Impressionism"
+      },
+      {
+        "id": "2",
+        "name": "Post-Impressionism"
+      },
+      {
+        "id": "3",
+        "name": "Pointillism"
+      },
+      {
+        "id": "4",
+        "name": "Neo-Impressionism"
+      },
+      {
+        "id": "5",
+        "name": "Synthetism"
+      },
+      {
+        "id": "6",
+        "name": "Fauvism"
+      },
+      {
+        "id": "7",
+        "name": "Regional Impressionism"
+      },
+      {
+        "id": "8",
+        "name": "Luminism"
+      }
+    ]
+  }

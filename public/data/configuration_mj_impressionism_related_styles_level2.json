@@ -1,0 +1,84 @@
+{
+    "items": [
+      {
+        "id": "1a",
+        "name": "Claude Monet",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An oil on canvas by Claude Monet. A Japanese footbridge arches over a water lily pond, surrounded by weeping willows and flowering shrubs in Monet's garden at Giverny. Dappled sunlight plays across the water surface, creating reflections that blend reality and mirrored image in characteristic Impressionist dissolution. The palette shifts from cool purples and blues in the shadows to warm yellows and greens where light strikes the lush vegetation."
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "name": "Vincent van Gogh",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An oil on canvas by Vincent van Gogh. A night sky swirls with stars and cosmic energy above a sleeping village nestled among rolling hills, with a church spire rising prominently from the cluster of buildings. A massive cypress tree in the foreground creates a powerful vertical element that connects earth and sky. Van Gogh's distinctive impasto technique gives the stars and clouds a physical presence, while his vibrant blues and yellows create a sense of cosmic movement."
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "name": "Georges Seurat",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An oil on canvas by Georges Seurat. A Sunday afternoon scene in a Parisian park where formally dressed figures relax along the Seine, each composed of tiny, precise dots of pure color. The rigid composition creates a sense of timeless stillness, with figures arranged in carefully balanced geometric formations. Seurat's scientific approach to color theory—placing complementary hues side by side for optical mixing—creates a luminous quality unachievable through traditional blending techniques."
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "name": "Paul Signac",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A Neo-Impressionist painting by Paul Signac. A vibrant harbor scene with sailboats and reflections on water, composed entirely of small, methodical brushstrokes of pure color. The composition follows scientific color theory with complementary colors placed side by side to create optical mixing. Signac's systematic approach uses more angular brushwork than Seurat's dots, creating a mosaic-like effect while maintaining the luminous quality characteristic of Neo-Impressionism."
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "name": "Paul Gauguin",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An oil on canvas by Paul Gauguin. Tahitian women in a lush tropical landscape, their forms simplified and outlined in dark contours against areas of flat, vibrant color. The unnatural yellows, reds, and greens create a dreamlike atmosphere that transcends realistic representation. Gauguin's Synthetist approach embraces decorative elements and symbolic content, rejecting Western artistic traditions in favor of what he perceived as a more primitive and spiritually authentic vision."
+          }
+        ]
+      },
+      {
+        "id": "6a",
+        "name": "Henri Matisse",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A Fauvist painting by Henri Matisse. A landscape scene with exaggerated, non-naturalistic colors—brilliant reds, electric blues, and acid greens—applied in bold brushstrokes that emphasize emotional impact over visual accuracy. The composition maintains recognizable forms but disregards conventional perspective and realistic coloration. Matisse's revolutionary approach prioritizes intense color relationships and simplified forms to create pure visual expression that would influence modern art throughout the 20th century."
+          }
+        ]
+      },
+      {
+        "id": "7a",
+        "name": "Mary Cassatt",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An American Impressionist painting by Mary Cassatt. An intimate domestic scene of a mother and child, rendered with soft brushwork and a bright, airy palette inspired by Cassatt's study of Japanese printmaking. The perspective is unusually close, focusing on the tender interaction with careful attention to expressions of concentration and trust. Cassatt's composition balances formal innovation with emotional authenticity in her signature exploration of feminine experience, representing the American adaptation of French Impressionist techniques."
+          }
+        ]
+      },
+      {
+        "id": "8a",
+        "name": "Fitz Henry Lane",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A Luminist landscape by Fitz Henry Lane. A tranquil harbor scene at dawn with sailing vessels reflected in perfectly still water. The composition features meticulous attention to detail and precise draftsmanship with smooth, nearly invisible brushwork. Glowing, atmospheric light bathes the scene in golden warmth, with dramatic sky effects and crystalline clarity. Lane's masterful handling of light creates an almost transcendental quality characteristic of American Luminism, emphasizing stillness, clarity, and the spiritual qualities of natural light."
+          }
+        ]
+      }
+    ]
+  }

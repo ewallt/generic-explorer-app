@@ -1,0 +1,268 @@
+{
+  "items": [
+    {
+      "id": "1a",
+      "name": "Genuine Divine-Human Dialogue",
+      "parentId": "1",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism reframes prayer as authentic dialogue rather than human alignment with predetermined divine decisions. Unlike classical theism where prayer primarily changes the person praying, Open Theism suggests prayer can genuinely influence God's actions and decisions. This perspective emphasizes that God authentically listens, considers human input, and may adjust divine responses accordingly. Prayer becomes a genuine exchange between free agents rather than a ritualistic participation in what has already been ordained. This approach affirms God's sovereignty while maintaining that God freely chooses to create space for human initiative within the divine-human relationship."
+        }
+      ]
+    },
+    {
+      "id": "1b",
+      "name": "Petitionary Prayer and Divine Responsiveness",
+      "parentId": "1",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism offers a distinctive understanding of petitionary prayer as potentially efficacious in influencing future outcomes. Rather than viewing petition as merely aligning with God's predetermined will, Open Theists suggest that God genuinely responds to human requests and may act differently because of prayer. This approach addresses the classical problem of why we should pray if God already knows and has determined outcomes. Open Theism suggests that while God has perfect knowledge of all possibilities, some divine decisions remain open and responsive to human input through prayer. This perspective retains divine wisdom and sovereignty while creating meaningful space for human participation in shaping the future through prayerful engagement with a responsive God."
+        }
+      ]
+    },
+    {
+      "id": "1c",
+      "name": "Addressing Unanswered Prayer",
+      "parentId": "1",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism provides distinctive pastoral approaches to the challenge of apparently unanswered prayer. Rather than suggesting that unanswered prayers are actually answered with a divine 'no' according to a predetermined plan, Open Theists acknowledge the genuine complexity of a relationally responsive God interacting with multiple free agents and natural processes. This framework recognizes that God's responsiveness exists within a complex creation where multiple factors—including human freedom, natural processes, and systemic realities—influence outcomes. Open Theism maintains God's ultimate sovereignty while acknowledging divine self-limitation in creating a world with genuine freedom and indeterminacy. This approach offers pastoral resources that balance the affirmation of divine care with honest recognition of life's genuine contingency and complexity."
+        }
+      ]
+    },
+    {
+      "id": "1d",
+      "name": "Contemplative Prayer and Divine Presence",
+      "parentId": "1",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism offers a distinct perspective on contemplative prayer practices that emphasizes dynamic divine presence rather than achieving union with an unchanging divine reality. While drawing on traditional contemplative disciplines, Open Theist approaches emphasize encountering a God who is genuinely affected by the relationship. Silence, meditation, and contemplation become spaces for authentic communion where both human and divine partners are potentially transformed. This approach affirms traditional contemplative wisdom while reframing it within a relational ontology that emphasizes God's dynamic nature. Contemplative practices focus not only on human transformation but on genuinely encountering the living God whose experience includes but transcends time, allowing for authentic divine-human communion in each present moment."
+        }
+      ]
+    },
+    {
+      "id": "2a",
+      "name": "Theodicy and Pastoral Counsel",
+      "parentId": "2",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism provides distinctive resources for pastoral care by rejecting the view that God directly causes or specifically allows each instance of suffering for a greater purpose. Instead, pastoral counseling from an Open Theist perspective emphasizes God's genuine opposition to evil and suffering, portraying God as actively working to bring good out of genuinely tragic situations rather than orchestrating them for mysterious purposes. This approach allows pastors to acknowledge the genuine tragedy of suffering without resorting to explanations that portray God as the author of pain. Pastoral care within this framework emphasizes divine solidarity with sufferers, God's ongoing redemptive work within genuine contingency, and the space for authentic lament without predetermined resolutions or simplistic answers to complex human pain."
+        }
+      ]
+    },
+    {
+      "id": "2b",
+      "name": "Trauma-Informed Care and Divine Responsiveness",
+      "parentId": "2",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theist theology aligns with and enhances trauma-informed pastoral care approaches. By rejecting deterministic explanations for traumatic events, Open Theism creates space for trauma survivors to process their experiences without the additional theological burden of believing God specifically orchestrated their suffering. This framework supports healing by emphasizing God's genuine opposition to traumatic harm while affirming divine presence within the healing journey. Pastoral counselors working within an Open Theist framework can integrate current trauma research with theological resources that emphasize God's genuine responsiveness to human pain, creating trauma-sensitive spiritual care that honors both psychological wisdom and theological integrity while avoiding harmful religious narratives that can complicate trauma recovery."
+        }
+      ]
+    },
+    {
+      "id": "2c",
+      "name": "Decision-Making and Discernment Counseling",
+      "parentId": "2",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism provides distinctive approaches to pastoral counseling around significant life decisions and vocational discernment. Rather than seeking to discern a singular predetermined divine plan, Open Theist approaches emphasize collaborative partnership with God in creating the future. This perspective views discernment as discovering possibilities that align with God's character and purposes while acknowledging genuine human freedom in choosing among viable options. Pastoral counseling methods within this framework help individuals balance appropriate trust in divine guidance with responsible exercise of human agency. This approach addresses anxiety about 'missing God's will' by emphasizing relationship over rigid predetermination while still maintaining the importance of seeking wisdom and divine guidance in significant life choices."
+        }
+      ]
+    },
+    {
+      "id": "2d",
+      "name": "Grief Work and Divine Vulnerability",
+      "parentId": "2",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism offers unique theological resources for pastoral care to the grieving by emphasizing God's genuine vulnerability and emotional responsiveness. Unlike theological systems that portray God as emotionally unmoved by creation (divine impassibility), Open Theism presents a God who genuinely grieves with and for creation. This theological framework supports pastoral approaches that validate the full range of emotions in grief, including anger toward God, while portraying divine compassion as authentic sharing in human sorrow rather than distant observation. Pastoral care informed by Open Theism acknowledges the genuine tragedy of loss without resorting to explanations that diminish its reality, while still affirming God's ongoing presence and commitment to healing and redemption within the genuine contingencies of an open future."
+        }
+      ]
+    },
+    {
+      "id": "2e",
+      "name": "Addiction Recovery and Divine Partnership",
+      "parentId": "2",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism informs pastoral approaches to addiction recovery and transformation. By emphasizing genuine human freedom within divine relationship, Open Theist perspectives support recovery models that balance personal responsibility with reliance on God's transformative presence. This approach aligns with contemporary understanding of addiction as involving both neurobiological factors and human choice, avoiding both deterministic models that minimize agency and overly voluntaristic models that ignore biological realities. Pastoral care within this framework emphasizes God's genuine responsiveness to human struggle, the importance of community support in recovery, and the dynamic partnership between divine grace and human participation in the healing process. This approach offers theological resources that complement evidence-based addiction treatment while providing distinctive spiritual perspectives on transformation and healing."
+        }
+      ]
+    },
+    {
+      "id": "3a",
+      "name": "Relational Spirituality and Character Formation",
+      "parentId": "3",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism reframes spiritual formation as authentic relationship rather than conformity to a predetermined divine plan. Unlike models that emphasize human alignment with an unchanging divine reality, Open Theist spirituality emphasizes mutual influence within the divine-human relationship, where both partners are genuinely affected though in asymmetrical ways. This approach maintains the classical emphasis on virtue formation while reframing it within a relational ontology that emphasizes the dynamic quality of divine-human interaction. Spiritual practices focus on authentic engagement with a personal God who genuinely responds to human initiative, creating a spirituality that balances reverence for divine transcendence with authentic intimacy possible only in genuinely responsive relationships."
+        }
+      ]
+    },
+    {
+      "id": "3b",
+      "name": "Spiritual Disciplines in an Open Future",
+      "parentId": "3",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "While maintaining practices like meditation, fasting, study, silence, and service, Open Theist approaches emphasize these disciplines as means of authentic divine-human communion rather than simply aligning with predetermined divine purposes. Prayer becomes genuine dialogue; meditation becomes authentic presence with a responsive God; service becomes collaboration with divine redemptive activity rather than merely executing a predetermined plan. This approach honors traditional spiritual wisdom while reframing it within a relational theology that emphasizes God's dynamic engagement with creation."
+        }
+      ]
+    },
+    {
+      "id": "3c",
+      "name": "Communal Formation and Divine Participation",
+      "parentId": "3",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism offers distinctive perspectives on spiritual formation in community, emphasizing the church as a context for authentic divine-human partnership rather than simply the execution of a predetermined divine blueprint. This approach views ecclesial practices—worship, sacraments, teaching, fellowship—as genuine encounters with a responsive God who authentically participates in community life rather than simply observing it from a timeless perspective. Community discernment practices emphasize collaborative listening for God's current guidance rather than simply discovering a predetermined plan. This framework supports approaches to community spiritual formation that balance reverence for tradition with openness to genuine divine novelty and surprise, creating space for authentic spiritual innovation while maintaining connection to historic Christian practices and beliefs about God's faithful character and purposes."
+        }
+      ]
+    },
+    {
+      "id": "3d",
+      "name": "Scripture Engagement and Transformative Reading",
+      "parentId": "3",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism influences approaches to Scripture in spiritual formation. Rather than viewing the Bible primarily as a repository of timeless truths or predetermined divine instructions, Open Theist approaches emphasize Scripture as the record of God's dynamic relationship with humanity and the context for contemporary divine-human dialogue. This perspective emphasizes the Bible's narrative of God's genuine responsiveness to human actions while maintaining its authority as revelation. Spiritual reading practices like Lectio Divina take on fresh significance as genuine encounters with the living God rather than simply uncovering predetermined meanings. This approach honors Scripture's authority while emphasizing its role in facilitating authentic relationship with a God who continues to speak and act in ways that are faithful to divine character while responsive to current human realities."
+        }
+      ]
+    },
+    {
+      "id": "3e",
+      "name": "Moral Development and Divine Guidance",
+      "parentId": "3",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism provides distinctive resources for moral formation by emphasizing genuine divine-human partnership in ethical discernment. Rather than viewing ethics primarily as discovering and implementing predetermined divine commands, this approach emphasizes collaborative moral reasoning within relationship with God and community. Divine guidance is understood as genuine communication adapted to current circumstances rather than the unveiling of timeless decrees. This framework supports moral formation that balances principled commitment to values reflecting God's character with contextual wisdom responsive to unique situations. Spiritual practices focus on developing moral sensitivity and discernment through authentic relationship with God rather than simply applying predetermined rules. This approach offers resources for addressing novel ethical challenges while maintaining continuity with biblical ethical principles and the moral wisdom of Christian tradition."
+        }
+      ]
+    },
+    {
+      "id": "4a",
+      "name": "Divine Solidarity in Suffering",
+      "parentId": "4",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism offers a distinctive theological response to suffering by emphasizing God's genuine presence and solidarity with sufferers rather than divine orchestration of pain for greater purposes. Rejecting the view that God specifically wills or allows each instance of suffering creates space for authentic comfort without minimizing the genuine tragedy of pain. The cross is interpreted not as divine self-punishment to satisfy justice but as God's ultimate identification with human suffering and opposition to evil. This approach maintains divine goodness by portraying God as genuinely opposed to suffering while acknowledging divine self-limitation in creating a world with genuine freedom and natural processes. Pastoral care within this framework emphasizes authentic divine comfort based on genuine divine solidarity rather than explanations that attribute suffering directly to divine causation or permission for mysterious greater goods."
+        }
+      ]
+    },
+    {
+      "id": "4b",
+      "name": "Natural Evil and Divine Action",
+      "parentId": "4",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theist approaches to natural disasters, disease, and other forms of suffering not directly caused by human choices typically emphasize the genuine integrity and contingency of natural processes within a creation granted significant freedom to develop. Divine action is understood as responsive engagement with natural systems rather than micromanagement of every outcome. This perspective offers pastoral resources for addressing suffering caused by natural processes without attributing direct divine causation or specific permission, while still affirming God's ongoing presence and redemptive activity within creation. Theological models of divine action balance affirmation of natural regularities with openness to genuine divine intervention, providing resources for addressing pastoral questions about God's relationship to suffering caused by natural processes."
+        }
+      ]
+    },
+    {
+      "id": "4c",
+      "name": "Communal Lament and Prophetic Response",
+      "parentId": "4",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism provides theological foundations for authentic communal lament and prophetic response to suffering. By rejecting deterministic explanations that attribute all suffering to divine will, this approach creates space for genuine questioning, protest, and holy discontent with current realities. Drawing on biblical traditions of lament and prophetic critique, Open Theist communities develop liturgical and activist responses that express authentic grief while engaging in collaborative work for justice and healing. Practical approaches to corporate worship, community organizing, and social witness express the Open Theist understanding of God's genuine opposition to evil and partnership with humanity in addressing suffering. These practices balance authentic acknowledgment of pain with hopeful engagement in redemptive action without resorting to premature resolution or simplistic explanations."
+        }
+      ]
+    },
+    {
+      "id": "4d",
+      "name": "Eschatological Hope and Present Suffering",
+      "parentId": "4",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism frames the relationship between present suffering and future hope by emphasizing God's genuine opposition to suffering while affirming divine commitment to ultimate redemption. This creates a distinctive understanding of eschatological hope based on God's faithful character and demonstrated love rather than a fixed future already determined in every detail. Pastoral approaches within this framework emphasize God's genuine desire for current healing while acknowledging the ongoing reality of suffering within a creation granted genuine freedom. This perspective offers resources for maintaining hope without minimizing present pain, supporting faithful endurance based on trust in God's character rather than belief in the predetermined necessity of current suffering for future goods already fixed in the divine mind."
+        }
+      ]
+    },
+    {
+      "id": "4e",
+      "name": "Theodicy and Philosophical Responses",
+      "parentId": "4",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism offers distinctive philosophical responses to the problem of evil by rejecting the assumption that an omniscient God must know with certainty all future contingent events, particularly those involving free choices. This framework addresses classical challenges like the logical and evidential problems of evil by suggesting that certain aspects of the future remain genuinely open even to divine knowledge. This approach maintains divine omniscience while redefining it as perfect knowledge of everything that can be known, including all possibilities, probabilities, and settled aspects of reality. Philosophical resources within this tradition emphasize divine self-limitation in creating genuinely free creatures and natural processes with their own integrity. This creates space for theodicy that balances affirmation of divine goodness and power with recognition of genuine creaturely freedom without reducing evil to a predetermined necessity within the divine plan."
+        }
+      ]
+    },
+    {
+      "id": "5a",
+      "name": "Collaborative Mission and Divine Partnership",
+      "parentId": "5",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism reframes mission as authentic divine-human collaboration rather than human implementation of a predetermined divine blueprint. This theological framework shapes missional approaches that emphasize genuine partnership in creating the future rather than simply discovering and executing a plan already fixed in God's mind. Missional practices focus on responsive engagement with current contexts and needs while remaining faithful to God's revealed character and purposes. This approach maintains the traditional emphasis on divine initiative in mission while creating meaningful space for human creativity, contextual wisdom, and genuine innovation in missional approaches. The framework shapes church planting, evangelism, discipleship, and social engagement as expressions of genuine divine-human partnership that honor both God's sovereign purposes and authentic human agency in participating in God's redemptive work."
+        }
+      ]
+    },
+    {
+      "id": "5b",
+      "name": "Contextual Theology and Responsive Witness",
+      "parentId": "5",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism supports contextually responsive approaches to theology and witness in diverse cultural settings. Rather than viewing contextualization as simply translating predetermined theological content, this approach emphasizes genuine dialogue between gospel and culture as part of God's ongoing revelatory activity. Open Theist perspectives support theological approaches that balance faithfulness to Christian tradition with genuine openness to fresh insights emerging from new cultural contexts. Missional practitioners working within this framework develop approaches to inculturation that respect both the integrity of Scripture and the genuine insights emerging from diverse cultural perspectives. This creates space for authentic theological innovation while maintaining continuity with historic Christian faith, supporting missional approaches that balance respect for tradition with genuine responsiveness to unique cultural and historical contexts."
+        }
+      ]
+    },
+    {
+      "id": "5c",
+      "name": "Social Transformation and Kingdom Collaboration",
+      "parentId": "5",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism provides distinctive theological foundations for Christian engagement in social transformation and justice work. By emphasizing God's genuine responsiveness to human initiative, this approach supports activism that balances confidence in divine purposes with recognition of authentic human responsibility in shaping social outcomes. Rather than viewing social conditions as predetermined aspects of a divine plan, Open Theist approaches emphasize collaborative partnership in creating more just societies. This theological framework supports missional approaches that integrate evangelism and social witness as complementary expressions of God's redemptive purposes. Communities shaped by Open Theist theology engage in community development, justice advocacy, and creation care as expressions of genuine partnership with God's ongoing work in the world, balancing prophetic critique with constructive engagement in creating more just and peaceful societies."
+        }
+      ]
+    },
+    {
+      "id": "5d",
+      "name": "Interfaith Engagement and Dialogical Witness",
+      "parentId": "5",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism shapes approaches to interfaith dialogue and witness in pluralistic contexts. By emphasizing God's genuine responsiveness to all humans, this theological framework supports approaches to interfaith engagement that balance committed Christian identity with authentic openness to learning from diverse religious perspectives. Rather than viewing other religions simply as objects of conversion efforts, Open Theist approaches emphasize genuine dialogue that seeks truth while maintaining commitment to Christian revelation. This creates space for missional approaches that respect religious diversity while maintaining faithful Christian witness. Practical approaches to interfaith engagement balance conviction about God's definitive revelation in Christ with recognition of God's genuine activity within diverse religious traditions, supporting witness that is both faithful to Christian identity and genuinely respectful of religious others."
+        }
+      ]
+    },
+    {
+      "id": "5e",
+      "name": "Evangelism and Divine Invitation",
+      "parentId": "5",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "Open Theism offers distinctive approaches to evangelism that emphasize divine invitation to relationship rather than predetermined selection of individuals for salvation. This theological framework shapes evangelistic practices that respect human freedom while confidently proclaiming God's universal love and desire for reconciliation with all people. Rather than viewing evangelism as identifying those already selected, this approach emphasizes authentic invitation to participate in God's kingdom through genuine response to Christ. Evangelistic methods focus on clear proclamation and demonstration of God's character and purposes while respecting individual freedom to respond or reject this invitation. Practical approaches to evangelism shaped by Open Theist theology influence the content and methods of Christian witness while maintaining commitment to the uniqueness of Christ and the importance of explicit faith response."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,74 @@
+{
+    "items": [
+      {
+        "id": "1a",
+        "name": "Tarsila do Amaral",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A vibrant painting in the style of Tarsila do Amaral's Brazilian Modernist period. A dreamlike tropical landscape with simplified, voluptuous forms and exaggerated proportions that celebrate Brazil's natural abundance. The palette features the artist's distinctive use of warm, saturated colors—earthy reds, sunny oranges, vibrant greens, and cobalt blues—that capture the intensity of Brazilian light and vegetation. Stylized tropical fruits, cacti, and native flora are rendered with bold outlines and flattened perspective. Human figures with elongated limbs and simplified features represent Brazil's multicultural heritage. The composition balances geometric modernist principles with organic, folkloric elements, embodying the 'Anthropophagy' movement's goal of creating uniquely Brazilian art by consuming foreign influences and transforming them through local cultural traditions."
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "name": "Hélio Oiticica",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An immersive Tropicália installation by Hélio Oiticica from the late 1960s. A multi-sensory environment that combines vibrant color, texture, and found objects celebrating Brazilian popular culture while critiquing political oppression. The space features makeshift structures reminiscent of favela architecture with paths for viewers to walk through. Hanging fabric panels in bold tropical colors create semi-transparent divisions of space. Sand, water features, and live plants bring natural elements indoors, while repurposed everyday objects, from Coca-Cola bottles to transistor radios playing bossa nova, represent cultural hybridity. Brightly painted wooden structures with irregular geometric forms invite physical interaction, breaking down barriers between art and spectator. The overall aesthetic combines improvisation with sensual immediacy, rejecting European formalism in favor of what Oiticica called 'creleisure'—creative leisure that disrupts conventional art consumption through embodied experience."
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "name": "Lygia Clark",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A Neo-Concrete sculpture by Lygia Clark from her 'Bichos' (Creatures) series, 1960. A kinetic object composed of hinged, geometric metal plates in polished aluminum that can be manipulated by the viewer into various configurations. The sculpture consists of precisely cut geometric planes connected by hinges that allow for folding and repositioning, creating an organic yet mathematical form. Photographed on a neutral surface with dramatic lighting that emphasizes the reflective metallic surfaces and creates strong shadows emphasizing its three-dimensionality. The composition captures both a static position and suggests the potential for movement and transformation. This work represents Clark's breakthrough from traditional art object to participatory experience, challenging the boundary between creator and spectator while exploring the relationship between geometric form and organic movement—central concerns of Brazil's Neo-Concrete movement which rejected the rigidity of Concrete art in favor of phenomenological experience."
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "name": "Daiara Tukano",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A contemporary painting by Daiara Tukano that draws on indigenous Brazilian artistic traditions. A powerful composition featuring intricate geometric patterns in natural pigments of red, black, yellow ochre, and white derived from minerals and plants. The imagery incorporates Tucano cosmology with stylized representations of sacred animals and spirit beings rendered in a distinctive symmetrical style with meticulous precision. Concentric patterns and labyrinthine designs represent interconnectedness between humans and the natural world, while repeated motifs symbolize the rhythm of traditional chants. The composition balances ancestral symbolic language with contemporary political themes addressing environmental protection and indigenous rights. The work demonstrates the living tradition of indigenous Brazilian art while incorporating subtle references to modern art forms, creating a cultural bridge that asserts the continued relevance and evolution of native artistic expressions in contemporary Brazil."
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "name": "Eduardo Kobra",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A massive, photorealistic mural by Eduardo Kobra on the side of a São Paulo building. The striking street art features a portrait of an indigenous Brazilian elder rendered in Kobra's signature kaleidoscopic style with vibrant rainbow colors applied in geometric patterns over the hyperrealistic image. The elder's weathered face tells a story of ancestral wisdom and resilience, their penetrating gaze commanding attention from blocks away. The background incorporates elements of Brazilian heritage—fragments of folk patterns, native symbols, and subtle references to environmental destruction in the Amazon. Kobra's precise technique creates an optical effect where the image shifts between abstract pattern and photographic realism depending on viewing distance. The scale is monumental, transforming the urban landscape and turning a previously anonymous wall into a powerful statement about Brazilian identity and history. Bright sunlight interacts with the mural's kaleidoscopic colors, creating a vibrant presence that contrasts with the concrete surroundings of the bustling city."
+          }
+        ]
+      },
+      {
+        "id": "6a",
+        "name": "Frans Krajcberg",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A powerful landscape work by Frans Krajcberg that blurs the boundary between painting and sculpture. A large-scale piece incorporating charred wood and natural pigments harvested from the Brazilian rainforest, mounted on canvas. The composition documents environmental destruction while transforming its remnants into haunting beauty. Blackened branches extend three-dimensionally from the surface, creating dramatic shadows, while areas of intense red, orange, and earth-toned pigments evoke both forest fires and the rich minerality of Brazilian soil. The work captures the texture and complexity of the Amazon landscape through actual elements of the forest itself, arranged with both raw emotional power and formal sophistication. The perspective suggests both aerial and intimate views simultaneously, drawing the viewer into a visceral relationship with the threatened ecosystem. Krajcberg's politically charged environmental art creates a landscape that is both documentary evidence of ecological crime and transcendent expression of nature's enduring power despite human devastation."
+          }
+        ]
+      },
+      {
+        "id": "7a",
+        "name": "Adriana Varejão",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A contemporary painting by Adriana Varejão that explores Brazil's colonial past through technical virtuosity and conceptual complexity. A large-scale canvas that appears to be cracked open, revealing what looks like flesh and viscera beneath a surface of traditional Portuguese blue and white azulejo tiles. The meticulously hand-painted ceramic pattern features historical scenes that subtly subvert colonial narratives through anachronistic details and disturbing juxtapositions. The illusionistic ruptures in the surface, rendered with hyperrealistic precision, suggest violence beneath decorative façades—a metaphor for Brazil's complex cultural history. Varejão's masterful trompe l'oeil technique creates convincing three-dimensionality on the flat canvas. The color palette contrasts the cool blues of the tile pattern with the visceral reds and pinks of the exposed understructure. The composition balances formal elegance with conceptual brutality, creating a tension between surface beauty and historical trauma that characterizes much of contemporary Brazilian art's reckoning with colonial legacy."
+          }
+        ]
+      }
+    ]
+  }

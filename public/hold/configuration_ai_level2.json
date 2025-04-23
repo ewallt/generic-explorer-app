@@ -1,0 +1,184 @@
+{
+    "items": [
+      {
+        "id": "1a",
+        "name": "Attention Is All You Need",
+        "sectionProperties": ["title", "content", "keyPoints"],
+        "sections": [
+          {
+            "title": "Overview",
+            "content": "Published in 2017 by Vaswani et al., this seminal paper introduced the Transformer architecture, which revolutionized natural language processing by eliminating the need for recurrent or convolutional layers in sequence processing. Instead, it relies entirely on attention mechanisms to model relationships between all words in a sentence, regardless of their respective positions."
+          },
+          {
+            "title": "Key Innovations",
+            "content": "The paper introduced several groundbreaking concepts: multi-head self-attention which allows the model to focus on different positions and representation subspaces; positional encodings to retain sequence order information; and a parallel training approach that dramatically reduced training time compared to RNNs."
+          },
+          {
+            "title": "Impact",
+            "content": "This architecture forms the foundation of virtually all modern language models including BERT, GPT, T5, and their successors. It enabled significant advances in machine translation, text generation, and a wide range of NLP tasks.",
+            "keyPoints": "Enabled parallel processing, better handling of long-range dependencies, and established the foundation for transfer learning in NLP."
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "name": "BERT",
+        "sectionProperties": ["title", "content", "keyPoints"],
+        "sections": [
+          {
+            "title": "Overview",
+            "content": "BERT (Bidirectional Encoder Representations from Transformers) was introduced by Google AI in 2018. It fundamentally changed how machines understand human language by using bidirectional training of the Transformer architecture, allowing it to learn from the entire context of a word rather than just the words that come before it."
+          },
+          {
+            "title": "Pre-training & Fine-tuning",
+            "content": "BERT introduced a novel pre-training approach using two tasks: Masked Language Modeling (MLM), where random words are masked and the model must predict them; and Next Sentence Prediction (NSP), where the model learns to understand relationships between sentences. After pre-training, BERT can be fine-tuned for specific tasks with minimal additional parameters."
+          },
+          {
+            "title": "Applications",
+            "content": "BERT dramatically improved performance on numerous NLP benchmarks including question answering, sentiment analysis, and language inference. Its ability to understand context and nuance made it particularly effective for tasks requiring deep language comprehension.",
+            "keyPoints": "Demonstrated the power of transfer learning in NLP, showed that bidirectional context is crucial for language understanding, and established a new paradigm for language model architecture."
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "name": "GPT Models",
+        "sectionProperties": ["title", "content", "keyPoints"],
+        "sections": [
+          {
+            "title": "Evolution",
+            "content": "The Generative Pre-trained Transformer (GPT) family, developed by OpenAI, represents the progression of autoregressive language models based on the decoder portion of the Transformer architecture. Beginning with GPT-1 in 2018, each iteration has dramatically scaled up parameters and training data, leading to increasingly capable language models."
+          },
+          {
+            "title": "Architecture Principles",
+            "content": "Unlike BERT's bidirectional approach, GPT models are unidirectional, predicting the next token based on all previous tokens. This makes them particularly well-suited for generative tasks. They use a decoder-only transformer architecture with masked self-attention to prevent the model from seeing future tokens during training."
+          },
+          {
+            "title": "Scaling Properties",
+            "content": "GPT models demonstrated that scaling up parameters, data, and compute leads to emergent capabilities not present in smaller models. GPT-3 (175B parameters) showed abilities like few-shot learning, while GPT-4 exhibited even more sophisticated reasoning and knowledge.",
+            "keyPoints": "Revealed that scale leads to emergent capabilities, established the foundation for general-purpose AI assistants, and demonstrated that language models can perform tasks they weren't explicitly trained for."
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "name": "Convolutional Neural Networks",
+        "sectionProperties": ["title", "content", "keyPoints"],
+        "sections": [
+          {
+            "title": "Foundations",
+            "content": "Convolutional Neural Networks (CNNs) are specialized neural networks designed primarily for processing structured grid data like images. Inspired by the visual cortex of animals, CNNs use convolutional layers that apply filters across the input data, detecting features regardless of their position."
+          },
+          {
+            "title": "Architecture Components",
+            "content": "Key components include convolutional layers that detect local patterns; pooling layers that reduce dimensionality while preserving important features; and fully connected layers that perform high-level reasoning. Modern CNNs often incorporate batch normalization, residual connections, and advanced activation functions."
+          },
+          {
+            "title": "Evolution & Impact",
+            "content": "From LeNet-5 in the 1990s to modern architectures like ResNet and EfficientNet, CNNs have revolutionized computer vision. They power applications ranging from facial recognition and medical imaging to autonomous vehicles and augmented reality.",
+            "keyPoints": "Enabled machines to understand visual data with human-like capabilities, established hierarchical feature learning as a powerful paradigm, and demonstrated the importance of architectural innovations in neural networks."
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "name": "Recurrent Neural Networks",
+        "sectionProperties": ["title", "content", "keyPoints"],
+        "sections": [
+          {
+            "title": "Sequential Processing",
+            "content": "Recurrent Neural Networks (RNNs) are designed to recognize patterns in sequential data by maintaining an internal state (memory) that captures information from previous inputs. This makes them well-suited for tasks involving time series, text, or any data where order matters."
+          },
+          {
+            "title": "Advanced Architectures",
+            "content": "Basic RNNs suffer from vanishing/exploding gradient problems when processing long sequences. Advanced architectures like Long Short-Term Memory (LSTM) and Gated Recurrent Unit (GRU) networks introduced gating mechanisms to better control information flow, allowing the networks to capture long-range dependencies."
+          },
+          {
+            "title": "Applications & Legacy",
+            "content": "Before Transformers, RNNs were the dominant architecture for NLP tasks, machine translation, speech recognition, and time series prediction. While largely superseded by Transformers for many language tasks, RNNs and their variants remain valuable for specific sequential processing applications.",
+            "keyPoints": "Established sequential processing paradigms in deep learning, demonstrated the importance of maintaining state in sequential tasks, and led to innovations in controlling information flow through neural architectures."
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "name": "Graph Neural Networks",
+        "sectionProperties": ["title", "content", "keyPoints"],
+        "sections": [
+          {
+            "title": "Beyond Grids and Sequences",
+            "content": "Graph Neural Networks (GNNs) extend deep learning to graph-structured data, where relationships between entities are explicit and important. Instead of operating on regular grids (like CNNs) or sequences (like RNNs), GNNs can process data with arbitrary relational structure."
+          },
+          {
+            "title": "Message Passing Framework",
+            "content": "Most GNNs operate on a message passing principle, where nodes iteratively update their representations by aggregating information from their neighbors. This allows information to propagate across the graph, capturing both local patterns and global structure."
+          },
+          {
+            "title": "Real-world Applications",
+            "content": "GNNs have found applications in molecular property prediction, drug discovery, recommender systems, traffic forecasting, social network analysis, and physics simulations. They excel at tasks where relationships between entities provide crucial information.",
+            "keyPoints": "Extended deep learning to irregular data structures, provided a foundation for reasoning about relational data, and bridged the gap between traditional graph algorithms and modern neural networks."
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "name": "Q-Learning",
+        "sectionProperties": ["title", "content", "keyPoints"],
+        "sections": [
+          {
+            "title": "Value-Based Learning",
+            "content": "Q-Learning is a foundational value-based reinforcement learning algorithm that learns to make decisions by estimating the value (specifically, the Q-value) of taking actions in different states. It's an off-policy algorithm, meaning it can learn from actions not taken by its current policy."
+          },
+          {
+            "title": "The Q-Learning Update Rule",
+            "content": "Q-Learning uses a temporal difference approach to update estimates: Q(s,a) ← Q(s,a) + α[r + γ·max Q(s',a') - Q(s,a)]. This allows the agent to bootstrap its learning, using estimates of future rewards to update current value estimates without requiring a complete model of the environment."
+          },
+          {
+            "title": "From Tabular to Deep Q-Networks",
+            "content": "Traditional Q-Learning uses a table to store Q-values for each state-action pair, making it impractical for large state spaces. Deep Q-Networks (DQN) extended Q-Learning by using neural networks as function approximators, enabling applications to complex problems like Atari games.",
+            "keyPoints": "Demonstrated how agents can learn optimal policies without a model of the environment, established value estimation as a fundamental approach to decision-making, and provided the foundation for more advanced value-based methods."
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "name": "Policy Gradient Methods",
+        "sectionProperties": ["title", "content", "keyPoints"],
+        "sections": [
+          {
+            "title": "Direct Policy Optimization",
+            "content": "Unlike value-based methods, policy gradient algorithms directly optimize the policy function that maps states to actions. They work by estimating the gradient of expected rewards with respect to the policy parameters, then updating the parameters in the direction that increases expected rewards."
+          },
+          {
+            "title": "Key Algorithms",
+            "content": "REINFORCE is the most basic policy gradient algorithm, which suffers from high variance. Advanced methods like Proximal Policy Optimization (PPO) and Trust Region Policy Optimization (TRPO) incorporate mechanisms to stabilize training while allowing for larger policy updates, making them more sample-efficient and reliable."
+          },
+          {
+            "title": "Advantages & Applications",
+            "content": "Policy gradient methods excel in continuous action spaces and stochastic policies. They've been successfully applied to robotic control, game playing, natural language generation, and resource management problems. They're often preferred in cases where the optimal policy is easier to approximate than the optimal value function.",
+            "keyPoints": "Enabled learning in continuous action spaces, provided a direct approach to policy optimization, and formed the basis for many state-of-the-art reinforcement learning systems."
+          }
+        ]
+      },
+      {
+        "id": "3c",
+        "name": "AlphaGo & AlphaZero",
+        "sectionProperties": ["title", "content", "keyPoints"],
+        "sections": [
+          {
+            "title": "Milestone Achievements",
+            "content": "AlphaGo, developed by DeepMind, became the first computer program to defeat a world champion at the game of Go in 2016. Its successor, AlphaZero, generalized the approach to master chess, shogi, and Go from scratch, without human data, surpassing all previous specialized systems."
+          },
+          {
+            "title": "Technical Innovations",
+            "content": "These systems combined deep neural networks with Monte Carlo Tree Search (MCTS), using reinforcement learning to train both policy networks (which suggest promising moves) and value networks (which evaluate positions). AlphaZero simplified the approach by learning entirely through self-play, without human examples or hand-crafted features."
+          },
+          {
+            "title": "Scientific Impact",
+            "content": "Beyond their achievements in games, these systems demonstrated how reinforcement learning could solve problems previously thought to require human intuition. They've influenced approaches to protein folding (AlphaFold), theorem proving, scientific discovery, and general-purpose AI research.",
+            "keyPoints": "Demonstrated superhuman performance in complex games with vast state spaces, showed how neural networks and search algorithms can be combined effectively, and established self-play as a powerful training paradigm."
+          }
+        ]
+      }
+    ]
+  }

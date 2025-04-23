@@ -1,0 +1,74 @@
+{
+    "items": [
+      {
+        "id": "1a",
+        "name": "Jacques-Émile Ruhlmann",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A luxurious French Art Deco interior designed by Jacques-Émile Ruhlmann from the 1920s. An elegant living room featuring his signature ebony furniture with ivory inlays and exotic macassar wood veneers. The centerpiece is a round table with tapering geometric legs and brass accents, surrounded by curvaceous armchairs upholstered in rich silk velvet. A symmetrical composition with meticulous attention to materials—rare woods, shagreen, lacquer, and mother-of-pearl details. The color palette combines warm ambers, deep burgundies, and cream tones, illuminated by alabaster wall sconces with geometric bronze fittings. Lavish yet restrained, showcasing the perfect harmony of craftsmanship and refined luxury that defined high French Art Deco."
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "name": "Donald Deskey",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An American Art Deco interior by Donald Deskey for Radio City Music Hall, 1932. A grand foyer space featuring sleek aluminum railings, bakelite details, and bold geometric patterns executed in vibrant contrasting materials. Walls showcase dramatic murals with stylized industrial motifs in chrome, vermilion, and deep blue tones. Striking aluminum-framed mirrors reflect custom light fixtures with frosted glass panels in strong angular forms. The furniture combines industrial materials with luxurious upholstery—tubular steel chairs with machine-age aesthetics but comfortable velvet cushions. Floor patterns of terrazzo create bold zigzags and sunburst designs, epitomizing American Art Deco's marriage of industrial efficiency with theatrical glamour. The space balances optimistic futurism with practical functionality characteristic of Depression-era American design."
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "name": "Raymond Loewy",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A Streamline Moderne transportation design by Raymond Loewy from the late 1930s. A sleek, aerodynamic passenger train with a bullet-shaped locomotive featuring horizontal speed lines and minimal ornamentation. The exterior in polished stainless steel with deep blue accents reflects the surrounding landscape as it appears to cut through space effortlessly. Rounded corners, recessed rivets, and curved glass windscreens emphasize the principles of streamlining derived from aerodynamics research. Every element serves both functional and aesthetic purposes with flush surfaces that reduce visual clutter and air resistance. The design embodies the clean, efficient movement associated with Streamline Moderne, where the form suggests motion even at rest, representing America's faith in technological progress and speed as the path to a better future."
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "name": "William Van Alen",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An Art Deco architectural masterpiece by William Van Alen—the Chrysler Building illuminated at dusk against a deep blue Manhattan sky. The iconic crown features seven radiating terraced arches of stainless steel with triangular windows that create a sunburst pattern. The distinctive gargoyles modeled after Chrysler automobile hood ornaments project from the 61st floor, while the façade showcases brick patterns arranged in geometric designs that rise to the gleaming metal top. The building's distinctive silhouette stands proud on the New York skyline, its metallic crown catching the last golden rays of sunset while the lower portions begin to illuminate from within. Eagle heads protrude from the corners, and the distinctive hub-cap designs and abstracted automobile motifs celebrate both the client and the machine age. This temple of commerce exemplifies Art Deco architecture's ability to merge modern materials with decorative craftsmanship in a vertical monument to ambition and technological progress."
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "name": "A.M. Cassandre",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An Art Deco travel poster by A.M. Cassandre from the 1930s. Bold, geometric composition promoting ocean liner travel to America with the dramatic perspective of a massive ship's bow cutting through stylized waves. The poster employs a limited color palette of deep blue, black, red, and cream that creates striking contrast. Typography is integrated seamlessly into the design with sans-serif letters arranged in perfect alignment with the visual elements. Cassandre's masterful use of airbrush technique creates smooth gradients that suggest three-dimensionality while maintaining graphic simplicity. Strong diagonal lines create dynamic energy, while the exaggerated scale of the ship conveys power and technological might. The entire composition achieves perfect balance between commercial messaging and artistic expression, embodying the machine-age aesthetics and optimistic spirit of Art Deco graphic design at its height."
+          }
+        ]
+      },
+      {
+        "id": "6a",
+        "name": "Erté (Romain de Tirtoff)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An Art Deco fashion illustration by Erté for Harper's Bazaar, 1925. A statuesque female figure in an evening ensemble of geometric-patterned silver lamé and black velvet, posed dramatically against a midnight blue background with stylized silver stars. The gown features precise angular cuts with asymmetrical hemlines and bold structural elements including an exaggerated collar that frames the elongated neck. The model wears a close-fitting cloche hat with feather accents and carries a highly decorative fan with peacock motifs. Egyptian-inspired jewelry in onyx and diamond incorporates zigzag and sunburst patterns. Erté's distinctive linear quality and flattened perspective create a silhouette of impossible elegance, with exaggerated proportions that emphasize style over naturalism. Delicate hands with elongated fingers complete the look of sophisticated theatricality that defined Erté's vision of feminine elegance during the height of Art Deco fashion."
+          }
+        ]
+      },
+      {
+        "id": "7a",
+        "name": "Henry Hohauser",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A Tropical Art Deco hotel designed by Henry Hohauser on Miami's South Beach, photographed at sunset. The three-story structure features a symmetrical façade with stepped elements and a central tower that rises above the roofline with the hotel name in neon letters. The exterior is finished in stucco painted in pale aqua with coral pink and sunshine yellow accent trim around windows and along decorative horizontal racing stripes. Porthole windows and metal railings with ship-inspired details reference nautical themes, while eyebrows (curved overhangs) shade the windows from the tropical sun. Neon lighting begins to glow as dusk approaches, outlining the building's distinctive geometric features. Royal palm trees frame the entrance where a terrazzo floor features an abstract marine pattern. The building exemplifies Miami's unique tropical interpretation of Art Deco, combining architectural modernism with playful colors and motifs that celebrate the beachfront setting and vacation atmosphere."
+          }
+        ]
+      }
+    ]
+  }

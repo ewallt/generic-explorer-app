@@ -1,0 +1,35 @@
+{
+    "appTitle": "Mexican Art Styles Explorer for Midjourney",
+    "firstLevelLabel": "Style",
+    "secondLevelLabel": "Artist",
+    "items": [
+      {
+        "id": "1",
+        "name": "Mexican Muralism"
+      },
+      {
+        "id": "2",
+        "name": "Surrealism in Mexico"
+      },
+      {
+        "id": "3",
+        "name": "Folk Art & Craft"
+      },
+      {
+        "id": "4",
+        "name": "Indigenismo"
+      },
+      {
+        "id": "5",
+        "name": "Neomexicanismo"
+      },
+      {
+        "id": "6",
+        "name": "Mexican Photography"
+      },
+      {
+        "id": "7",
+        "name": "Contemporary Mexican Art"
+      }
+    ]
+  }

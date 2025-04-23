@@ -1,0 +1,39 @@
+{
+  "appTitle": "Art Style Explorer for Midjourney",
+  "firstLevelLabel": "Category",
+  "secondLevelLabel": "Artist",
+  "items": [
+    {
+      "id": "1",
+      "name": "Street Photography"
+    },
+    {
+      "id": "2",
+      "name": "Portrait Photography"
+    },
+    {
+      "id": "3",
+      "name": "Impressionism"
+    },
+    {
+      "id": "4",
+      "name": "Post-Impressionism"
+    },
+    {
+      "id": "5",
+      "name": "Architecture"
+    },
+    {
+      "id": "6",
+      "name": "Fashion Design"
+    },
+    {
+      "id": "7",
+      "name": "Global Cuisine"
+    },
+    {
+      "id": "8",
+      "name": "Travel Destinations"
+    }
+  ]
+}

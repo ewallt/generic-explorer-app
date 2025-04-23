@@ -1,0 +1,40 @@
+{
+  "apps": [
+    {
+      "id": "midjourney_standard_styles",
+      "name": "Midjourney Standard Styles Prompt Generator",
+      "level1Config": "/data/configuration_mj_standard_styles_level1.json",
+      "level2Config": "/data/configuration_mj_standard_styles_level2.json"
+    },
+    {
+      "id": "impressionism_related_styles",
+      "name": "Impressionism & Related Styles Prompt Generator",
+      "level1Config": "/data/configuration_mj_impressionism_related_styles_level1.json",
+      "level2Config": "/data/configuration_mj_impressionism_related_styles_level2.json"
+    },
+    {
+      "id": "art_deco_styles",
+      "name": "Art Deco Styles Prompt Generator",
+      "level1Config": "/data/configuration_mj_art_deco_styles_level1.json",
+      "level2Config": "/data/configuration_mj_art_deco_styles_level2.json"
+    },
+    {
+      "id": "brazilian_art_styles",
+      "name": "Brazilian Art Styles Prompt Generator",
+      "level1Config": "/data/configuration_mj_brazilian_art_styles_level1.json",
+      "level2Config": "/data/configuration_mj_brazilian_art_styles_level2.json"
+    },
+    {
+      "id": "mexican_art_styles",
+      "name": "Mexican Art Styles Prompt Generator",
+      "level1Config": "/data/configuration_mj_mexican_art_styles_level1.json",
+      "level2Config": "/data/configuration_mj_mexican_art_styles_level2.json"
+    },
+    {
+      "id": "japanese_art_styles",
+      "name": "Japanese Art Styles Prompt Generator",
+      "level1Config": "/data/configuration_mj_japanese_art_styles_level1.json",
+      "level2Config": "/data/configuration_mj_japanese_art_styles_level2.json"
+    }
+  ]
+}

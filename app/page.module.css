@@ -1,168 +1,196 @@
-.page {
-  --gray-rgb: 0, 0, 0;
-  --gray-alpha-200: rgba(var(--gray-rgb), 0.08);
-  --gray-alpha-100: rgba(var(--gray-rgb), 0.05);
-
-  --button-primary-hover: #383838;
-  --button-secondary-hover: #f2f2f2;
-
-  display: grid;
-  grid-template-rows: 20px 1fr 20px;
-  align-items: center;
-  justify-items: center;
-  min-height: 100svh;
-  padding: 80px;
-  gap: 64px;
-  font-family: var(--font-geist-sans);
-}
-
-@media (prefers-color-scheme: dark) {
-  .page {
-    --gray-rgb: 255, 255, 255;
-    --gray-alpha-200: rgba(var(--gray-rgb), 0.145);
-    --gray-alpha-100: rgba(var(--gray-rgb), 0.06);
-
-    --button-primary-hover: #ccc;
-    --button-secondary-hover: #1a1a1a;
-  }
-}
-
-.main {
+.container {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  line-height: 1.6;
+  margin: 0 auto;
+  padding: 30px;
+  max-width: 900px;
   display: flex;
   flex-direction: column;
-  gap: 32px;
-  grid-row-start: 2;
+  gap: 25px;
+  color: #333;
+  background-color: #fff;
 }
 
-.main ol {
-  font-family: var(--font-geist-mono);
-  padding-left: 0;
-  margin: 0;
-  font-size: 14px;
-  line-height: 24px;
-  letter-spacing: -0.01em;
-  list-style-position: inside;
+.container h1 {
+  font-size: 2.2rem;
+  color: #2c3e50;
+  margin-bottom: 5px;
+  font-weight: 600;
+  border-bottom: 3px solid #3498db;
+  padding-bottom: 10px;
+  width: fit-content;
 }
 
-.main li:not(:last-of-type) {
-  margin-bottom: 8px;
+.controls {
+  display: flex;
+  gap: 20px;
+  align-items: flex-end;
+  flex-wrap: nowrap;
+  background-color: #f8f9fa;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05);
 }
 
-.main code {
-  font-family: inherit;
-  background: var(--gray-alpha-100);
-  padding: 2px 4px;
-  border-radius: 4px;
+.controls div {
+  display: flex;
+  flex-direction: column;
+  gap: 8px;
+  flex: 0 1 auto;
+}
+
+.controls label {
+  font-weight: 600;
+  color: #2c3e50;
+  font-size: 1rem;
+}
+
+.controls select {
+  padding: 10px 12px;
+  border-radius: 6px;
+  border: 1px solid #ddd;
+  min-width: 255px;
+  width: fit-content;
+  max-width: 255px;
+  font-size: 1rem;
+  background-color: white;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.05);
+  transition: all 0.2s ease;
+}
+
+.controls select:hover {
+  border-color: #3498db;
+}
+
+.controls select:focus {
+  outline: none;
+  border-color: #3498db;
+  box-shadow: 0 0 0 2px rgba(52, 152, 219, 0.2);
+}
+
+.controls select:disabled {
+  background-color: #f5f5f5;
+  cursor: not-allowed;
+  opacity: 0.7;
+}
+
+.contentArea {
+  background-color: #fff;
+  padding: 25px;
+  min-height: 300px;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.08);
+  border-top: 4px solid #3498db;
+  white-space: pre-line;
+}
+
+.contentArea p {
+  color: #666;
+  font-size: 1.05rem;
+}
+
+.error {
+  color: #e74c3c;
+  background-color: #fdf2f2;
+  padding: 15px;
+  border-radius: 8px;
+  border-left: 5px solid #e74c3c;
   font-weight: 600;
 }
 
-.ctas {
-  display: flex;
-  gap: 16px;
+.itemDetails h2 {
+  margin-top: 0;
+  font-size: 1.8rem;
+  color: #2c3e50;
+  border-bottom: 2px solid #3498db;
+  padding-bottom: 10px;
+  margin-bottom: 20px;
 }
 
-.ctas a {
-  appearance: none;
-  border-radius: 128px;
-  height: 48px;
-  padding: 0 20px;
-  border: none;
-  border: 1px solid transparent;
-  transition:
-    background 0.2s,
-    color 0.2s,
-    border-color 0.2s;
-  cursor: pointer;
-  display: flex;
-  align-items: center;
-  justify-content: center;
-  font-size: 16px;
-  line-height: 20px;
-  font-weight: 500;
+.section {
+  margin-bottom: 25px;
+  padding-bottom: 15px;
+  border-bottom: 1px solid #eee;
 }
 
-a.primary {
-  background: var(--foreground);
-  color: var(--background);
-  gap: 8px;
+.section:last-child {
+  border-bottom: none;
 }
 
-a.secondary {
-  border-color: var(--gray-alpha-200);
-  min-width: 158px;
+.section h3 {
+  color: #2c3e50;
+  margin-bottom: 12px;
+  font-size: 0.95rem;
+  font-weight: 600;
 }
 
-.footer {
-  grid-row-start: 3;
-  display: flex;
-  gap: 24px;
+.section p {
+  font-size: 1.05rem;
+  line-height: 1.7;
+  color: #444;
 }
 
-.footer a {
-  display: flex;
-  align-items: center;
-  gap: 8px;
+.bulletPoints {
+  background-color: #f8f9fa;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 15px;
+  font-size: 1rem;
+  border-left: 4px solid #3498db;
+  white-space: pre-line; /* Makes newlines in the text display as line breaks */
 }
 
-.footer img {
-  flex-shrink: 0;
+.notes {
+  background-color: #f1f9fe;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 15px;
+  font-size: 1rem;
+  border-left: 4px solid #3498db;
 }
 
-/* Enable hover only on non-touch devices */
-@media (hover: hover) and (pointer: fine) {
-  a.primary:hover {
-    background: var(--button-primary-hover);
-    border-color: transparent;
+.tips {
+  background-color: #f1f9fe;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 15px;
+  font-size: 1rem;
+  border-left: 4px solid #3498db;
+}
+
+@media (max-width: 768px) {
+  .container {
+    padding: 15px;
   }
-
-  a.secondary:hover {
-    background: var(--button-secondary-hover);
-    border-color: transparent;
-  }
-
-  .footer a:hover {
-    text-decoration: underline;
-    text-underline-offset: 4px;
-  }
-}
-
-@media (max-width: 600px) {
-  .page {
-    padding: 32px;
-    padding-bottom: 80px;
-  }
-
-  .main {
-    align-items: center;
-  }
-
-  .main ol {
-    text-align: center;
-  }
-
-  .ctas {
+  
+  .controls {
     flex-direction: column;
+    align-items: stretch;
   }
+  
+  .controls select {
+    min-width: 100%;
+  }
+}
 
-  .ctas a {
-    font-size: 14px;
-    height: 40px;
-    padding: 0 16px;
-  }
-
-  a.secondary {
-    min-width: auto;
-  }
-
-  .footer {
-    flex-wrap: wrap;
-    align-items: center;
-    justify-content: center;
-  }
+/* Dark mode fixes - blue-themed styling */
+.controls select {
+  color: #333; /* Dark text for light background */
 }
 
 @media (prefers-color-scheme: dark) {
-  .logo {
-    filter: invert();
+  .controls select {
+    background-color: #1a2a3a; /* Dark blue-tinted background */
+    color: #e0e6f0; /* Light blue-tinted text */
+    border-color: #3498db; /* Match the blue accent color */
+  }
+  
+  .controls select option {
+    background-color: #1a2a3a;
+    color: #e0e6f0;
+  }
+  
+  .controls select:hover {
+    border-color: #5aafff; /* Lighter blue on hover */
   }
 }

@@ -1,0 +1,59 @@
+{
+  "parentId": "1",
+  "items": [
+    { 
+      "id": "1a", 
+      "name": "Passage Text",
+      "sectionProperties": ["fullText", "context"],
+      "sections": [
+        {
+          "fullText": "And the LORD said to Moses, 'Go down, for your people, whom you brought up out of the land of Egypt, have corrupted themselves. They have turned aside quickly out of the way that I commanded them. They have made for themselves a golden calf and have worshiped it and sacrificed to it and said, \"These are your gods, O Israel, who brought you up out of the land of Egypt!\"' And the LORD said to Moses, 'I have seen this people, and behold, it is a stiff-necked people. Now therefore let me alone, that my wrath may burn hot against them and I may consume them, in order that I may make a great nation of you.' But Moses implored the LORD his God and said, 'O LORD, why does your wrath burn hot against your people, whom you have brought out of the land of Egypt with great power and with a mighty hand? Why should the Egyptians say, \"With evil intent did he bring them out, to kill them in the mountains and to consume them from the face of the earth\"? Turn from your burning anger and relent from this disaster against your people. Remember Abraham, Isaac, and Israel, your servants, to whom you swore by your own self, and said to them, \"I will multiply your offspring as the stars of heaven, and all this land that I have promised I will give to your offspring, and they shall inherit it forever.\"' And the LORD relented from the disaster that he had spoken of bringing on his people.",
+          "context": "This passage occurs in Exodus 32 after the people of Israel, growing impatient with Moses' absence on Mount Sinai, convince Aaron to make a golden calf as an idol. While Moses is still on the mountain receiving the Law, God tells Moses what the people have done and expresses His intention to destroy them. The passage captures the dialogue between God and Moses, culminating in God's decision to relent from the disaster He had planned."
+        }
+      ]
+    },
+    { 
+      "id": "1b", 
+      "name": "Open Theist Interpretation",
+      "sectionProperties": ["description", "bulletPoints"],
+      "sections": [
+        {
+          "description": "\"And the LORD relented from the disaster that he had spoken of bringing on his people.\" Open Theists view this passage as a clear demonstration that God genuinely changes His mind in response to Moses' intercession. They emphasize that the text explicitly states that 'the LORD relented' (or 'changed His mind' in some translations) from the disaster He had planned. This supports the Open Theist view that God's plans are not entirely fixed and that human prayers and actions can influence divine decisions.",
+          "bulletPoints": "• The text uses clear language of God changing His stated intention\n• Moses' intercession had real causal effect on God's decision\n• God's willingness to change plans shows genuine relational interaction\n• The passage makes little sense if God had predetermined to spare Israel all along\n• This demonstrates that at least some of God's intentions are conditional"
+        }
+      ]
+    },
+    { 
+      "id": "1c", 
+      "name": "Linguistic Analysis",
+      "sectionProperties": ["description"],
+      "sections": [
+        {
+          "description": "\"And the LORD relented from the disaster that he had spoken of bringing on his people.\" The Hebrew word translated as 'relented' or 'changed His mind' is נָחַם (nacham), which carries connotations of regret, comfort, or a change in disposition. The same word appears in other passages where God is said to 'regret' certain actions (Genesis 6:6, 1 Samuel 15:11, 35). While some argue this is merely anthropomorphic language, Open Theists note that the text gives no indication that this description of God's change should not be taken at face value. The frequency and consistency with which the Bible uses such language suggests that it reveals something authentic about God's nature and relationship with humans."
+        }
+      ]
+    },
+    { 
+      "id": "1d", 
+      "name": "Theological Implications",
+      "sectionProperties": ["description", "bulletPoints"],
+      "sections": [
+        {
+          "description": "\"And the LORD relented from the disaster that he had spoken of bringing on his people.\" This passage has profound implications for understanding divine-human interaction, particularly regarding prayer. If God genuinely changed His mind in response to Moses' plea, then intercessory prayer has real power to affect divine action. This suggests a collaborative relationship between God and humans in shaping the future, rather than a predetermined script that prayer merely aligns us with.",
+          "bulletPoints": "• Prayer becomes genuinely efficacious, not just psychologically beneficial\n• God's sovereignty includes the freedom to respond to human input\n• Divine-human relationship is authentically interactive\n• God values human participation in the unfolding of history\n• God's emotions and responses to human actions are real, not mere anthropomorphisms"
+        }
+      ]
+    },
+    { 
+      "id": "1e", 
+      "name": "Common Objections",
+      "sectionProperties": ["description", "bulletPoints"],
+      "sections": [
+        {
+          "description": "\"And the LORD relented from the disaster that he had spoken of bringing on his people.\" Classical theists offer several alternative interpretations of this passage to maintain God's immutability and exhaustive foreknowledge. These include viewing God's 'change of mind' as anthropomorphic language, suggesting that God's statements to Moses were conditional threats, or arguing that God's 'relenting' was part of His eternal plan all along.",
+          "bulletPoints": "• The anthropomorphic view tends to downplay the plain meaning of the text\n• If God knew He would spare Israel all along, His threat to destroy them could be seen as deceptive\n• The conditional interpretation still acknowledges that God responds to human actions\n• The frequency of such passages throughout Scripture suggests they reveal God's actual nature\n• Moses' intercession only makes sense if he believed God's mind could genuinely be changed"
+        }
+      ]
+    }
+  ]
+}

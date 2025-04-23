@@ -1,0 +1,35 @@
+{
+    "appTitle": "Art Deco Styles Explorer for Midjourney",
+    "firstLevelLabel": "Style",
+    "secondLevelLabel": "Designer/Artist",
+    "items": [
+      {
+        "id": "1",
+        "name": "French Art Deco"
+      },
+      {
+        "id": "2",
+        "name": "American Art Deco"
+      },
+      {
+        "id": "3",
+        "name": "Streamline Moderne"
+      },
+      {
+        "id": "4",
+        "name": "Art Deco Architecture"
+      },
+      {
+        "id": "5",
+        "name": "Art Deco Graphic Design"
+      },
+      {
+        "id": "6",
+        "name": "Art Deco Fashion & Jewelry"
+      },
+      {
+        "id": "7",
+        "name": "Tropical/Miami Art Deco"
+      }
+    ]
+  }

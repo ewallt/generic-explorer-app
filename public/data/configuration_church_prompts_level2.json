@@ -1,0 +1,82 @@
+{
+    "items": [
+      {
+        "id": "1a",
+        "name": "Prompt for 5 paragraph essay",
+        "sectionProperties": ["title", "content", "tips"],
+        "sections": [
+          {
+            "title": "Prompt",
+            "content": "Write an essay on a parable which focusses on these five things: 1. Context 2. Tension 3. Insight 4. Trivia (an interesting tidbit) 5. Application, one paragraph for each thing. Ask the User for it if not already provided. Please execute the above prompt.",
+            "tips": "This prompt is designed to work for a cross section of ideas, such a psalm, a Bible passage, a character study, and others. Simply replace the given idea for 'parable'."
+          }
+        ]
+      },
+
+      {
+        "id": "1b",
+        "name": "Prompt for 7-paragraph doctrinal essay",
+        "sectionProperties": ["title", "content", "tips"],
+        "sections": [
+          {
+            "title": "Prompt",
+            "content": "Write a seven-paragraph essay for churchgoers on a specific doctrinal question using this structure: Paragraph 1 on the core issue, paragraphs 2 and 3 on historical development, 4 on Bible Anchoring, 5 and 6 on Interpretative Tension, 7 conclusion, including practical implications. Ask the User for the issue if not provided.",
+            "tips": "This prompt helps users explore a theological topic in a structured way that combines historical background, biblical reflection, and personal relevance. Ideal for topics like the Trinity, justification by faith, or the Sabbath."
+          }
+        ]
+      },      
+          
+      {
+        "id": "2a",
+        "name": "Exegetical Verse Analysis",
+        "sectionProperties": ["title", "content", "tips"],
+        "sections": [
+          {
+            "title": "Prompt",
+            "content": "Provide a detailed exegetical analysis of a given New Testament verse in Greek, or Old Testament in Hebrew/Aramaic.\n\nPresent the verse(s) in its original text, followed by a structured parsing of each word, including grammatical category and meaning. Provide a literal translation that reflects the original word order, followed by a more natural English translation. Offer theological and exegetical insights, highlighting key terms, structural features, and interpretive challenges. If relevant, discuss parallelism, prepositional usage, and theological implications. Conclude with a summary of the verse’s significance within its immediate and broader biblical context.\n\nAsk the User for what Bible text they would like the analysis of if they did not already give you the text before giving you this prompt.",
+            "tips": "This prompt provides detailed exegetical analysis of a Bible verse in its original language (Greek or Hebrew/Aramaic), including grammatical parsing, literal and natural translations, and theological insights. Ideal for Bible students, pastors, or anyone seeking a deep understanding of a specific verse."
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "name": "Two-Sided Doctrinal Analysis",
+        "sectionProperties": ["title", "content", "tips"],
+        "sections": [
+          {
+            "title": "Prompt",
+            "content": "Write a detailed, multi-paragraph theological analysis of a disputed doctrine within Christianity. Begin with a one-paragraph introduction that clearly defines the doctrinal issue and explains its relevance. Then present two extended arguments—one in favor, one against—each grounded in biblical exegesis, historical interpretation, and theological reasoning.\n\nFor each side:\n- Highlight key biblical texts and original language insights (Greek or Hebrew as appropriate), focusing only on words or phrases essential to the argument.\n- Explain how the theological viewpoint interprets these passages and addresses apparent tensions.\n- Include both theological rationale and pastoral implications.\n\nDo not include a conclusion or final verdict—let the arguments stand side by side for the reader to reflect on.\n\nAsk the User for the theologically disputed point if not already provided.",
+            "tips": "Use this prompt when you want a balanced, in-depth comparison of two theological viewpoints. It’s helpful for studying controversial doctrines or preparing materials for classes, study groups, or sermons that aim to be fair and thoughtful."
+          }
+        ]
+      },      
+      {
+        "id": "2c",
+        "name": "Interactive Bible Study Explorer",
+        "sectionProperties": ["title", "content", "tips"],
+        "sections": [
+          {
+            "title": "Prompt",
+            "content": "You are an interactive, hierarchical Bible study guide for Seventh-day Adventists. Begin by asking the user what biblical subject they would like to explore—for example, this can be a theme, person, book, chapter, passage, or doctrine. Once the user provides a subject, dynamically construct a main menu of broad categories related to that subject, and proceed as follows:\n\n1. Present the main menu using clear numbering for each category.\n2. Wait for the user's selection before continuing.\n3. Based on the selection, present a submenu using lettered options (A, B, C…).\n4. Allow the user to continue drilling down until specific content is reached.\n5. Only reveal one level at a time, based on user selections.\n\nAt every level, always include:\n• R. Return to Previous Menu\n• M. Return to Main Menu\n\nAvoid using the letter M for any other option.\n\nExample categories might include:\n1. Old Testament Themes\n2. New Testament Teachings\n3. Life and Teachings of Jesus\n4. Prophecy and Fulfillment\n5. Theological Concepts\n6. Bible Characters and Biographies\n7. Parables and Miracles\n8. Historical and Cultural Background\n9. Practical Christian Living\nN. Exit Explorer\n\nEnd menu levels with:\n“Enter your selection (number/letter, R, or M):”\n\nWhen the user reaches a final topic, present it in the following format:\n\n[TOPIC TITLE]\n[Brief subtitle or passage reference]\n[2–3 paragraphs explaining the topic, including context, interpretation, and theological significance.]\n\nKEY INSIGHTS:\n• [Insight 1]\n• [Insight 2]\n• [Insight 3]\n• [Insight 4]\n• [Insight 5]\n\nSUPPORTING SCRIPTURES:\n• [Reference 1]\n• [Reference 2]\n• [Reference 3]\n• [Reference 4]\n• [Reference 5]\n\nDIG DEEPER MENU:\nAfter presenting the topic, offer a follow-up submenu with 4–5 related subtopics that allow the user to explore further.\n\nInclude:\n• R. Return to Previous Menu\n• M. Return to Main Menu\n\nEnd with:\nEnter your selection (1–[Last Number], R, or M):",
+            "tips": "This prompt creates a fully interactive Bible study experience by first asking the user what subject they want to explore. It then guides them through structured, menu-based navigation with dynamic menus and theological insights at each level."
+          }
+        ]
+      },
+      {
+        "id": "2d",
+        "name": "Reconciliation Explorer",
+        "sectionProperties": ["title", "content", "tips"],
+        "sections": [
+          {
+            "title": "Prompt",
+            "content": "Before beginning the session, create a compact knowledge base on the topic of reconciliation using four perspectives: Jesus, Paul, George Fifield, and Ellen White. Summarize 3–5 key points from each, including Scripture references or representative quotes where possible. Keep the total under 300 words. Then immediately present the following menu and guide the user interactively through it.\n\nWelcome to the Reconciliation Explorer. Reconciliation is the restoration of peace and trust between God and humanity, made possible through the life, death, and revelation of Jesus. Drawing from Scripture and historic voices, this study reveals that reconciliation is not about appeasing God, but about healing the alienation caused by misunderstanding Him.\n\nMAIN MENU – Choose an area of focus:\n1. Jesus' Parables on the Father's Love\n2. Paul's Writings on Alienation and Peace\n3. The Cross as Revelation, Not Appeasement\n4. Historical Views of the Atonement\n5. Healing the Human Mind and Restoring Trust\n6. Biblical Characters and Reconciliation\n7. Reconciliation and the Great Controversy\n8. Practical Applications of Reconciliation\nN. Exit Explorer\n\nEnter your selection (1–8 or N):\n\nAfter a selection is made, present a submenu with lettered options (A, B, C, etc.) relevant to the chosen category. Only show one level at a time. Always include:\n• R. Return to Previous Menu\n• M. Return to Main Menu\n\nAvoid using the letter M for any other menu option.\n\nWhen the user reaches a final topic, present it in this format:\n[TOPIC TITLE]\n[Brief subtitle or passage reference]\n[2–3 paragraphs explaining the topic, including context, interpretation, and theological significance.]\n\nKEY INSIGHTS:\n• [Insight 1]\n• [Insight 2]\n• [Insight 3]\n• [Insight 4]\n• [Insight 5]\n\nSUPPORTING SCRIPTURES:\n• [Reference 1]\n• [Reference 2]\n• [Reference 3]\n• [Reference 4]\n• [Reference 5]\n\nDIG DEEPER MENU:\nAfter presenting the topic, offer a submenu with 4–5 related subtopics that allow the user to explore further.\nInclude:\n• R. Return to Previous Menu\n• M. Return to Main Menu\n\nEnd with:\nEnter your selection (1–[Last Number], R, or M):",
+            "tips": "This version of the Reconciliation Explorer builds a compact knowledge base and jumps straight into the first-level menu. It blends biblical insight and theological depth with an intuitive interface, helping users understand reconciliation through structured exploration."
+          }
+        ]
+      }
+      
+      
+      
+    ]
+  }
+  

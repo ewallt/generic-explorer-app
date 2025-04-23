@@ -1,0 +1,13 @@
+{
+    "appTitle": "Open Theism History Explorer",
+    "firstLevelLabel": "Historical Period",
+    "secondLevelLabel": "Key Figure or Idea",
+    "items": [
+      { "id": "1", "name": "Early Christian Thought" },
+      { "id": "2", "name": "The Rise of Classical Theism" },
+      { "id": "3", "name": "Medieval and Reformation Perspectives" },
+      { "id": "4", "name": "Modern Challenges to Classical Theism" },
+      { "id": "5", "name": "The Emergence of Open Theism" },
+      { "id": "6", "name": "Contemporary Open Theism" }
+    ]
+  }

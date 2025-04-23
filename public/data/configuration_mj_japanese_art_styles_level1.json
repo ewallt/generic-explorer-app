@@ -1,0 +1,35 @@
+{
+    "appTitle": "Japanese Art Styles Explorer for Midjourney",
+    "firstLevelLabel": "Style",
+    "secondLevelLabel": "Artist/Tradition",
+    "items": [
+      {
+        "id": "1",
+        "name": "Ukiyo-e"
+      },
+      {
+        "id": "2",
+        "name": "Nihonga"
+      },
+      {
+        "id": "3",
+        "name": "Sumi-e"
+      },
+      {
+        "id": "4",
+        "name": "Japanese Woodblock Prints"
+      },
+      {
+        "id": "5",
+        "name": "Rinpa School"
+      },
+      {
+        "id": "6",
+        "name": "Superflat"
+      },
+      {
+        "id": "7",
+        "name": "Gutai"
+      }
+    ]
+  }

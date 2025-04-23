@@ -1,0 +1,612 @@
+{
+  "items": [
+    {
+      "id": "1a",
+      "name": "Henri Cartier-Bresson",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A black and white street photograph by Henri Cartier-Bresson. A decisive moment captured on a Parisian street where a man leaps across a large puddle, his silhouette perfectly reflected in the water below. The composition follows the golden ratio with strong geometric elements from surrounding architecture. The scene has Cartier-Bresson's characteristic tonality with rich contrast between shadows and highlights."
+        },
+        {
+          "prompt": "A 35mm film photograph by Henri Cartier-Bresson. Children playing in the narrow streets of a Mediterranean village, captured from an elevated perspective that reveals complex patterns of light and shadow. A lone bicycle leans against a weathered stone wall as human figures move through doorways and alleys. The image embodies Cartier-Bresson's masterful timing, freezing subjects in perfect compositional harmony."
+        },
+        {
+          "prompt": "A Leica camera black and white photograph by Henri Cartier-Bresson. An intimate scene of Parisian café life viewed through a rain-speckled window, creating layers of perspective and reflection. Patrons are caught in natural, unposed moments of conversation and contemplation, unaware of the camera. Light streams in at a dramatic angle, illuminating rising steam from coffee cups and creating Cartier-Bresson's signature visual poetry."
+        }
+      ]
+    },
+    {
+      "id": "1b",
+      "name": "Vivian Maier",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A square format Rolleiflex photograph by Vivian Maier. A mysterious self-portrait of a woman reflected in a vintage storefront mirror on a busy 1950s Chicago street, her camera visible at chest level. Her face is partially obscured by shadow while her surroundings reveal mid-century urban America in stunning detail. The composition juxtaposes the photographer against advertisements and mannequins with Maier's characteristic street documentation sensibility."
+        },
+        {
+          "prompt": "A black and white street photograph by Vivian Maier. A candid street scene capturing the stark contrast between a wealthy woman in fur coat and a homeless man on a bench, their worlds intersecting momentarily on a wintry 1960s New York sidewalk. Steam rises from subway grates as pedestrians hurry past, oblivious to the social commentary unfolding. The image has Maier's signature empathetic yet unflinching perspective on urban life."
+        },
+        {
+          "prompt": "A medium format photograph by Vivian Maier. Children with expressive faces press against the glass window of a candy store, their emotions ranging from delight to longing. The photographer has captured their unguarded reactions from a slightly low angle, emphasizing their importance against the backdrop of a gritty urban neighborhood. Reflections in the window create multiple visual layers in Maier's distinctive observational style."
+        }
+      ]
+    },
+    {
+      "id": "1c",
+      "name": "Fan Ho",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A high-contrast black and white photograph by Fan Ho. Dramatic rays of light cut through smoke in a narrow Hong Kong alleyway, creating geometric patterns between tall buildings. A silhouetted figure walks into the light, dwarfed by the urban canyon of the 1950s city. The extreme contrast between darkness and brilliant light exemplifies Fan Ho's masterful approach to transforming ordinary street scenes into cinematic moments."
+        },
+        {
+          "prompt": "A Rolleiflex photograph by Fan Ho. Morning mist envelops a Hong Kong harbor where traditional wooden fishing boats are silhouetted against the rising sun. Fishermen prepare their nets as light reflects off the water in Fan Ho's signature high-contrast style. The composition balances the geometric patterns of boat masts against the organic shapes of the mountains in the background."
+        },
+        {
+          "prompt": "A black and white fine art photograph by Fan Ho. A lone figure climbs a spiraling staircase that creates bold geometric patterns against the side of a modernist building in 1960s Hong Kong. Harsh midday sun casts dramatic shadows that transform the urban landscape into an abstract composition. Fan Ho's precise timing and eye for form turns an everyday moment into a meditation on humanity within the rapidly developing Asian metropolis."
+        }
+      ]
+    },
+    {
+      "id": "1d",
+      "name": "Gordon Parks",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A documentary photograph by Gordon Parks for Life magazine. A powerful black and white portrait of a domestic worker in 1940s Washington D.C., her dignity preserved through respectful framing and careful attention to light that sculpts her features against a simple background. Parks' empathetic approach reveals both the personal struggle and resilience of his subject while subtly addressing systemic inequality through visual narrative."
+        },
+        {
+          "prompt": "A color street photograph by Gordon Parks. A vibrant scene from 1950s Harlem capturing the energy of daily life with rich chromatic contrasts between storefronts, clothing, and urban textures. Multiple narrative elements unfold simultaneously across the frame, demonstrating Parks' gift for finding compelling human stories within complex social environments. The image balances journalistic documentation with artistic composition in Parks' signature humanist approach."
+        },
+        {
+          "prompt": "A black and white photograph by Gordon Parks from his Segregation series. An African American family outside their rural southern home during the Civil Rights era, the composition carefully balancing environmental context with intimate human portraiture. Parks' sophisticated use of contrast and tone creates a powerful document that addresses social disparity while honoring the subjects' humanity and resilience. The photograph demonstrates Parks' ability to create images that function both as historical record and timeless art."
+        }
+      ]
+    },
+    {
+      "id": "1e",
+      "name": "Saul Leiter",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A color street photograph by Saul Leiter. A New York winter scene viewed through steamy café windows, where condensation and rain transform the urban landscape into an impressionistic canvas of diffused colors and shapes. Pedestrians move as abstract elements across the frame, partially obscured by layers of reflection and precipitation. Leiter's painterly sensibility embraces these visual obstructions as compositional elements rather than barriers to clear documentation."
+        },
+        {
+          "prompt": "An early color photograph by Saul Leiter. A slice of 1950s New York street life captured through a distinctive palette of muted reds, blues and browns characteristic of early Kodachrome film. The composition utilizes store windows, awnings, and umbrellas to create geometric divisions of space populated by anonymous urban dwellers. Reflections and fragmentary views demonstrate Leiter's background as a painter and his revolutionary approach to color street photography decades before it gained acceptance."
+        },
+        {
+          "prompt": "A contemplative photograph by Saul Leiter. A solitary figure glimpsed through multiple layers of urban space—reflections, steam, architectural elements and weather conditions—creating a complex visual poem rather than straightforward documentation. Muted colors and soft focus areas transform the ordinary New York street into a modernist abstraction where people become enigmatic shapes within the city's visual rhythm. The image exemplifies Leiter's unique ability to find quiet, intimate moments within the chaos of urban life."
+        }
+      ]
+    },
+    {
+      "id": "2a",
+      "name": "Annie Leibovitz",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A portrait photograph by Annie Leibovitz for Vogue magazine. A celebrated ballet dancer posed in an abandoned industrial space, her flowing white costume creating dramatic contrast against rusted machinery. The lighting is theatrical with multiple sources creating highlights on her form while shadows recede into infinite darkness. The portrait captures both physical strength and artistic vulnerability in Leibovitz's signature narrative portraiture style."
+        },
+        {
+          "prompt": "A color portrait for Vanity Fair shot by Annie Leibovitz. A famous actor partially submerged in a swamp landscape at dusk, wearing full period costume that references their most iconic role. Their intense gaze connects directly with the viewer while environmental elements tell a story about their public persona and private reality. The image has Leibovitz's characteristic cinematic lighting with rich colors and meticulous attention to meaningful props and setting."
+        },
+        {
+          "prompt": "A medium format portrait photograph by Annie Leibovitz. An intimate portrait of a legendary musician in their private recording studio, surrounded by instruments and personal artifacts that reveal their creative process. The lighting is soft and directional, emphasizing the subject's weathered features and expressive hands. Leibovitz's approach reveals both the public icon and the private artist through careful environmental storytelling and psychological insight."
+        }
+      ]
+    },
+    {
+      "id": "2b",
+      "name": "Richard Avedon",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A large format portrait photograph by Richard Avedon. A stark black and white portrait against Avedon's signature seamless white background, focusing entirely on the subject's face with uncompromising clarity and detail. Every line, pore, and expression is revealed through high-contrast lighting that sculpts the features with precision. The subject's penetrating gaze creates an uncomfortable intimacy that challenges the viewer in the confrontational style that defined Avedon's portrait work."
+        },
+        {
+          "prompt": "A fashion photograph for Harper's Bazaar by Richard Avedon. A fashion photograph capturing a model in elegant motion, her couture gown billowing dramatically against a minimal white backdrop. The figure is precisely positioned at the peak moment of movement, fabric suspended in air with Avedon's perfect timing. The high-contrast black and white treatment emphasizes form, texture, and the graphic quality that revolutionized fashion photography."
+        },
+        {
+          "prompt": "A documentary portrait from 'In the American West' series by Richard Avedon. An unflinching portrait of a weathered ranch worker, his face telling the story of decades under harsh sun and difficult conditions. The subject stands directly before Avedon's large-format camera against a plain white background that removes all context except humanity. The lighting is flat yet revealing, democratic in its treatment of every facial detail and imperfection."
+        }
+      ]
+    },
+    {
+      "id": "2c",
+      "name": "Diane Arbus",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A square format photograph by Diane Arbus. Identical twin girls stand side by side in matching dresses in a domestic setting, their expressions subtly different in ways that create psychological tension. The flash illumination is direct and revealing, typical of Arbus's unflinching documentary approach. The square-format composition emphasizes the uncanny nature of the twins while details of their middle-class surroundings add layers of meaning about conformity and identity."
+        },
+        {
+          "prompt": "A black and white photograph by Diane Arbus. A portrait of a circus performer in their dressing room, surrounded by the contrasts between glamorous stage costume and mundane personal items. The subject gazes directly at the camera with a complex expression that challenges the viewer's potential preconceptions. Arbus's characteristic flash lighting creates a documentary clarity that neither glamorizes nor diminishes the humanity of her unconventional subject."
+        },
+        {
+          "prompt": "A medium format film photograph by Diane Arbus. A suburban family stands stiffly in their living room, their awkward formality revealing underlying tensions despite their attempt to project normalcy. The medium format square composition contains subtle details that reward close inspection and hint at the strangeness within ordinary life. Arbus's frontal, direct approach creates an uncomfortable intimacy that makes the familiar seem alien."
+        }
+      ]
+    },
+    {
+      "id": "2d",
+      "name": "Irving Penn",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A studio portrait by Irving Penn for Vogue. A fashion model posed against Penn's signature neutral backdrop with north-facing window light sculpting her features. The composition is meticulously balanced with every element—posture, costume, and gesture—refined to create classical elegance. Penn's masterful printing technique renders a full tonal range from deep blacks to luminous highlights, embodying his philosophy that 'a good photograph is one that communicates a fact, touches the heart, and leaves the viewer a changed person.'"
+        },
+        {
+          "prompt": "A large format portrait photograph by Irving Penn from his 'Small Trades' series. A craftsman photographed in their work clothes against a simple seamless backdrop, the tools of their trade carefully positioned to reveal their professional identity. The lighting is remarkably simple yet precise, emphasizing texture and detail with Penn's characteristic technical perfection. His respectful, formal approach elevates everyday workers to iconic status through careful attention to posture, expression, and the dignity of labor."
+        },
+        {
+          "prompt": "A still life photograph by Irving Penn. A meticulously arranged composition of food items in various states of consumption or decay, photographed with the same reverence traditionally reserved for fashion or portraiture. Penn's extraordinary attention to texture reveals every detail through masterful lighting that sculpts the subject against a neutral background. The image transforms the ephemeral into something monumental through Penn's modernist sensibility and unparalleled printing craftsmanship."
+        }
+      ]
+    },
+    {
+      "id": "2e",
+      "name": "Yousuf Karsh",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A dramatic portrait photograph by Yousuf Karsh. A world leader photographed in a moment of contemplative intensity, their character revealed through Karsh's masterful use of directional lighting that highlights key facial features against deep shadows. The subject's hands are carefully positioned to add narrative and psychological dimension to the portrait. Karsh's meticulous printing technique creates a luminous quality that gives the subject a monumental presence against the dark background."
+        },
+        {
+          "prompt": "A black and white portrait by Yousuf Karsh. A renowned artist captured in their studio with dramatic chiaroscuro lighting that sculpts their features and creates a mood reflecting their creative temperament. Environmental details are selectively included to reveal aspects of the subject's work and personality without distracting from the powerful gaze that connects directly with the viewer. Karsh's ability to distill the essence of his subject's character into a single, decisive moment demonstrates why he was trusted to photograph the 20th century's most influential figures."
+        },
+        {
+          "prompt": "A large format portrait by Yousuf Karsh. An elderly statesman photographed with Karsh's signature lighting technique that emphasizes the subject's weathered features and penetrating eyes while receding the background into darkness. The subject's distinguished status is conveyed through meticulous attention to posture, expression, and the careful modeling of light across facial features. The portrait demonstrates Karsh's belief that 'within every man and woman a secret is hidden, and as a photographer it is my task to reveal it.'"
+        }
+      ]
+    },
+    {
+      "id": "3a",
+      "name": "Claude Monet",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An oil on canvas by Claude Monet. A Japanese footbridge arches over a water lily pond, surrounded by weeping willows and flowering shrubs in Monet's garden at Giverny. Dappled sunlight plays across the water surface, creating reflections that blend reality and mirrored image in characteristic Impressionist dissolution. The palette shifts from cool purples and blues in the shadows to warm yellows and greens where light strikes the lush vegetation."
+        },
+        {
+          "prompt": "An oil on canvas by Claude Monet. The facade of Rouen Cathedral captured in late afternoon light, the stone surface transformed into a tapestry of colors as sunlight brings out pinks, golds, and lavenders in the ancient stonework. Loose brushwork suggests the architectural details rather than defining them precisely. The scene embodies Monet's fascination with how changing light transforms a single subject throughout the day."
+        },
+        {
+          "prompt": "An oil on canvas by Claude Monet. A vast field of red poppies stretches toward the horizon under a bright summer sky, with small figures of women with parasols providing scale within the landscape. Visible brushstrokes create a sense of movement in the flowers swaying in a gentle breeze. The vibrant contrast between the scarlet poppies and azure sky exemplifies Monet's mastery of color and atmospheric effects."
+        }
+      ]
+    },
+    {
+      "id": "3b",
+      "name": "Auguste Renoir",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An oil on canvas by Auguste Renoir. A sun-dappled outdoor luncheon scene with elegantly dressed figures enjoying wine and conversation beside a river. Light filters through leafy branches, creating a patchwork of shadows across white tablecloths and feminine dresses. Renoir's trademark rosy complexions and sensuous brushwork convey the joyful atmosphere of leisure and social pleasure in this celebration of modern Parisian life."
+        },
+        {
+          "prompt": "An oil on canvas by Auguste Renoir. A young woman in a gauzy white summer dress stands in a lush garden, her face illuminated by warm sunlight filtering through her straw hat. Her skin glows with Renoir's characteristic pearlescent quality and rosy highlights. Flowers surround her figure, painted with loose, feathery brushstrokes that create a sense of natural abundance and feminine beauty."
+        },
+        {
+          "prompt": "An oil on canvas by Auguste Renoir. Boaters in straw hats and summer attire enjoy a day on a shimmering blue river, their boats creating gentle ripples across the water's surface. The scene captures the leisure activities of 1880s Parisians with Renoir's characteristic warmth and joie de vivre. Sunlight glints off water and illuminates faces with the painter's distinctive soft focus and sensual attention to the pleasures of modern life."
+        }
+      ]
+    },
+    {
+      "id": "3c",
+      "name": "Berthe Morisot",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An oil on canvas by Berthe Morisot. A woman in a white summer dress rests in a garden setting, her pose natural and unaffected as she gazes thoughtfully into the distance. Delicate brushwork renders the fabric with a feminine sensibility unique to Morisot's perspective among the Impressionists. The palette is dominated by soft pastels with touches of more saturated color in the surrounding flowers and foliage."
+        },
+        {
+          "prompt": "An oil on canvas by Berthe Morisot. A mother tenderly attends to her young child in an intimate domestic interior filled with soft natural light from a nearby window. The brushwork is loose and expressive, suggesting forms rather than delineating them precisely. Morisot's sensitive treatment of the maternal relationship conveys emotional depth through subtle facial expressions and the protective curve of the mother's posture."
+        },
+        {
+          "prompt": "An oil on canvas by Berthe Morisot. A young woman stands by an open window overlooking a harbor, her figure silhouetted against the bright exterior view. Her contemplative pose suggests inner thoughts as she pauses between domestic and public worlds. Morisot's distinctive brushwork creates a sense of atmosphere with light, feathery strokes that capture the essence of the scene without hard edges."
+        }
+      ]
+    },
+    {
+      "id": "3d",
+      "name": "Edgar Degas",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A pastel on paper by Edgar Degas. Ballet dancers prepare backstage, their forms captured in intimate, unguarded moments of adjustment and concentration before performance. The asymmetrical composition suggests a spontaneous, almost photographic glimpse into the private world of the ballet. Degas' masterful draftsmanship combines with a soft pastel palette dominated by whites, pinks, and pale blues that capture both the ethereal costume of the dancers and the artificial lighting of the theater environment."
+        },
+        {
+          "prompt": "An oil on canvas by Edgar Degas. A horse racing scene at a Paris track where jockeys in vibrant silks prepare their mounts before the race. The composition is dramatically cropped to emphasize movement and tension as the horses and riders shift restlessly at the starting line. Degas' understanding of equine anatomy combines with his interest in capturing fleeting moments, creating a sense of suspended animation before the explosive action about to unfold."
+        },
+        {
+          "prompt": "A mixed media artwork by Edgar Degas. A solitary woman bathes in a metal tub, her back to the viewer as she performs this private ritual, unaware of being observed. The awkward, authentic pose demonstrates Degas' interest in natural, unidealized human movement rather than classical composition. His experimental technique combines pastel and oil to create rich textures that capture both the softness of skin and the harder surfaces of porcelain and metal in the intimate bathing space."
+        }
+      ]
+    },
+    {
+      "id": "3e",
+      "name": "Mary Cassatt",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An oil on canvas by Mary Cassatt. A mother bathing her child in a washbasin, the intimate domestic scene rendered with delicate brushwork and a bright, airy palette inspired by Cassatt's study of Japanese printmaking. The perspective is unusually close, focusing on the tender interaction between mother and child with careful attention to their expressions of concentration and trust. Cassatt's composition balances formal innovation with emotional authenticity in her signature exploration of feminine experience."
+        },
+        {
+          "prompt": "A color aquatint and drypoint print by Mary Cassatt. A woman in an elegantly appointed parlor examines Japanese prints, her refined profile highlighted against a decorative background of patterned wallpaper and furniture. The flattened perspective and decorative patterning show Cassatt's adaptation of Japanese aesthetic principles to Western subject matter. Her sophisticated color palette and precise linear quality demonstrate her technical mastery of printmaking and her eye for the aesthetics of modern domestic life."
+        },
+        {
+          "prompt": "An oil painting by Mary Cassatt. A young girl in a blue dress sits in a theater box, her attention captured by the performance as she leans forward slightly in anticipation. The viewpoint is intimate yet respectful, capturing both the public setting and the child's private moment of absorption. Cassatt's brushwork is precise yet vibrant, rendering the theater's atmosphere with sparkling light that illuminates the child's expressive face against the shadowed background of the theater box."
+        }
+      ]
+    },
+    {
+      "id": "4a",
+      "name": "Vincent van Gogh",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An oil on canvas by Vincent van Gogh. A night sky swirls with stars and cosmic energy above a sleeping village nestled among rolling hills, with a church spire rising prominently from the cluster of buildings. A massive cypress tree in the foreground creates a powerful vertical element that connects earth and sky. Van Gogh's distinctive impasto technique gives the stars and clouds a physical presence, while his vibrant blues and yellows create a sense of cosmic movement."
+        },
+        {
+          "prompt": "An oil on canvas by Vincent van Gogh. A simple bedroom with wooden furniture rendered in strong colors and flattened perspective, the entire scene seemingly in motion through energetic brushwork. Personal items scattered across the room humanize the space while the tilted floor creates a sense of psychological instability. Van Gogh's thick application of paint gives ordinary objects like the bed and chairs an almost sculptural quality."
+        },
+        {
+          "prompt": "An oil on canvas by Vincent van Gogh. A self-portrait against a turbulent background of swirling blue-green brushstrokes, the artist's intense gaze directed slightly off-center. His ginger beard and pale complexion are rendered in complementary colors that vibrate against each other. Each brushstroke is distinct and purposeful, creating a sense of the artist's emotional state through the physical application of paint in Van Gogh's signature expressive style."
+        }
+      ]
+    },
+    {
+      "id": "4b",
+      "name": "Paul Cézanne",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An oil on canvas by Paul Cézanne. A still life arrangement of apples on a tilted table with a white cloth, the fruit rendered as simplified geometric forms with multiple perspectives. Each object has a solid presence and weight, created through Cézanne's methodical brushwork and subtle modulation of color. The spatial relationships between objects appear slightly distorted, demonstrating the artist's exploration of perception and representation."
+        },
+        {
+          "prompt": "An oil on canvas by Paul Cézanne. Mont Sainte-Victoire rises from the Provençal landscape, its form simplified into planes of color that suggest its geological structure. The foreground features fields divided into a patchwork of greens and ochres, while the sky is a solid presence rather than atmospheric space. Cézanne's systematic brushwork builds the scene through parallel strokes that give equal weight to all elements."
+        },
+        {
+          "prompt": "An oil on canvas by Paul Cézanne. Nude figures arranged in a landscape setting, their bodies treated as geometric studies rather than idealized forms. The bathers interact with each other and their natural environment with a timeless quality that transcends specific narrative. Cézanne's exploration of volume, space, and structural relationships transforms the traditional subject into a study of formal arrangements that would influence the development of Cubism."
+        }
+      ]
+    },
+    {
+      "id": "4c",
+      "name": "Paul Gauguin",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An oil on canvas by Paul Gauguin. Tahitian women in a lush tropical landscape, their forms simplified and outlined in dark contours against areas of flat, vibrant color. The unnatural yellows, reds, and greens create a dreamlike atmosphere that transcends realistic representation. Gauguin's post-impressionist approach embraces decorative elements and symbolic content, rejecting Western artistic traditions in favor of what he perceived as a more primitive and spiritually authentic vision."
+        },
+        {
+          "prompt": "An oil on canvas by Paul Gauguin. Figures engaged in ritual activities in an exotic setting, with spiritual symbolism integrated into the landscape through unexpected color choices and flattened perspective. The scene combines elements of Tahitian life with Gauguin's personal symbolic vocabulary. The composition balances areas of intense color with sections of deeper shadow, creating a mysterious atmosphere that suggests hidden meanings beyond the visible world."
+        },
+        {
+          "prompt": "An oil on canvas by Paul Gauguin. Breton women in traditional dress gather in a village setting, their forms simplified into bold shapes with strong outlines. Religious imagery is incorporated symbolically through color and compositional elements. Gauguin's distinctive palette of non-naturalistic colors—bright yellows, deep reds, and vivid greens—creates a world that exists between reality and imagination, reflecting his search for spiritual authenticity."
+        }
+      ]
+    },
+    {
+      "id": "4d",
+      "name": "Georges Seurat",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An oil on canvas by Georges Seurat. A Sunday afternoon scene in a Parisian park where formally dressed figures relax along the Seine, each composed of tiny, precise dots of pure color. The rigid composition creates a sense of timeless stillness, with figures arranged in carefully balanced geometric formations. Seurat's scientific approach to color theory—placing complementary hues side by side for optical mixing—creates a luminous quality unachievable through traditional blending techniques."
+        },
+        {
+          "prompt": "A large canvas painted by Georges Seurat. Circus performers captured mid-act through Seurat's pointillist technique, where thousands of precise dots of complementary colors create form and luminosity when viewed from a distance. The composition balances dynamic diagonal movements with the stability of geometric arrangement. Seurat's application of color theory principles creates an artificial yet vibrant atmosphere that captures the theatrical lighting and excitement of the circus while maintaining analytical detachment."
+        },
+        {
+          "prompt": "An oil painting by Georges Seurat. A harbor scene where sailboats float on still water, their forms simplified into geometric shapes and rendered through systematic application of tiny dots of pure color. The composition is rigorously structured with strong horizontal and vertical elements creating a sense of perfect balance. Seurat's methodical approach transforms the natural scene into an exercise in visual harmony where every element is carefully positioned according to classical proportional relationships."
+        }
+      ]
+    },
+    {
+      "id": "4e",
+      "name": "Henri Rousseau",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An oil on canvas by Henri Rousseau. A dense jungle scene where exotic plants are rendered with meticulous precision, each leaf and frond clearly articulated against deep layers of vegetation. A tiger prowls through the foliage, its form stylized yet intense with gleaming eyes that connect directly with the viewer. Rousseau's self-taught technique combines childlike directness with sophisticated composition, creating a dreamlike vision of a tropical environment he had never personally experienced."
+        },
+        {
+          "prompt": "A painting by Henri Rousseau. A sleeping gypsy reclines in a desert landscape under a full moon, a mandolin at her side and a lion approaching her unnoticed. The scene combines realistic detail with surreal juxtaposition, creating a dream-like narrative. Rousseau's naive style features flat perspective, sharp outlines, and meticulous attention to detail without traditional academic techniques. Each element—from stars in the night sky to the lion's mane—is rendered with the same precise intensity."
+        },
+        {
+          "prompt": "An oil on canvas by Henri Rousseau. Parisian figures promenade through a stylized urban park where trees and foliage are rendered with the same detailed precision Rousseau applied to his jungle scenes. The perspective appears flattened and slightly distorted, with proportional relationships that defy classical training. Rousseau's self-taught approach combines an almost photographic attention to detail with a charming awkwardness in human figures that creates an uncanny, slightly surreal version of everyday Parisian life."
+        }
+      ]
+    },
+    {
+      "id": "5a",
+      "name": "Frank Lloyd Wright",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An architectural photograph of a Frank Lloyd Wright prairie style home. A horizontal structure with strong cantilever rooflines that extend far beyond the building's walls, creating dramatic shadows. Natural materials including locally quarried limestone and warm-toned wood integrate the structure with its surrounding landscape. Wright's characteristic ribbon windows provide horizontal emphasis while allowing natural light to flood the interior spaces."
+        },
+        {
+          "prompt": "A detailed architectural rendering of Frank Lloyd Wright's Fallingwater. A modernist residence built over a waterfall, with dramatic cantilevered concrete terraces stacked organically among the trees. The structure appears to emerge from the rocky landscape with horizontal planes that echo the stratified stone below. Natural materials including stone, concrete, and glass create harmony between the built environment and the forested Pennsylvania setting."
+        },
+        {
+          "prompt": "An interior photograph of a Frank Lloyd Wright designed space. An open-plan living area with built-in furniture and characteristic geometric stained glass windows casting patterned light across wooden surfaces. Low ceilings with integrated lighting create an intimate atmosphere, while strategic clerestory windows maintain privacy while bringing in natural light. Wright's principles of organic architecture are evident in the careful integration of materials and thoughtful connection to the exterior environment."
+        }
+      ]
+    },
+    {
+      "id": "5b",
+      "name": "Zaha Hadid",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An architectural photograph of a Zaha Hadid building. A fluid, sculptural structure with sweeping curved facades that seem to defy gravity. The exterior features parametrically designed panels in white composite materials that create an impression of constant movement. Large expanses of glass interrupt the sinuous form, while dramatic cantilevers extend over public plazas, exemplifying Hadid's revolutionary approach to space and her rejection of right angles and static forms."
+        },
+        {
+          "prompt": "An interior space designed by Zaha Hadid. A museum gallery with walls that curve seamlessly into ceilings, creating a continuous flowing environment where boundaries between surfaces dissolve. Natural light enters through irregular apertures that cast dramatic shadows across the white surfaces. The space features Hadid's signature organic geometries with exhibition platforms that emerge from the floor like topographical elements, challenging traditional notions of architectural space."
+        },
+        {
+          "prompt": "A detailed architectural model of a Zaha Hadid skyscraper. A parametrically designed tower with a non-uniform silhouette that twists as it rises, creating a dynamic vertical presence on the skyline. The façade system consists of interlocking hexagonal panels that vary in opacity and reflectivity, responding to solar orientation. At the base, the building's form splays outward to create covered public spaces where columns merge fluidly with the ground plane in Hadid's distinctive futuristic vocabulary."
+        }
+      ]
+    },
+    {
+      "id": "5c",
+      "name": "Antoni Gaudí",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An architectural photograph of Antoni Gaudí's Sagrada Familia. Soaring organic towers inspired by natural forms rise above Barcelona, their surfaces encrusted with intricate stone carvings and symbolic details. The cathedral's exterior combines Gothic influences with Gaudí's unique biomorphic interpretation, featuring honeycombed spires and tree-like columns. The stone façade transitions between areas of elaborate ornamentation and smoother surfaces, demonstrating Gaudí's masterful understanding of material and light."
+        },
+        {
+          "prompt": "An interior photograph of Antoni Gaudí's Casa Batlló. An organic residential space where straight lines are virtually absent, featuring undulating walls, curved wood details, and skeletal window frames. The central lightwell is lined with blue ceramic tiles that gradually shift from deep navy to light turquoise, creating an underwater atmosphere. Gaudí's attention to craft is evident in the custom-designed door handles, built-in furniture, and meticulously arranged mosaic tilework that transforms functional elements into fantastical art."
+        },
+        {
+          "prompt": "A detailed view of Antoni Gaudí's Park Güell. Serpentine benches covered in colorful broken ceramic trencadís mosaics follow the contours of an elevated terrace overlooking Barcelona. The organic architectural elements blend seamlessly with the hillside setting, supported by columns that resemble tree trunks while functioning as structural elements. Nature-inspired details including reptilian textures and floral motifs demonstrate Gaudí's belief that architecture should reflect the harmonious complexity found in the natural world."
+        }
+      ]
+    },
+    {
+      "id": "5d",
+      "name": "Le Corbusier",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An architectural photograph of Villa Savoye by Le Corbusier. A pristine white modernist residence elevated on slender pilotis, creating the illusion that the geometric volume floats above the landscape. The horizontal ribbon windows wrap around the façade, embodying Le Corbusier's five points of architecture. The pure geometric forms and absence of ornamentation exemplify the International Style's machine aesthetic, while the roof garden creates a dialogue between the built environment and nature on the building's terms."
+        },
+        {
+          "prompt": "An interior photograph of the chapel at Ronchamp by Le Corbusier. A spiritual space defined by sculptural concrete walls of varying thickness with small, deeply recessed openings that allow controlled beams of colored light to penetrate the dimly lit interior. The curved roof appears to float above the walls, creating a sense of transcendence and spiritual weightlessness. The raw concrete surfaces bear the imprints of wooden formwork, expressing Le Corbusier's concept of béton brut where structural materials are celebrated in their natural state."
+        },
+        {
+          "prompt": "A detailed architectural drawing of Le Corbusier's Unité d'Habitation. A monumental residential complex designed as a vertical city with integrated communal facilities including shops, recreational spaces, and a rooftop terrace. The massive béton brut concrete structure is raised on sculptural pilotis, while the façade features a carefully composed grid of individual apartment modules with colorful recessed balconies. The diagram illustrates Le Corbusier's revolutionary approach to high-density urban living as a solution to post-war housing challenges."
+        }
+      ]
+    },
+    {
+      "id": "5e",
+      "name": "Ludwig Mies van der Rohe",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An architectural photograph of the Barcelona Pavilion by Mies van der Rohe. A composition of precise horizontal and vertical planes in precious materials including travertine, onyx, and green marble, arranged in an open plan that dissolves traditional boundaries between interior and exterior space. Chrome-plated steel columns with cruciform profiles support the thin floating roof slab with minimal visual intrusion. Reflective pools extend the spatial experience while the carefully positioned Barcelona chairs demonstrate Mies's holistic approach to architecture and furniture design."
+        },
+        {
+          "prompt": "A detailed view of the Seagram Building by Mies van der Rohe. A pristine minimalist skyscraper with a perfect grid of bronze and glass expressing its structural frame with absolute clarity. The building is set back from the street, creating a granite plaza that establishes a dignified urban presence. Every detail from the custom bronze mullions to the lobby materiality reflects Mies's dictum that 'God is in the details,' while the overall composition embodies his philosophy that 'less is more' through its refined proportions and elimination of ornament."
+        },
+        {
+          "prompt": "An interior photograph of the Farnsworth House by Mies van der Rohe. A transparent glass box elevated above a flood plain, creating the impression of a structure floating in nature. The minimalist interior features a central core containing utilities, allowing the living spaces to flow freely around it with panoramic views of the surrounding woodland. White steel columns and beams frame the glass enclosure with mathematical precision, demonstrating Mies's search for universal architectural truth through structural clarity and spatial continuity."
+        }
+      ]
+    },
+    {
+      "id": "6a",
+      "name": "Coco Chanel",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "Black and white photograph in the style of Richard Avedon, a fashion portrait of a Coco Chanel design from the 1920s. A woman wearing the revolutionary 'little black dress' with clean, minimalist lines that liberated women from corseted silhouettes. The simple yet elegant design features a dropped waist and knee-length hem, styled with multiple strands of pearls. The model embodies Chanel's vision of the modern, independent woman with a confident pose against a simple studio backdrop highlighting the garment's revolutionary simplicity."
+        },
+        {
+          "prompt": "Fashion illustration in the style of René Gruau, a detailed sketch of a Chanel suit from the 1950s. The iconic bouclé tweed jacket with contrasting trim and gold chain weighted along the hemline for perfect drape. The collarless design features decorative but functional pockets and is paired with a matching knee-length skirt. The illustration captures Chanel's revolutionary approach to combining masculine tailoring with feminine details, creating clothing that offered women both comfort and elegance."
+        },
+        {
+          "prompt": "Modern editorial photograph by Irving Penn, a close-up of authentic Chanel accessories. A quilted leather handbag with the distinctive interlocked CC logo and chain-leather shoulder strap rests beside a pair of two-tone slingback shoes. The composition includes Chanel's signature costume jewelry featuring oversized pearls and Byzantine-inspired crosses. These accessories demonstrate Chanel's belief that luxury must be comfortable and practical, transforming formerly precious materials into everyday items for the modern woman."
+        }
+      ]
+    },
+    {
+      "id": "6b",
+      "name": "Alexander McQueen",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "Avant-garde photography by Nick Knight, a runway scene from Alexander McQueen's 'Highland Rape' collection. A model walks through a deconstructed stage wearing a torn lace dress with exposed boning and asymmetrical tailoring. The garment combines technical precision with deliberate distressing, revealing McQueen's training as a Savile Row tailor and his provocative approach to fashion as art. The theatrical presentation with dramatic lighting and haunting music exemplifies McQueen's revolutionary runway shows that blurred the boundaries between fashion and performance art."
+        },
+        {
+          "prompt": "Still life photograph in the style of Tim Walker, a detailed image of an Alexander McQueen 'Armadillo' boot. The impossible 10-inch heel creates an alien, hooflike silhouette that transforms the human foot into something otherworldly and sculptural. The handcrafted shoe is covered in iridescent scales that catch the light as they curve around the form. This iconic design from the 'Plato's Atlantis' collection demonstrates McQueen's willingness to prioritize conceptual vision over conventional notions of wearability or commercial appeal."
+        },
+        {
+          "prompt": "Curated exhibition photograph by Sarah Moon, an ethereal view of Alexander McQueen's butterfly dress from the 'Savage Beauty' collection. A form-fitting bodice explodes into thousands of delicate multicolored butterflies that appear to be taking flight from the garment. The dress demonstrates McQueen's unparalleled craftsmanship and his fascination with natural forms, transforming them through his dark romantic vision. The piece exemplifies his ability to create fashion that evokes powerful emotional responses through technical virtuosity and theatrical presentation."
+        }
+      ]
+    },
+    {
+      "id": "6c",
+      "name": "Rei Kawakubo",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "Conceptual photography by Paolo Roversi, a haunting image of a Comme des Garçons design by Rei Kawakubo. A sculptural garment that deliberately challenges conventional notions of beauty and the human form with asymmetrical bulges and protrusions that distort the silhouette. The monochromatic piece in technical fabric creates abstract volumes that bear little relation to traditional clothing construction. Kawakubo's radical deconstruction of fashion interrogates the very definition of what constitutes a garment while elevating clothing design to conceptual art."
+        },
+        {
+          "prompt": "Fashion editorial by Steven Meisel, a detail shot of Rei Kawakubo's 'Body Meets Dress, Dress Meets Body' collection for Comme des Garçons. Gingham fabric stretched over padded forms creates surreal lumps and bumps that radically transform the human silhouette. The garment deliberately subverts traditional notions of feminine beauty and fashion's historical emphasis on enhancing the figure. Kawakubo's intellectual approach to design challenges viewers to reconsider their preconceptions about clothing, beauty, and the body through her uncompromising vision."
+        },
+        {
+          "prompt": "Documentary-style photograph by Peter Lindbergh, a stark runway scene from a Comme des Garçons show by Rei Kawakubo. A model wears a deconstructed garment where multiple vintage clothing pieces appear to have been fused together at impossible angles, creating a palimpsest of fashion history. Raw edges, exposed seams, and asymmetrical forms typify Kawakubo's rejection of conventional garment construction. The presentation takes place in a stark industrial space with minimal styling, focusing attention entirely on the revolutionary conceptual approach to clothing design."
+        }
+      ]
+    },
+    {
+      "id": "6d",
+      "name": "Cristóbal Balenciaga",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "Vintage photograph in the style of Cecil Beaton, an elegant portrait from the 1950s of a Cristóbal Balenciaga evening gown. The architectural silk gazar creation stands away from the body, creating a sculptural volume that appears to defy gravity. The minimalist design eschews surface embellishment in favor of radical shape, demonstrating Balenciaga's unparalleled understanding of fabric and structure. The model stands in a formal pose against a simple backdrop, highlighting the purity of line that led Christian Dior to call Balenciaga 'the master of us all.'"
+        },
+        {
+          "prompt": "Museum archival photograph by Irving Penn, a detailed view of a Balenciaga suit from 1965. The perfectly tailored wool creation features a collarless jacket with bracelet-length sleeves and architectural seaming that creates a precise silhouette without darts or obvious construction elements. The impeccable craftsmanship reveals Balenciaga's training as a tailor and his obsessive attention to detail. Displayed on a mannequin allowing viewers to examine the revolutionary construction techniques that influenced all of modern fashion."
+        },
+        {
+          "prompt": "Technical illustration in the style of Antonio Lopez, a high-resolution drawing of Balenciaga's innovative pattern cutting. A semi-fitted day dress with one-seam construction that appears deceptively simple until closer inspection reveals the mathematical precision of its design. The three-quarter length sleeves and standing collar demonstrate Balenciaga's Spanish heritage influences. The garment is displayed open to reveal the minimal interior construction that achieves a perfect fit through brilliant pattern engineering rather than the excessive interior structure used by his contemporaries."
+        }
+      ]
+    },
+    {
+      "id": "6e",
+      "name": "Yves Saint Laurent",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "Black and white photograph by Helmut Newton, a powerful image from 1966 of Yves Saint Laurent's revolutionary 'Le Smoking' tuxedo suit for women. A female model wears the precisely tailored black wool jacket with satin lapels paired with straight-leg trousers and a white shirt with black bow tie. The androgynous styling is contrasted with feminine makeup and jewelry, embodying Saint Laurent's radical appropriation of masculine power dressing for women. The stark black and white photography highlights the revolutionary silhouette that challenged gender norms and redefined feminine elegance."
+        },
+        {
+          "prompt": "Graphic fashion illustration by Andy Warhol, a vibrant rendering of Yves Saint Laurent's Mondrian collection from 1965. A shift dress featuring color blocks of primary colors separated by bold black lines, directly inspired by the Dutch artist's abstract paintings. The revolutionary design transforms fine art into wearable fashion while maintaining the geometric precision of the original artwork. The simple A-line silhouette serves as a canvas for the artistic statement, demonstrating Saint Laurent's gift for making intellectual concepts accessible through fashion."
+        },
+        {
+          "prompt": "Museum exhibition photograph by Annie Leibovitz, a dramatic image of an Yves Saint Laurent evening jacket from his 1976 Russian Collection. The opulent velvet garment features lavish embroidery incorporating folk motifs and imperial references, with metallic threads and jewel-toned silk. The sumptuously decorated piece demonstrates Saint Laurent's theatrical approach to fashion and his ability to transform historical and cultural references into contemporary haute couture. The garment is displayed to highlight the extraordinary craftsmanship of the Parisian ateliers that brought Saint Laurent's romantic vision to life."
+        }
+      ]
+    },
+    {
+      "id": "7a",
+      "name": "Japanese Cuisine",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "In the style of Yoshihiro Suda, a stunning overhead photograph of a traditional kaiseki ryori meal. Multiple small plates arranged with meticulous precision on a handcrafted wooden table, each containing an artful composition highlighting seasonal ingredients. The dishes include delicate slices of sashimi arranged like a flower, a small ceramic pot of chawanmushi steaming gently, grilled fish with crisp skin, and pickled vegetables in vibrant colors. Natural lighting streams through shoji screens, casting soft shadows that emphasize the minimalist aesthetic and the chef's dedication to showcasing each ingredient's inherent beauty."
+        },
+        {
+          "prompt": "Photograph by Nobuyoshi Araki, a close-up action shot of a master sushi chef at work. Hands with decades of experience precisely slicing fatty tuna with a handcrafted knife, the blade catching the light as it moves through the fish with perfect control. The chef's hands show the subtle signs of years dedicated to the craft. Before him lies an arrangement of fresh seafood on ice, while perfectly formed rice balls wait nearby. The counter is immaculate, embodying the Japanese commitment to cleanliness and order. The composition captures the concentration and reverence that defines authentic Japanese culinary tradition."
+        },
+        {
+          "prompt": "Digital illustration in the style of Jiro Taniguchi, a dramatic scene of ramen being served in a traditional Japanese lantern-lit shop. Steam rises dramatically from a deep ceramic bowl filled with rich, golden tonkotsu broth that shimmers with droplets of aromatic oil. Thin, wavy noodles are partially submerged beneath slices of chashu pork with caramelized edges, a perfectly soft-boiled ajitama egg cut to reveal its jammy center, fresh scallions, and a sheet of nori. In the background, other diners can be seen hunched over their bowls, creating an atmosphere of reverent appreciation for this beloved street food elevated to culinary art."
+        }
+      ]
+    },
+    {
+      "id": "7b",
+      "name": "Mediterranean Cuisine",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "Photograph by Steve McCurry, a sun-drenched image of a Greek mezze spread on a weathered blue table overlooking the Aegean Sea. The abundant display features a copper bowl of velvety hummus drizzled with olive oil and sprinkled with paprika, alongside crisp dolmades wrapped in glistening grape leaves. Charred pita bread, still steaming from the wood-fired oven, rests beside a block of feta cheese dusted with oregano and cracked pepper. Plump olives in various shades of green and black glisten with brine, while roasted red peppers and grilled eggplant offer rich, smoky notes. The composition captures the Mediterranean philosophy of simple, fresh ingredients prepared with reverence and meant for communal enjoyment."
+        },
+        {
+          "prompt": "Painterly style of Giorgio Morandi, a close-up view of authentic Italian pasta-making in a rustic Tuscan kitchen. Flour-dusted hands of an elderly nonna expertly roll paper-thin sheets of pasta dough on a well-worn wooden board. Nearby, perfectly formed tortellini wait in neat rows, each one precisely pleated and filled with a mixture of ricotta, spinach, and nutmeg. Bunches of fresh herbs hang from overhead beams, while the afternoon light streams through an open window, illuminating particles of flour suspended in the air. The scene captures the generational knowledge and dedication to craftsmanship that defines traditional Italian cuisine."
+        },
+        {
+          "prompt": "Cinematic photograph in the style of Pedro Almodóvar, a vibrant evening scene of a traditional Spanish paella being prepared over an open fire. A wide, shallow paellera pan sits atop crackling orange flames, the saffron-infused rice taking on a golden hue at the edges while still absorbing the rich seafood broth at the center. Prawns, mussels, and clams are arranged in a circular pattern, their shells creating a dramatic contrast against the rice. A chef in traditional dress tends to the dish with reverent concentration, occasionally adding sprigs of fresh rosemary. The scene is set in a coastal village square where locals gather with glasses of sangria, waiting for the moment when the coveted socarrat—the crispy bottom layer—reaches perfection."
+        }
+      ]
+    },
+    {
+      "id": "7c",
+      "name": "Mexican Cuisine",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "Street photography by Graciela Iturbide, a vibrant action shot of traditional Mexican street tacos being prepared at a busy mercado. A skilled taquero slices marinated al pastor meat from a vertical spit with a gleaming knife, catching the falling pieces directly onto small, fresh corn tortillas held in his other hand. The trompo rotates slowly, revealing layers of pork glistening with achiote paste and pineapple juices. In the foreground, various small clay bowls contain colorful salsas ranging from bright green tomatillo to deep red chile de árbol. Lime wedges, diced onions, and fresh cilantro wait nearby for the final garnish. The scene is illuminated by strung lights overhead, creating a warm glow that highlights the steam rising from the cooking meats."
+        },
+        {
+          "prompt": "In the style of Diego Rivera, a detailed scene of mole poblano preparation in a traditional Oaxacan kitchen. An elderly woman stirs a deep, copper cazuela containing a complex sauce the color of burnished mahogany. The rich mixture combines dozens of ingredients including multiple varieties of toasted chiles, chocolate, nuts, and spices that have been painstakingly ground on a stone metate visible in the background. Chicken pieces wait nearby to be enrobed in the luxurious sauce. Clay bowls of individual ingredients—star anise, sesame seeds, and cinnamon sticks—create a story of the dish's complexity. Smoke from the wood fire creates a hazy atmosphere, with light filtering through to illuminate the woman's concentrated expression as she maintains a tradition dating back centuries."
+        },
+        {
+          "prompt": "Vibrant illustration in the style of José Guadalupe Posada, a stunning overhead view of Día de los Muertos food offerings arranged on a candlelit altar. A vibrant tableau featuring pan de muerto with its distinctive bone-shaped decorations dusted with sugar, positioned at the center of the arrangement. Surrounding it are skull-shaped sugar candies in brilliant colors, cups of Mexican hot chocolate topped with cinnamon, and plates of tamales wrapped in banana leaves. Fresh marigolds and burning copal incense frame the display, their smoke creating ethereal patterns in the air. The composition captures both the visual splendor and profound cultural significance of Mexican cuisine as it bridges the world of the living and the remembered, with each dish prepared as an act of love and remembrance."
+        }
+      ]
+    },
+    {
+      "id": "7d",
+      "name": "Indian Cuisine",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "Photograph by Raghu Rai, a dramatic image of a traditional Indian thali being served on a banana leaf. The circular arrangement showcases a stunning variety of dishes: fluffy basmati rice at the center surrounded by small copper bowls containing rich, red butter chicken, yellow dal tadka with tempering spices floating on top, emerald green saag paneer, and golden vegetable pakoras. Accompanying these are ramekins of colorful chutneys, crisp papadums, and freshly made roti bread. The composition captures the philosophy of balanced flavors—sweet, salty, bitter, sour, spicy, and astringent—all harmoniously presented in a single meal. In the background, the warm glow of a tandoor oven illuminates the scene with specks of cardamom and cumin visible in the air."
+        },
+        {
+          "prompt": "Documentary photograph by Steve McCurry, a close-up action shot of a street vendor making dosa in Mumbai. Expert hands pour fermented rice and lentil batter onto a sizzling flat griddle, then spread it in a perfect circular motion with astonishing speed to create a paper-thin, crisp pancake. The dosa turns golden at the edges while remaining slightly softer at the center. Nearby, stainless steel containers hold various fillings including spiced potato masala, coconut chutney, and sambar steaming with aromatics. The scene captures the morning rush as commuters wait for their breakfast, with intense focus on the vendor's practiced movements that transform simple ingredients into a beloved culinary art form through technique passed down through generations."
+        },
+        {
+          "prompt": "Painting in the style of M.F. Husain, an atmospheric scene of spice merchants at a traditional Indian market in Rajasthan. Pyramids of ground spices create a vivid rainbow of colors—brilliant yellow turmeric, deep red Kashmiri chiles, burnt orange cumin, and warm brown garam masala—all displayed in open burlap sacks. An elderly merchant with henna-dyed beard uses brass scales to measure saffron threads for a customer, while the afternoon sunlight streams through the fabric overhead, creating dramatic rays that illuminate the dancing particles of spice in the air. The composition captures the sensory intensity of Indian cuisine at its source, where each spice represents centuries of culinary wisdom, medicinal knowledge, and trade history that form the foundation of one of the world's most complex and developed food traditions."
+        }
+      ]
+    },
+    {
+      "id": "8a",
+      "name": "Ancient Ruins",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "Photograph in the style of Kenro Izu, a hauntingly beautiful dawn view of Machu Picchu in Peru. The first light of day casts long shadows across the meticulously arranged stone structures, illuminating the ancient Incan citadel while wisps of mist cling to the surrounding mountain peaks. The terraced agricultural areas descend in precise geometric patterns, demonstrating the advanced engineering of the civilization. The ruins appear suspended between earth and sky, with the sacred Huayna Picchu mountain rising dramatically in the background. The composition captures both the architectural precision and the mystical quality of this remote archaeological wonder built in perfect harmony with its dramatic natural setting."
+        },
+        {
+          "prompt": "Watercolor painting in the style of David Roberts, a romantic view of the Acropolis of Athens at sunset. The Parthenon stands regally atop the rocky outcrop, its Doric columns glowing golden in the fading Mediterranean light. The weathered marble structures bear the elegant scars of their 2,500-year history while maintaining their classical proportions and architectural perfection. Fragments of ancient friezes and fallen columns are scattered around the base, telling stories of the birthplace of democracy. The modern city of Athens spreads out below, creating a dramatic juxtaposition between ancient and contemporary Greece. The scene evokes the enduring legacy of classical civilization that continues to influence architecture, politics, and philosophy worldwide."
+        },
+        {
+          "prompt": "Atmospheric photograph by Steve McCurry, an intimate view of Angkor Wat in Cambodia during monsoon season. The ancient Khmer temple complex is reflected perfectly in a rain-filled courtyard, creating a mirror image of its iconic lotus-bud towers and intricate bas-reliefs. Centuries-old banyan tree roots gracefully intertwine with the weathered sandstone structures, demonstrating nature's slow reclamation of man-made monuments. A solitary monk in saffron robes contemplates the scene, providing scale to the massive architectural achievement. Beams of morning light pierce through the dense jungle canopy, illuminating detailed stone carvings of apsara dancers and epic Hindu narratives that adorn nearly every surface of this sprawling temple city."
+        }
+      ]
+    },
+    {
+      "id": "8b",
+      "name": "Island Paradises",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "Aerial photograph in the style of Gray Malin, a breathtaking overhead view of the Maldives atolls. Pristine coral rings in varying shades of turquoise and azure form perfect circles in the deep blue Indian Ocean. White sand beaches outline each tiny island, some featuring luxury overwater bungalows extending into the crystalline lagoons on elegant wooden piers. A few traditional dhoni boats with their distinctive curved prows create gentle wakes across the tranquil waters. The remarkable clarity of the ocean reveals coral gardens beneath the surface and the occasional shadow of manta rays gliding gracefully through the shallows. The composition captures the otherworldly geography of these fragile paradise islands that barely rise above sea level."
+        },
+        {
+          "prompt": "Digital illustration in the style of James Gurney, a secluded beach cove in Seychelles at golden hour. Massive, weather-sculpted granite boulders create a natural fortress around a perfect crescent of powdery white sand. The distinctive Coco de Mer palm trees with their fan-like fronds provide dappled shade along the shoreline. Crystal-clear water in gradient shades from transparent to deep sapphire laps gently at the shore, revealing colorful tropical fish darting among the rocks. The dramatic sky features vibrant sunset hues reflecting off scattered clouds and mirrored in the calm water. Small tide pools among the rocks contain miniature ecosystems of starfish, sea anemones, and bright blue hermit crabs, inviting exploration of this pristine tropical haven."
+        },
+        {
+          "prompt": "Photograph by Chris Burkard, a dramatic twilight scene in Santorini, Greece. The iconic whitewashed cubic buildings with brilliant blue domes cascade down the volcanic caldera cliffs, their white walls taking on the lavender and gold hues of the setting sun. Narrow, winding cobblestone pathways weave between the structures, occasionally opening to intimate terraces with unobstructed views of the Aegean Sea. Bougainvillea vines with vibrant magenta blooms cascade over weathered walls, adding bursts of color to the predominantly white and blue palette. The calm waters of the submerged volcanic crater reflect the last light of day, while distant sailing vessels create silhouettes against the golden horizon. The scene captures the perfect harmony between natural landscape and human architecture that has made this Cycladic island an iconic destination."
+        }
+      ]
+    },
+    {
+      "id": "8c",
+      "name": "Mountain Retreats",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "Oil painting in the style of Albert Bierstadt, a majestic Alpine scene in the Swiss village of Zermatt. The iconic pyramid-shaped Matterhorn rises dramatically against a crystal-clear blue sky, its snow-capped peak catching the golden light of dawn. In the foreground, traditional wooden chalets with flower-filled window boxes and steep gabled roofs nestle in a verdant valley dotted with wildflowers. A small mountain stream winds through meadows where dairy cows graze peacefully, their bells creating a gentle symphony that echoes across the valley. Pristine pine forests climb the lower slopes, giving way to dramatic rocky outcroppings and glacial ice fields higher up. The scene captures the sublime grandeur and serene beauty that has drawn mountaineers, nature lovers, and artists to the Alps for centuries."
+        },
+        {
+          "prompt": "Photograph by Ansel Adams, a dramatic black and white landscape of Banff National Park in the Canadian Rockies. Towering, jagged mountain peaks with snow-covered summits rise from dense pine forests, their reflections perfectly mirrored in the still waters of Moraine Lake. The characteristic glacial minerals give the water an otherworldly turquoise color that appears luminous even in monochrome. In the foreground, a natural frame of ancient weather-twisted pine trees directs the eye toward the iconic Valley of the Ten Peaks. Dramatic clouds cast moving shadows across the rugged terrain, highlighting the geological features of this vast wilderness. The composition captures both the overwhelming scale and the intimate details of one of North America's most spectacular mountain landscapes, where pristine nature remains largely untouched by human presence."
+        },
+        {
+          "prompt": "Atmospheric watercolor in the style of Maxfield Parrish, a mystical scene of Zhangjiajie National Forest Park in China at dawn. Thousands of slender quartzite-sandstone pillars rise dramatically from the misty valley floor, creating the surreal landscape that inspired the floating mountains of Pandora in Avatar. Wispy tendrils of fog weave between the stone columns, softening their edges and creating an ethereal atmosphere. Gnarled pine trees cling impossibly to the vertical rock faces, their roots seeking purchase in tiny crevices. Traditional Chinese pavilions with upturned eaves perch precariously on the highest pinnacles, accessed by vertiginous stone stairways carved directly into the rock. The golden light of sunrise penetrates the mist in rays, illuminating the scene with an almost supernatural glow that transforms this extraordinary geological formation into something from ancient Chinese mythology."
+        }
+      ]
+    },
+    {
+      "id": "8d",
+      "name": "Urban Hotspots",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "Night photography in the style of Gregory Crewdson, a cinematic street scene in Tokyo's Shinjuku district. Neon signs in Japanese characters cast vibrant reflections on rain-slicked streets, creating a kaleidoscope of colors across the urban landscape. Towering skyscrapers and digital billboards compete for attention with intimate ramen shops and tiny bars hidden in narrow alleyways. Commuters with transparent umbrellas move through the crowded crosswalks while businessmen in suits duck into yakitori stalls emitting plumes of aromatic smoke. Traditional elements like paper lanterns and shrine gates appear unexpectedly among the ultra-modern architecture. The composition balances the overwhelming sensory stimulation of Tokyo's cyberpunk aesthetic with quieter moments of human connection, capturing the city's unique blend of futuristic technology and ancient traditions coexisting in harmonious contradiction."
+        },
+        {
+          "prompt": "Mixed media illustration in the style of Christoph Niemann, a playful interpretation of New York City from the Brooklyn Bridge at dusk. The iconic Manhattan skyline forms a jagged silhouette against a gradient sky, with the Empire State and Chrysler buildings standing proud among the forest of skyscrapers. Yellow taxis create light trails along the grid-pattern streets, while ferry boats cross the East River leaving gentle wakes. Central Park appears as an unexpected rectangular oasis amid the dense urban geometry. Steam rises from subway grates, and water towers perch atop older buildings like sentinels. The scene captures both the architectural grandeur and kinetic energy of the city that never sleeps, where cultures from around the world converge to create a uniquely vibrant metropolis that has defined urban life for generations."
+        },
+        {
+          "prompt": "Stylized digital painting in the style of Edward Hopper, a contemplative evening scene in Paris' Montmartre district. A historic café with warm golden light spilling from its windows anchors the corner of a cobblestone street, its Art Nouveau details highlighted by vintage street lamps. The illuminated Sacré-Cœur Basilica crowns the hill in the distance, its white domes glowing against the deep blue twilight sky. Wrought-iron balconies adorn the uniform Haussmann-era limestone buildings lining the narrow streets. Artists with easels capture the scene while patrons at sidewalk tables sip espresso and pastis, embodying the city's café culture. The composition balances architectural precision with atmospheric elements that evoke the romantic mythology of Paris, where centuries of art, literature, fashion, and philosophy have created a city that exists as much in the cultural imagination as in physical reality."
+        }
+      ]
+    }
+  ]
+}

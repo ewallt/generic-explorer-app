@@ -1,0 +1,12 @@
+{
+    "appTitle": "Open Theism in Practice",
+    "firstLevelLabel": "Application Area",
+    "secondLevelLabel": "Key Concept or Approach",
+    "items": [
+      { "id": "1", "name": "Prayer and Divine Responsiveness" },
+      { "id": "2", "name": "Pastoral Care and Counseling in an Open Universe" },
+      { "id": "3", "name": "Spiritual Formation and the Relational God" },
+      { "id": "4", "name": "Suffering, Evil, and Divine Solidarity" },
+      { "id": "5", "name": "Missional Theology and Open Theism" }
+    ]
+  }

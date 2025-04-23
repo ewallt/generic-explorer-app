@@ -1,0 +1,74 @@
+{
+    "items": [
+      {
+        "id": "1a",
+        "name": "Diego Rivera",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A monumental Mexican mural painting by Diego Rivera depicting the history and struggle of the Mexican people. The large-scale fresco spans an entire wall, divided into multiple narrative panels that flow chronologically from pre-Columbian civilization to the Mexican Revolution. The composition uses Rivera's characteristic flattened perspective and compressed spatial planes to fit numerous figures and historical vignettes into a unified visual narrative. Indigenous workers and farmers in earth-toned clothing occupy the foreground, their muscular bodies rendered with dignified monumentality as they engage in collective labor. Political figures and capitalist exploiters appear in satirical exaggeration, while revolutionary heroes are portrayed with heroic idealism. The palette combines earthy browns and reds with vibrant folkloric colors against areas of architectural gray. Rivera's sophisticated use of form creates rhythm through repeating figures and diagonal compositional lines that guide the viewer through Mexico's complex social history, embodying the muralist movement's mission to create public art that educates and inspires revolutionary consciousness."
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "name": "Frida Kahlo",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A self-portrait by Frida Kahlo in her distinctive Mexican Surrealist style. The artist depicts herself in frontal view against a background of symbolic elements drawn from both personal pain and Mexican cultural traditions. She wears traditional Tehuana clothing—an embroidered huipil top with floral patterns and layered skirts in vibrant colors—while her facial expression remains stoic and direct despite imagery suggesting physical and emotional suffering. Her famous connected eyebrows frame intense eyes that gaze directly at the viewer. Symbolic elements include anatomical hearts, pre-Columbian artifacts, native plants like prickly pear cacti, and small animals such as monkeys or deer that represent aspects of her identity and experience. The painting combines meticulous botanical and biological detail with dreamlike juxtapositions, floating objects, and impossible scenarios. The background shifts between realistic Mexican landscapes and flat decorative patterns, while the overall composition balances pain and beauty through Kahlo's unflinching examination of her fractured body and complex identity as a Mexican woman artist."
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "name": "Alebrijes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A vibrant collection of Mexican alebrijes—fantastical wood-carved creatures from Oaxacan folk art tradition. These whimsical sculptures combine elements from different animals to create chimeric beings painted in extraordinarily detailed patterns with psychedelic color combinations. A jaguar with butterfly wings stands next to a dragon-snake hybrid, while a deer with rooster features and scorpion tail watches from behind. Each creature is meticulously hand-painted with intricate geometric designs—dots, stripes, swirls, and crosshatching—in electric blues, hot pinks, sunshine yellows, and lime greens that contrast dramatically against each other. The wood grain occasionally shows through the paint, revealing the copal wood base material shaped by fine chisels and knives. These mystical creatures represent the spiritual connection between humans and nature in Mexican cosmology while showcasing the technical virtuosity of Oaxacan artisans. The alebrije tradition, begun by Pedro Linares after fever-induced hallucinations, exemplifies Mexican folk art's vibrant imagination and commitment to transforming everyday materials into objects of wonder and spiritual significance."
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "name": "Rufino Tamayo",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A painting by Rufino Tamayo exploring Mexico's indigenous heritage through modernist abstraction. The composition features simplified human figures with distinctive Zapotec-influenced facial features against a richly textured background in earth tones. Tamayo's signature limited palette of burnt sienna, deep crimson, dusty pink, turquoise, and matte black creates a sense of ancient permanence while remaining unmistakably modern. The central figure appears monumental despite the painting's flat perspective, connected to cosmic elements like stylized suns, moons, and stars that reference pre-Columbian symbols. The paint application shows Tamayo's distinctive technique of mixing sand with pigment to create textural surfaces that evoke ancient wall paintings and stone carvings. Unlike the narrative political works of his muralist contemporaries, this painting communicates through formal elements and archetypal imagery, creating a universal emotional resonance while remaining deeply rooted in Mexican cultural identity. The overall effect balances primal intensity with sophisticated formal restraint, representing Tamayo's unique contribution to Indigenismo that honored ancestral cultures without romanticizing or politicizing them."
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "name": "Nahum B. Zenil",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A self-portrait by Nahum B. Zenil in his distinctive Neomexicanismo style that combines personal identity with traditional Mexican iconography. The artist depicts himself in multiple iterations across the canvas, his unmistakable face and mustache rendered with unflinching realism. His body appears adorned with Mexican religious and cultural symbols—sacred hearts, ex-voto imagery, and pre-Hispanic motifs—that create a visual autobiography merging the personal and political. The composition appropriates the format of Catholic retablos (devotional paintings) but subverts religious traditions by inserting homoerotic elements and commentary on machismo culture. Handwritten text in Spanish appears along the borders, adding narrative context in the style of traditional ex-votos. The palette combines rich religious reds and golds with flesh tones and earthy backgrounds, all rendered with meticulous attention to detail. Zenil's work exemplifies Neomexicanismo's preoccupation with questioning national identity, addressing themes of sexuality, religion, and cultural heritage through intensely personal imagery that boldly reclaims traditional Mexican visual language to express contemporary concerns about identity and belonging."
+          }
+        ]
+      },
+      {
+        "id": "6a",
+        "name": "Manuel Álvarez Bravo",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A black and white photograph by Manuel Álvarez Bravo capturing the poetic realism of everyday Mexican life from the 1930s. The image shows a street scene with strong contrasts between light and shadow created by the harsh Mexican sun casting dramatic patterns across adobe walls. A solitary figure—perhaps a campesino with a wide-brimmed sombrero—is partially visible in a doorway, creating a sense of mystery and narrative possibility. Ordinary objects take on surrealist qualities through Álvarez Bravo's careful framing and attention to textural details: weathered wood, rough stucco walls, and handwoven textiles. The composition demonstrates his masterful use of geometric forms found in vernacular architecture—arches, rectangles, and diagonal shadows—to create formal balance while maintaining documentary authenticity. His distinctively Mexican modernist vision transforms the quotidian into the transcendent without sentimentality or folkloric clichés. The photograph reveals Álvarez Bravo's ability to find universal human conditions in specifically Mexican contexts, capturing both the physical reality and the psychological atmosphere of post-revolutionary Mexico through images that function simultaneously as cultural documentation and poetic metaphor."
+          }
+        ]
+      },
+      {
+        "id": "7a",
+        "name": "Gabriel Orozco",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A conceptual installation by contemporary Mexican artist Gabriel Orozco that transforms mundane objects through subtle intervention and recontextualization. The piece features a carefully arranged series of found and modified everyday items—perhaps market fruit, automotive parts, or urban debris—reconfigured in geometric patterns that reveal hidden mathematical relationships. Orozco's characteristic circular motifs appear throughout, suggesting cosmic order within chaos. Natural materials interact with industrial elements, creating tension between organic and manufactured forms. The work occupies an ambiguous space between sculpture, readymade, and social commentary, reflecting Orozco's interest in chance operations and impermanence. The installation is photographed in natural light against a minimal background, emphasizing the formal qualities of ordinary materials and the poetry of everyday encounters. Unlike earlier generations of Mexican artists who emphasized national identity, Orozco's work engages in transnational dialogue while maintaining subtle connections to Mexican craft traditions and spatial concepts. The piece exemplifies contemporary Mexican art's global sophistication while maintaining a distinctive sensibility rooted in improvisational creativity and finding extraordinary potential in overlooked aspects of daily life."
+          }
+        ]
+      }
+    ]
+  }

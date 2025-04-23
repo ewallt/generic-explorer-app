@@ -1,0 +1,35 @@
+{
+    "appTitle": "Brazilian Art Styles Explorer for Midjourney",
+    "firstLevelLabel": "Style",
+    "secondLevelLabel": "Artist",
+    "items": [
+      {
+        "id": "1",
+        "name": "Brazilian Modernism"
+      },
+      {
+        "id": "2",
+        "name": "Tropicália"
+      },
+      {
+        "id": "3",
+        "name": "Neo-Concrete Movement"
+      },
+      {
+        "id": "4",
+        "name": "Indigenous Brazilian Art"
+      },
+      {
+        "id": "5",
+        "name": "Brazilian Street Art"
+      },
+      {
+        "id": "6",
+        "name": "Brazilian Landscape Painting"
+      },
+      {
+        "id": "7",
+        "name": "Contemporary Brazilian Art"
+      }
+    ]
+  }
