@@ -1,0 +1,34 @@
+{
+    "firstLevelLabel": "Concept",
+    "secondLevelLabel": "Author",
+    "items": [
+      {
+        "id": "1",
+        "name": "Nonviolence Criterion"
+      },
+      {
+        "id": "2",
+        "name": "Atonement Theology"
+      },
+      {
+        "id": "3",
+        "name": "Biblical Interpretation / Hermeneutics"
+      },
+      {
+        "id": "4",
+        "name": "Mimetic Theory"
+      },
+      {
+        "id": "5",
+        "name": "Theology of \"the Powers\""
+      },
+      {
+        "id": "6",
+        "name": "Theology, Spirituality & Activism Integration"
+      },
+      {
+        "id": "7",
+        "name": "Human Nature & Transformation"
+      }
+    ]
+  }

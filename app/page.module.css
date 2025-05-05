@@ -158,6 +158,15 @@
   border-left: 4px solid #3498db;
 }
 
+.footnote {
+  background-color: #f1f9fe;
+  padding: 15px;
+  border-radius: 8px;
+  margin-top: 15px;
+  font-size: 1rem;
+  border-left: 4px solid #3498db;
+}
+
 @media (max-width: 768px) {
   .container {
     padding: 15px;

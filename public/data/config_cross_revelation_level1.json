@@ -1,0 +1,13 @@
+{
+    "firstLevelLabel": "Concept",
+    "secondLevelLabel": "Author",
+    "items": [
+      { "id": "1", "name": "Christus Victor / Divine Victory" },
+      { "id": "2", "name": "Scapegoat & Mimetic Revelation" },
+      { "id": "3", "name": "Apocalyptic Unveiling & Eschatological Revelation" },
+      { "id": "4", "name": "Defeat of the Powers" },
+      { "id": "5", "name": "Nonviolent Atonement" },
+      { "id": "6", "name": "Divine Character & Self‑Revelation" },
+      { "id": "7", "name": "Human Vocation & Cruciform Transformation" }
+    ]
+  }

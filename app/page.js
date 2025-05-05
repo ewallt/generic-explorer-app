@@ -147,7 +147,7 @@ export default function Explorer() {
 
   return (
     <main className={styles.container}>
-      <h1>Style Explorer</h1>
+      <h1>{configRegistry?.apps.find(app => app.id === selectedConfigId)?.name || "Explorer"}</h1>
       
       <div className={styles.controls}>
         {/* Config Registry Dropdown */}
