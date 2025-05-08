@@ -1,0 +1,612 @@
+{
+    "items": [
+      {
+        "id": "1a",
+        "name": "Water Lilies",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A masterful oil painting in the impressionistic style of Claude Monet, capturing the iconic water lilies in his Giverny garden. The composition focuses on a serene expanse of the pond, where clusters of pink and white water lilies float gracefully upon the reflective surface. Dappled sunlight, filtering delicately through unseen weeping willow branches above, creates a mesmerizing play of light and shadow, with shimmering highlights dancing on the water and lily pads. The reflections are soft and slightly blurred, merging the blues of the sky, the varied greens of the aquatic foliage, and the subtle pinks of the blossoms into a harmonious tapestry of color. Emphasize Monet's characteristic painterly brushstrokes, where forms begin to dissolve into light, creating an almost abstract quality while retaining the essence of the scene. The overall mood is one of profound tranquility and immersive natural beauty."
+          },
+          {
+            "prompt": "An intimate close-up view of Claude Monet's water lilies, focusing on the intricate texture of the petals and the glossy, reflective surfaces of the lily pads. The light plays across the water, creating complex patterns of shimmering highlights and deep shadows. Vibrant green aquatic plants emerge from the depths, contrasting with the delicate pastel colors of the lilies. Inspired by his late series, rendered in a detailed oil painting aesthetic with visible brushstrokes and a shallow depth of field to emphasize the tactile quality of the flowers."
+          },
+          {
+            "prompt": "A vast panoramic vista of Claude Monet's water lily pond, with the subtle suggestion of the Japanese bridge arching gracefully in the background, partially obscured by lush foliage. The reflections of the sky and clouds are mirrored perfectly on the still water's surface, creating a sense of boundless space and tranquility. Forms seem to dissolve into the interplay of light and color, blurring the lines between water, lilies, and sky, generating a sense of peace and immersion in nature's beauty."
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "name": "Haystacks Series",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An evocative oil painting in the style of Claude Monet, capturing his iconic haystacks series. The scene depicts massive, rounded haystacks resting in a tranquil French field at the first light of dawn. Soft, ethereal golden light breaks through a low-lying mist, casting long, cool purple and pink shadows that define the forms. Focus on the interplay of light and color, with visible, textured brushstrokes conveying the fleeting atmospheric conditions. Compositionally, a low horizon line emphasizing the expansive, dewy fields and the luminous sky."
+          },
+          {
+            "prompt": "Monet's haystacks in winter, rendered in cool, muted tones to capture the stillness and quiet of a snow-covered landscape. The haystacks stand as stark silhouettes against the pale winter sky, their forms defined by delicate layers of snow. Cool blue, violet, and grey shadows stretch across the fields, contrasting with the subtle warmth of the weak winter sun. The focus is on capturing the transient effects of light on the snow and the crisp, clean lines of the haystacks against the horizon."
+          },
+          {
+            "prompt": "Claude Monet's haystacks bathed in the dramatic light of a vibrant sunset, with a fiery orange and red sky casting long, elongated shadows across the golden fields. The rich impasto texture of the oil paint emphasizes the dynamic play of light and color, capturing the energy and warmth of the scene at the end of the day. The atmosphere is dramatic and intense, conveying a sense of both beauty and the fleeting nature of time."
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "name": "Rouen Cathedral Series",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "The facade of Rouen Cathedral bathed in full sunlight, depicted in the impressionistic style of Claude Monet. The bright light illuminates the textured stone of the gothic architecture, creating a dazzling array of light effects and intricate details. Capture the transient light with visible, energetic brushwork, dissolving the architectural elements into vibrant blocks of color and light. A dynamic and luminous interpretation of the cathedral's imposing presence."
+          },
+          {
+            "prompt": "Monet's Rouen Cathedral shrouded in soft morning mist, rendered in subtle blue and grey tones to emphasize the ethereal and atmospheric quality of the scene. Focus on the delicate interplay of light on the gothic architecture, where the details are softened and blurred by the diffused light. The mood is peaceful and contemplative, capturing the transient beauty of the cathedral emerging from the mist."
+          },
+          {
+            "prompt": "Rouen Cathedral at sunset, illuminated with the warm hues of oranges, pinks, and violets in the style of Monet. The facade is bathed in the dramatic light, with deep shadows emphasizing the textured surface of the stone. A vibrant study of color and light, capturing the architectural details of the cathedral as they are transformed by the rich, warm glow of the setting sun. The oil painting aesthetic showcases visible brushstrokes and a dynamic interplay of light and shadow."
+          }
+        ]
+      },
+      {
+        "id": "1d",
+        "name": "Poplars Series",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "Claude Monet's Poplars on the Epte river, capturing the tall, slender trees reflected in the calm water. The sunlit leaves create a vibrant tapestry of greens and blues, conveying the serene beauty of a summer day. The composition emphasizes the verticality of the trees and their elegant reflections, with visible brushstrokes adding texture and movement to the water and foliage."
+          },
+          {
+            "prompt": "Poplars in autumn, depicted with golden and russet foliage reflected in the tranquil water of the Epte. The soft, atmospheric light enhances the warm colors of the scene, creating a peaceful riverbank view in the impressionistic style of Claude Monet. The reflections are painterly and fluid, capturing the ephemeral beauty of the fall season and the changing light on the water."
+          },
+          {
+            "prompt": "A dynamic line of poplar trees by Monet, seen against a luminous sky. Focus on the effects of wind and light on the trees, with visible, dynamic brushstrokes conveying a sense of movement and energy. A study of form and rhythm, capturing the essence of the tall, slender trees as they sway in the breeze against the expansive sky."
+          }
+        ]
+      },
+      {
+        "id": "1e",
+        "name": "London Series (Parliament, Bridges)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "Houses of Parliament, London, by Claude Monet, with the Thames river in the foreground. The foggy atmosphere diffuses the sunlight, creating dramatic silhouettes of the iconic Big Ben tower and the architectural details of the parliament buildings. Rendered in impressionistic blues and greys, capturing the characteristic mood and light of London's atmosphere."
+          },
+          {
+            "prompt": "Monet's Waterloo Bridge, London, capturing the soft, hazy light and the subtle colors of the industrial atmosphere. Reflections of the bridge and the city shimmer on the surface of the Thames, conveying the characteristic mood of London and the ephemeral beauty of light on water."
+          },
+          {
+            "prompt": "Charing Cross Bridge by Monet, depicting steam trains emitting smoke and creating dramatic light effects through the fog and smoke. Busy river traffic adds to the dynamism of the scene, capturing an industrial yet impressionistic view of London and the atmosphere of its bustling waterways."
+          }
+        ]
+      },
+      {
+        "id": "1f",
+        "name": "Gardens/Giverny Scenes (non-Water Lilies)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "Claude Monet's garden at Giverny, rendered as a vibrant tapestry of flowerbeds with irises and roses in full bloom. Pathways and trellises wind through the lush greenery, creating a rich composition of colors and textures under the bright sunlight. An impressionistic oil painting capturing the lively beauty and abundant detail of the garden."
+          },
+          {
+            "prompt": "The Japanese bridge in Monet's Giverny garden, excluding the water lilies focus, showcasing the wisteria vines cascading over the arched structure. Lush green foliage frames the bridge, emphasizing the interplay of light and shadow on the verdant pond edge. A serene and picturesque view of the iconic bridge within its garden setting."
+          },
+          {
+            "prompt": "A corner of Monet's flower garden at Giverny, densely packed with blossoms and showcasing the delicate play of light and shadow on the leaves and petals. A lively and colorful scene, capturing the vibrancy of the garden with textured brushwork that emphasizes the richness and depth of the floral details."
+          }
+        ]
+      },
+      {
+        "id": "1g",
+        "name": "Coastal Scenes & Seascapes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An impressionistic seascape by Claude Monet, depicting the dramatic cliffs of Étretat against a turbulent sea with white-capped waves. The composition captures the raw power of nature and the dynamic interplay of light on the water and rugged coastline during a stormy day, with expressive, vigorous brushstrokes."
+          },
+          {
+            "prompt": "Monet's lively beach scene at Trouville, with elegantly dressed figures lounging under parasols on the golden sand, and sailboats gliding on the bright sea in the distance. The scene is filled with the light, breezy atmosphere of a fashionable seaside resort, captured with quick, flickering brushwork."
+          },
+          {
+            "prompt": "A serene sunset over the ocean as painted by Claude Monet, the sky ablaze with vibrant oranges, deep reds, and soft purples reflecting intensely on the calm water. Silhouettes of fishing boats are gently rocked by the tide, evoking a peaceful end to the day with a focus on the rich, painterly sky and its luminous reflections."
+          }
+        ]
+      },
+    {
+      "id": "2a",
+      "name": "Dancers (Ballet)",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A candid moment backstage at the ballet, in the style of Edgar Degas. Several young ballerinas adjust their costumes or stretch, illuminated by gaslight casting dramatic shadows. Emphasis on unexpected angles, cropped compositions, and capturing gesture and movement. Pastel or oil medium with visible linework."
+        },
+        {
+          "prompt": "Ballet dancers rehearsing on stage, captured by Degas. Focus on the discipline and physicality of the dancers, perhaps seen from a high viewpoint or from the wings. The lighting models their forms, highlighting muscles and tutus. A sense of fleeting movement and behind-the-scenes reality."
+        },
+        {
+          "prompt": "A single ballerina performing on stage under bright stage lights, style of Degas. The background is simplified or darkened to emphasize her form and graceful pose. Capture the texture of the tutu and the elegance of the dance, possibly using pastel with bold outlines."
+        }
+      ]
+    },
+    {
+      "id": "2b",
+      "name": "Racehorses & Jockeys",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "Racehorses and jockeys before the start, depicted by Edgar Degas. Tension and anticipation fill the air. Focus on the sleek forms of the horses and the colorful silks of the jockeys. Unusual cropping and perspective, perhaps showing only parts of the horses or a wide view of the track under a bright sky."
+        },
+        {
+          "prompt": "A dynamic scene of horses galloping during a race, in the style of Degas. Capturing the energy and speed of the movement, with blurred backgrounds suggesting motion. The composition might be asymmetrical, focusing on the patterns created by the horses and riders."
+        },
+        {
+          "prompt": "Jockeys mounting their horses in the paddock, observed by Degas. A study of posture, the interaction between rider and horse, and the specific attire of the jockeys. Naturalistic light and careful drawing characterize the scene."
+        }
+      ]
+    },
+    {
+      "id": "2c",
+      "name": "Portraits & Figures",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An insightful portrait in the style of Edgar Degas, capturing the psychological depth of the subject. Often featuring friends, family, or fellow artists in contemporary settings. Emphasis on character and mood, sometimes with unconventional poses or compositions. Masterful drawing underlies the painting or pastel work."
+        },
+        {
+          "prompt": "A portrait reflecting Degas's interest in photography's influence, perhaps with strong cropping or an unusual viewpoint. The subject might be caught in a casual, unposed moment, possibly in an interior setting with specific lighting like lamplight."
+        },
+        {
+          "prompt": "A double portrait by Degas, exploring the relationship or tension between two figures within a shared space. Careful composition and subtle details reveal aspects of their personalities and connection. Realistic depiction combined with impressionistic handling of light and background."
+        }
+      ]
+    },
+    {
+      "id": "2d",
+      "name": "Nudes / Bathers",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A woman bathing or drying herself, depicted in the intimate yet objective style of Degas's later nudes. Often seen from an unusual angle, like from above, emphasizing the lines and forms of the body during private moments. Pastel medium with bold strokes and lines."
+        },
+        {
+          "prompt": "Nude study by Degas focusing on the structure and weight of the human form. Unidealized depiction, capturing realistic poses and gestures associated with bathing or personal grooming. Strong sense of line and modeling."
+        },
+        {
+          "prompt": "A woman stepping out of a tub or combing her hair, in the style of Degas. The setting is simple, focusing attention on the figure. Use of pattern, perhaps wallpaper or a rug, contrasts with the form of the nude body. Captured moment of private life."
+        }
+      ]
+    },
+    {
+      "id": "3a",
+      "name": "Portraits (Society, Children)",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A luminous portrait of a woman or child in the charming style of Pierre-Auguste Renoir. Soft, dappled light illuminates rosy cheeks and captures the texture of clothing like lace or velvet. Emphasis on beauty, warmth, and gentle expressions. Impressionistic brushwork with blended colors."
+        },
+        {
+          "prompt": "Portrait capturing the sweetness and innocence of childhood, reminiscent of Renoir. Soft focus, warm palette, and a sense of tenderness. The subject might be engaged in a simple activity or looking directly at the viewer with bright eyes."
+        },
+        {
+          "prompt": "An elegant society portrait by Renoir, showcasing fashionable attire and a graceful pose. The background is often softly rendered, perhaps a garden or interior setting, complementing the subject without distracting. Focus on capturing a pleasant likeness and a feeling of vibrancy."
+        }
+      ]
+    },
+    {
+      "id": "3b",
+      "name": "Group Leisure Scenes",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A bustling outdoor gathering, like Renoir's 'Luncheon of the Boating Party' or 'Bal du moulin de la Galette'. Figures enjoying themselves eating, drinking, dancing, and conversing under dappled sunlight. Captures the joy and conviviality of modern Parisian life. Vibrant colors and lively, feathery brushstrokes."
+        },
+        {
+          "prompt": "A scene of people enjoying leisure time outdoors, perhaps boating on the Seine or relaxing in a park, in the style of Renoir. Bright sunlight filters through trees, creating patterns on the figures and ground. Emphasis on capturing movement, light, and the pleasant atmosphere of a sunny day."
+        },
+        {
+          "prompt": "An intimate group scene indoors, perhaps playing music or conversing in a salon, depicted by Renoir. Warm artificial light creates a cozy atmosphere. Focus on the interactions between figures and the rich textures of fabrics and furnishings, rendered with soft, blended brushwork."
+        }
+      ]
+    },
+    {
+      "id": "3c",
+      "name": "Nudes / Bathers",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A sensuous female nude rendered in the distinct style of Renoir's later period. Smooth, idealized forms with pearly skin tones and rosy complexions. Often depicted outdoors as bathers near water. Emphasis on rounded volumes and classical beauty, combined with impressionistic handling of light and color."
+        },
+        {
+          "prompt": "Renoir's depiction of bathers in a landscape setting. Figures relax by a river or pool, their skin glowing in the sunlight. The surrounding nature is lush and vibrant. A feeling of warmth, health, and timeless beauty."
+        },
+        {
+          "prompt": "Close-up study of a nude figure by Renoir, focusing on the soft modeling of form and the interplay of light on skin. Warm color palette emphasizing pinks, peaches, and creamy whites. A celebration of the female form rendered with tenderness."
+        }
+      ]
+    },
+    {
+      "id": "3d",
+      "name": "Landscapes",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A vibrant, sun-drenched landscape in the south of France or near the Seine, painted by Renoir. Lush vegetation, bright flowers, and sparkling water under a brilliant blue sky. Often includes figures enjoying the scenery. Characterized by warm colors and feathery, dissolving brushstrokes."
+        },
+        {
+          "prompt": "Impressionistic landscape by Renoir focusing on the effects of bright sunlight. Shadows are filled with color, often blues and purples. Trees and foliage are rendered with dappled light effects. A feeling of warmth and the vibrancy of nature on a beautiful day."
+        },
+        {
+          "prompt": "A coastal scene by Renoir, perhaps depicting the cliffs or beaches of Normandy or the Mediterranean. Bright light reflects off the water and rocks. The palette captures the intense blues of the sea and sky, contrasted with the warm tones of the land. Lively and cheerful atmosphere."
+        }
+      ]
+    },
+    {
+      "id": "4a",
+      "name": "Rural Landscapes (Pontoise, Éragny)",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A realistic yet impressionistic rural landscape near Pontoise or Éragny, in the style of Camille Pissarro. Rolling hills, cultivated fields, orchards, and village paths under a carefully observed sky. Emphasis on the structure of the landscape and the effects of light and atmosphere at a specific time of day."
+        },
+        {
+          "prompt": "Pastoral scene by Pissarro depicting the French countryside. Focus on agricultural life, perhaps fields being plowed or harvested, with a sense of harmony between the land and the sky. Textured brushwork captures the feel of earth, grass, and trees."
+        },
+        {
+          "prompt": "A quiet village road or pathway winding through the countryside, characteristic of Pissarro's landscapes. Cottages nestled amongst trees, perhaps a lone figure walking. Attention to the nuances of light and shadow, creating a peaceful, grounded atmosphere."
+        }
+      ]
+    },
+    {
+      "id": "4b",
+      "name": "Urban Landscapes (Paris, Rouen)",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A bustling Parisian boulevard seen from a high viewpoint, in the style of Camille Pissarro's cityscapes. Captures the movement of crowds, carriages, and omnibuses under varying weather conditions (sunshine, rain, snow). Focus on the patterns of modern urban life and atmospheric effects."
+        },
+        {
+          "prompt": "View of a busy harbor or market square in Rouen or another French city, by Pissarro. Detailed observation of the architecture, the activity of people, and the specific quality of light. Impressionistic technique applied to the dynamic urban environment."
+        },
+        {
+          "prompt": "A snow-covered street scene in Paris or a provincial town, depicted by Pissarro. Soft, muted light reflects off the snow, creating subtle color variations in the shadows. Captures the quiet, muffled atmosphere of the city under snow."
+        }
+      ]
+    },
+    {
+      "id": "4c",
+      "name": "Market Scenes & Crowds",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A vibrant market scene in a French town square, painted by Camille Pissarro. Bustling crowds mill around stalls laden with produce or goods. Captures the energy and social interaction of the marketplace with lively brushwork and attention to individual figures within the crowd."
+        },
+        {
+          "prompt": "Close-up view within a busy outdoor market, characteristic of Pissarro. Focus on the textures of goods, the interactions between vendors and customers, and the patterns created by the crowd and stalls. Dynamic composition reflecting the lively atmosphere."
+        },
+        {
+          "prompt": "Figures gathered in a public space, perhaps for a festival or simply interacting on a street corner, depicted by Pissarro. Observational detail captures the variety of poses, gestures, and social types within the crowd. Emphasis on the collective life of the community."
+        }
+      ]
+    },
+    {
+      "id": "4d",
+      "name": "Peasant Figures & Rural Life",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "Peasant figures working or resting in the fields, portrayed with dignity and realism in the style of Pissarro. Integrated naturally into the rural landscape setting. Focus on capturing the character and daily life of agricultural workers without overt sentimentality."
+        },
+        {
+          "prompt": "A woman working in a vegetable garden or tending to farm animals near a cottage, typical of Pissarro's depictions of rural domestic life. Observational detail in the figure's pose, clothing, and surroundings. Harmonious integration of figure and landscape."
+        },
+        {
+          "prompt": "Study of peasant figures by Pissarro, perhaps focusing on their connection to the land or the tools of their labor. Rendered with solid drawing and impressionistic attention to light and color. A sympathetic portrayal of the rhythms of country life."
+        }
+      ]
+    },
+    {
+      "id": "5a",
+      "name": "Portraits (Women, Children, Family)",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An intimate portrait of a woman or child in the delicate, luminous style of Berthe Morisot. Soft, feathery brushstrokes define the form against a loosely painted background, perhaps an interior or garden setting. Emphasis on capturing a fleeting expression, inner thoughts, and the play of light on skin and fabric. Often uses a light, high-key palette."
+        },
+        {
+          "prompt": "A tender portrayal of family life by Morisot, perhaps a mother reading to her child or sisters seated together. The composition feels natural and unposed, capturing a moment of quiet domesticity. Delicate handling of whites and pastel colors, with loose, sketch-like brushwork suggesting form rather than detailing it precisely."
+        },
+        {
+          "prompt": "Portrait study focusing on the face and upper body, characteristic of Morisot's approach. Light seems to emanate from within the subject, rendered with fluid, almost translucent brushstrokes. The psychological presence of the sitter is subtly conveyed through gaze and posture."
+        }
+      ]
+    },
+    {
+      "id": "5b",
+      "name": "Domestic Interiors/Daily Life",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A scene of everyday life within a comfortable bourgeois interior, painted by Berthe Morisot. A woman engaged in needlework, reading, or tending to household tasks. Light often streams in from a window, illuminating the figure and parts of the room. Loose brushwork captures the textures of fabrics, furniture, and reflected light."
+        },
+        {
+          "prompt": "An interior view focusing on the interplay of light and reflection, perhaps featuring mirrors or windows, in Morisot's style. Figures are integrated into the light-filled space. The composition might be informal, capturing a candid glimpse of domestic activity."
+        },
+        {
+          "prompt": "Elegant interior setting depicted by Morisot, possibly a drawing room or boudoir. Attention to details like wallpaper patterns, flowers in vases, or decorative objects, all rendered with her characteristic light touch and feathery brushstrokes. A sense of refined comfort and privacy."
+        }
+      ]
+    },
+    {
+      "id": "5c",
+      "name": "Gardens & Outdoor Leisure",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "Figures, often women and children, relaxing or strolling in a lush garden setting, in the style of Berthe Morisot. Bright sunlight filters through foliage, rendered with quick, flickering brushstrokes. Vibrant greens and floral colors dominate. Captures the pleasant atmosphere of outdoor leisure."
+        },
+        {
+          "prompt": "A scene set on a veranda or balcony overlooking a garden, characteristic of Morisot. Figures might be interacting or looking out at the view. The boundary between interior and exterior space is often blurred. Loose, airy brushwork conveys the feeling of open air and sunlight."
+        },
+        {
+          "prompt": "Impressionistic depiction of a park or garden landscape by Morisot, focusing on the effects of light on flowers and foliage. Forms are suggested rather than defined, creating a shimmering, vibrant surface texture. Often features elegantly dressed figures integrated into the scene."
+        }
+      ]
+    },
+    {
+      "id": "5d",
+      "name": "Coastal Scenes/Boating",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A bright coastal scene by Berthe Morisot, perhaps depicting elegantly dressed figures by the harbor or on a boat. Sparkling light reflects off the water. Quick, light brushstrokes capture the movement of waves, sails, and the breezy atmosphere. High-key palette dominated by blues and whites."
+        },
+        {
+          "prompt": "View of a harbor with sailboats, characteristic of Morisot's coastal paintings. Focus on the effects of sunlight on the water and the distant shoreline. The composition feels fresh and spontaneous, capturing a moment observed."
+        },
+        {
+          "prompt": "Figures in a small sailboat on shimmering water, painted by Morisot. The reflections and the boat itself are rendered with loose, fluid strokes. A sense of leisure and the pleasure of being near the sea under bright daylight."
+        }
+      ]
+    },
+    {
+      "id": "6a",
+      "name": "Mothers & Children",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A tender depiction of a mother embracing or caring for her child, in the intimate style of Mary Cassatt. Focus on the emotional bond and loving gestures between the figures. Often set within a domestic interior. Strong drawing underlies the composition, combined with impressionistic light and color."
+        },
+        {
+          "prompt": "Mother bathing her child, a recurring theme for Cassatt. Captures the everyday intimacy and physicality of the moment with unsentimental realism. Attention to the forms of the figures, the texture of skin, water, and towels. Often uses pastel or oil with clear contours."
+        },
+        {
+          "prompt": "A portrait focusing on the relationship between a mother and child, perhaps reading together or simply interacting quietly. Cassatt captures the nuances of their connection through pose and expression. Solid composition and skillful draftsmanship are evident."
+        }
+      ]
+    },
+    {
+      "id": "6b",
+      "name": "Portraits (Women, Girls)",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A portrait of a thoughtful young woman, characteristic of Mary Cassatt. The subject might be depicted reading, having tea, or simply in contemplation within a domestic setting. Emphasis on the subject's personality and inner life. Strong composition and clear forms."
+        },
+        {
+          "prompt": "Portrait of a young girl by Cassatt, capturing her distinct character and perhaps a moment of quiet seriousness or curiosity. Often dressed in contemporary attire. Masterful drawing combined with attention to the effects of light, particularly in indoor settings."
+        },
+        {
+          "prompt": "An elegant portrait study of a woman, perhaps focusing on her profile or a three-quarter view, in the style of Cassatt. Influenced by Japanese prints in its composition and clarity of line, yet rendered with impressionistic sensitivity to light and atmosphere."
+        }
+      ]
+    },
+    {
+      "id": "6c",
+      "name": "Scenes of Daily Life (Reading, Sewing)",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A woman absorbed in reading a book or newspaper in a comfortable interior setting, painted by Mary Cassatt. Captures a quiet moment of modern life. Attention to the details of the setting, the woman's attire, and the quality of indoor light."
+        },
+        {
+          "prompt": "Depiction of a woman engaged in sewing or needlework, a common theme for Cassatt portraying female domesticity. The composition often focuses closely on the figure and the task at hand. Realistic portrayal combined with impressionistic brushwork."
+        },
+        {
+          "prompt": "Two women having tea or conversing in an interior space, characteristic of Cassatt's observations of female social life. Emphasis on the interaction and relationship between the figures, captured with psychological insight and compositional skill."
+        }
+      ]
+    },
+    {
+      "id": "6d",
+      "name": "Opera/Theatre Scenes",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An elegant woman seated in a box at the opera or theatre, viewing the performance or observing the audience, in the style of Mary Cassatt. Captures the atmosphere of opulent theatre interiors and the social dynamics of the event. Often uses artificial light effects and interesting perspectives, sometimes influenced by Degas."
+        },
+        {
+          "prompt": "View from a theatre box looking out towards the stage or across at other audience members, reminiscent of Cassatt. Focus on the richly dressed figures, perhaps holding fans or opera glasses. The composition might use strong diagonals or cropping."
+        },
+        {
+          "prompt": "A woman preparing to go out to the theatre or returning, depicted by Cassatt. Scene might include details of evening wear, mirrors, or interior lighting, capturing moments related to the social ritual of attending the opera."
+        }
+      ]
+    },
+    {
+      "id": "7a",
+      "name": "Parisian Street Scenes/Urban Views",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A sweeping view of a modern Parisian boulevard on a rainy day, in the distinct style of Gustave Caillebotte. Figures with umbrellas stroll along wet, reflective pavements. Unique high-angle perspective, perhaps looking down from a balcony, capturing the patterns of the Haussmannian city layout. Realistic detail combined with impressionistic light effects."
+        },
+        {
+          "prompt": "The Pont de l'Europe bridge in Paris, depicted by Caillebotte. Focus on the iron structure of the bridge, the figures crossing it, and the urban landscape beyond, perhaps with steam from trains below. Strong sense of perspective and modern industrial atmosphere, rendered with precise drawing."
+        },
+        {
+          "prompt": "Urban landscape by Caillebotte showing Parisian apartment buildings and streets. Emphasis on architectural details, perspective, and the interplay of light on facades. Captures the feeling of modern city life with clarity and often unconventional compositions."
+        }
+      ]
+    },
+    {
+      "id": "7b",
+      "name": "Portraits in Modern Settings",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A portrait of a contemporary figure, perhaps a family member or friend, set within a modern bourgeois interior or urban environment, painted by Gustave Caillebotte. Realistic depiction of the sitter and their surroundings, capturing their personality and social context. Often characterized by clear light and precise detail."
+        },
+        {
+          "prompt": "Figure study by Caillebotte, possibly showing men in suits or workers, rendered with strong realism. Attention to anatomy, clothing, and posture. The setting often plays a key role in defining the subject's identity or activity."
+        },
+        {
+          "prompt": "Self-portrait or portrait of an artist in their studio, characteristic of Caillebotte. The environment is depicted with care, showing tools of the trade or personal belongings, providing insight into the subject's life and profession."
+        }
+      ]
+    },
+    {
+      "id": "7c",
+      "name": "Boating & Regatta Scenes",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "Men rowing or sailing on the Yerres river, captured in the dynamic, light-filled style of Gustave Caillebotte. Focus on the muscular effort of the rowers or the elegant lines of sailboats cutting through the water. Bright sunlight reflects off the water's surface. Realistic depiction of leisure activity."
+        },
+        {
+          "prompt": "A view of the Yerres river with leisure boats, painted by Caillebotte. Reflections of trees and sky on the calm water. Composition often features strong diagonals or interesting viewpoints, possibly influenced by photography. Captures the atmosphere of a summer day outdoors."
+        },
+        {
+          "prompt": "Close-up perspective of a figure in a canoe or skiff, characteristic of Caillebotte's boating scenes. Precise rendering of the boat, the water, and the figure's interaction with them. Strong contrasts of light and shadow enhance the sense of realism and immediacy."
+        }
+      ]
+    },
+    {
+      "id": "7d",
+      "name": "Interior Scenes (Domestic, Bourgeois)",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A quiet scene within a well-appointed bourgeois apartment interior, painted by Gustave Caillebotte. Figures might be reading, conversing, or looking out a window. Precise rendering of furniture, decor, and the effects of light within the room. Often explores themes of modern urban life and domesticity."
+        },
+        {
+          "prompt": "View through a window or doorway from inside an interior space, characteristic of Caillebotte's compositions. Focus on perspective and the juxtaposition of indoor and outdoor spaces. Careful attention to architectural details and the quality of light."
+        },
+        {
+          "prompt": "An interior depicting a meal or gathering, such as 'Luncheon', by Caillebotte. Realistic portrayal of figures around a table, the food, and the surrounding decor. Explores social interactions within a contemporary domestic setting."
+        }
+      ]
+    },
+    {
+      "id": "8a",
+      "name": "River Landscapes (Seine, Loing)",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A serene landscape featuring the Seine or Loing river, painted in the delicate, atmospheric style of Alfred Sisley. Focus on the tranquil water reflecting the sky and riverside trees. Soft, natural light, perhaps an overcast day or gentle sunlight. Captures the peaceful charm of the Île-de-France region."
+        },
+        {
+          "prompt": "River scene by Sisley with barges, locks, or bridges. Integration of subtle human elements within the dominant landscape. Attention to the changing effects of light and weather on the water and surrounding scenery. Impressionistic brushwork with a gentle touch."
+        },
+        {
+          "prompt": "Reflections in the water as a primary subject, characteristic of Sisley's river paintings. Trees, sky, and buildings mirrored on the shimmering or calm surface. Delicate handling of color and light to convey the fluidity and transparency of water."
+        }
+      ]
+    },
+    {
+      "id": "8b",
+      "name": "Snow Landscapes (Effets de Neige)",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A French village or countryside covered in snow, depicted with the subtle sensitivity of Alfred Sisley. Soft, diffused light typical of a snowy day. Focus on the delicate range of whites, greys, and blues in the snow and sky, with subtle color notes in shadows or buildings. Quiet, muffled atmosphere."
+        },
+        {
+          "prompt": "Snow scene by Sisley featuring a road or path leading through the landscape. Tracks in the snow might guide the viewer's eye. Careful observation of how snow blankets forms and reflects the cool light. Captures the specific feeling of a winter day."
+        },
+        {
+          "prompt": "Close-up study of snow on rooftops, trees, or fences, in the style of Sisley. Emphasis on the texture of the snow and the subtle interplay of light and shadow on the white surfaces. A delicate and nuanced portrayal of winter."
+        }
+      ]
+    },
+    {
+      "id": "8c",
+      "name": "Village & Countryside Views",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A view of a small French village like Louveciennes or Moret-sur-Loing, painted by Alfred Sisley. Picturesque houses, church spires, and quiet streets nestled within the landscape. Focus on the harmonious relationship between the village architecture and the surrounding nature under specific light conditions."
+        },
+        {
+          "prompt": "Open countryside scene by Sisley, depicting fields, meadows, or rolling hills. Emphasis on the expansive sky and atmospheric perspective. Captures the tranquility and specific character of the Île-de-France landscape with delicate brushwork and a naturalistic palette."
+        },
+        {
+          "prompt": "A pathway or country road leading through fields or woods, characteristic of Sisley. Invites the viewer into the scene. Careful attention to the vegetation, the texture of the road, and the quality of light specific to the time of day and season."
+        }
+      ]
+    },
+    {
+      "id": "8d",
+      "name": "Flood Scenes (Port Marly)",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "The village of Port Marly during a flood, depicted by Alfred Sisley. Houses and trees are partially submerged, with vast expanses of water reflecting the sky. Captures the unusual effects of light on the floodwaters and the altered landscape. A blend of documentary observation and impressionistic atmosphere."
+        },
+        {
+          "prompt": "Reflections as a dominant theme in one of Sisley's Port Marly flood scenes. Buildings and trees are mirrored in the still floodwaters under an often grey or overcast sky. Focus on the subtle tones and tranquil yet unsettling beauty of the inundated landscape."
+        },
+        {
+          "prompt": "A boat navigating the flooded streets of Port Marly, painted by Sisley. Shows the impact of the natural event on daily life. Realistic depiction combined with impressionistic sensitivity to the watery environment and its specific light conditions."
+        }
+      ]
+    },
+    {
+      "id": "9a",
+      "name": "Portraits (Friends, Family, Self)",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A portrait of a fellow artist (like Monet or Renoir) or a family member, painted in the clear, realistic style of Frédéric Bazille. Often depicted in natural light, sometimes outdoors or near a window. Strong sense of likeness and character, with careful attention to form and features."
+        },
+        {
+          "prompt": "Self-portrait by Bazille, typically showing a serious, thoughtful young man. Realistic rendering with attention to the play of light on the face. Clear draftsmanship and solid modeling of form are evident."
+        },
+        {
+          "prompt": "Portrait study by Bazille focusing on capturing the individuality of the sitter within a contemporary setting. Clothing and background details are often included to provide context. A blend of realism and early impressionistic handling of light."
+        }
+      ]
+    },
+    {
+      "id": "9b",
+      "name": "Outdoor Figure Compositions",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A group of figures gathered outdoors, perhaps a family reunion ('Réunion de famille') or bathers ('Scène d'été'), in the style of Frédéric Bazille. Figures are painted with clarity and realism, bathed in bright, natural outdoor light. Careful integration of figures within a landscape or garden setting."
+        },
+        {
+          "prompt": "Scene depicting figures in contemporary dress enjoying leisure time outdoors, characteristic of Bazille. Strong effects of sunlight and shadow are clearly defined. Composition is often carefully structured, balancing figures and background elements."
+        },
+        {
+          "prompt": "Study of figures painted directly in the open air ('plein air'), by Bazille. Captures the bright light and colors of the outdoors, particularly the strong sunlight of the south of France. Realistic depiction of figures combined with an interest in contemporary life."
+        }
+      ]
+    },
+    {
+      "id": "9c",
+      "name": "Studio Scenes & Still Lifes",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "View of an artist's studio interior, possibly Bazille's own, featuring easels, canvases, and perhaps fellow artists. Realistic depiction of the space and its contents, capturing the atmosphere of artistic creation. Careful attention to light and architectural details."
+        },
+        {
+          "prompt": "A still life composition by Frédéric Bazille, likely featuring flowers or simple objects. Rendered with realism and attention to the effects of light on form and texture. Clear composition and solid handling of paint."
+        },
+        {
+          "prompt": "Interior scene combining still life elements with figures, perhaps 'The Improvised Ambulance' depicting a wounded Monet in bed, in Bazille's style. Realistic portrayal of the figures and the detailed setting, capturing a specific moment or narrative."
+        }
+      ]
+    }
+    ]
+  }

@@ -1,0 +1,27 @@
+{
+    "appTitle": "Barbizon School: Landscape Prompts",
+    "firstLevelLabel": "Artist",
+    "secondLevelLabel": "Theme/Subject",
+    "items": [
+      {
+        "id": "1",
+        "name": "Jean-Baptiste-Camille Corot"
+      },
+      {
+        "id": "2",
+        "name": "Théodore Rousseau"
+      },
+      {
+        "id": "3",
+        "name": "Charles-François Daubigny"
+      },
+      {
+        "id": "4",
+        "name": "Jean-François Millet"
+      },
+      {
+        "id": "5",
+        "name": "Narcisse Diaz de la Peña"
+      }
+    ]
+  }

@@ -1,0 +1,43 @@
+{
+    "appTitle": "French Impressionism: Artist Prompts",
+    "firstLevelLabel": "Artist",
+    "secondLevelLabel": "Theme/Subject",
+    "items": [
+      {
+        "id": "1",
+        "name": "Claude Monet"
+      },
+      {
+        "id": "2",
+        "name": "Edgar Degas"
+      },
+      {
+        "id": "3",
+        "name": "Pierre-Auguste Renoir"
+      },
+      {
+        "id": "4",
+        "name": "Camille Pissarro"
+      },
+      {
+        "id": "5",
+        "name": "Berthe Morisot"
+      },
+      {
+        "id": "6",
+        "name": "Mary Cassatt"
+      },
+      {
+        "id": "7",
+        "name": "Gustave Caillebotte"
+      },
+      {
+        "id": "8",
+        "name": "Alfred Sisley"
+      },
+      {
+        "id": "9",
+        "name": "Frédéric Bazille"
+      }
+    ]
+  }

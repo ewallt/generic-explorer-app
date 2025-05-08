@@ -1,0 +1,31 @@
+{
+    "appTitle": "Japanese Woodblock Art: Artist Prompts",
+    "firstLevelLabel": "Artist",
+    "secondLevelLabel": "Theme/Genre",
+    "items": [
+      {
+        "id": "1",
+        "name": "Katsushika Hokusai"
+      },
+      {
+        "id": "2",
+        "name": "Utagawa Hiroshige"
+      },
+      {
+        "id": "3",
+        "name": "Kitagawa Utamaro"
+      },
+      {
+        "id": "4",
+        "name": "Tōshūsai Sharaku"
+      },
+      {
+        "id": "5",
+        "name": "Utagawa Kuniyoshi"
+      },
+      {
+        "id": "6",
+        "name": "Tsukioka Yoshitoshi"
+      }
+    ]
+  }

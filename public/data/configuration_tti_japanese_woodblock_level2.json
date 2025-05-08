@@ -1,0 +1,308 @@
+{
+    "items": [
+      {
+        "id": "1a",
+        "name": "Landscapes (Views of Fuji)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A dramatic landscape woodblock print in the style of Hokusai's 'Thirty-Six Views of Mount Fuji'. Mount Fuji seen in the distance, framed by foreground elements like waves, trees, or buildings. Strong outlines, flat areas of color (especially Prussian blue), and dynamic composition capturing the power of nature and human presence."
+          },
+          {
+            "prompt": "Iconic view 'The Great Wave off Kanagawa' by Hokusai. A colossal, claw-like wave crests over tiny boats, with Mount Fuji visible beneath its arc. Dynamic movement, stylized water patterns, bold lines, and a limited color palette create a powerful and instantly recognizable Ukiyo-e scene."
+          },
+          {
+            "prompt": "A serene depiction of Mount Fuji by Hokusai, perhaps 'Red Fuji'. The mountain dominates the composition, rendered in simplified forms and striking colors (like deep red for sunrise). Emphasis on atmosphere, pattern, and the symbolic presence of the mountain, using traditional Japanese woodblock techniques."
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "name": "Nature Studies (Waves, Waterfalls, Flora, Fauna)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "Dynamic depiction of water, like waterfalls or swirling currents, in the style of Katsushika Hokusai. Water rendered with stylized lines and patterns conveying energy and movement. Often part of a larger landscape, demonstrating nature's power. Ukiyo-e woodblock print aesthetic."
+          },
+          {
+            "prompt": "Detailed study of birds, flowers, or insects (Kachō-ga) by Hokusai. Accurate observation combined with artistic stylization. Strong calligraphic lines define the forms, set against a simple or blank background. Delicate use of color enhances the natural beauty."
+          },
+          {
+            "prompt": "Powerful waves crashing against rocks, characteristic of Hokusai's fascination with water. Stylized depiction of foam and spray using intricate linework. Composition emphasizes the dynamic conflict between sea and land. Woodblock print texture and limited color palette."
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "name": "Daily Life & People (Hokusai Manga)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "Sketches of everyday people engaged in various activities, reminiscent of Hokusai's Manga volumes. Lively, expressive linework captures gestures, poses, and humorous situations. Diverse subjects including artisans, merchants, travelers, and commoners. Ink brush style on paper."
+          },
+          {
+            "prompt": "A bustling scene of daily life in Edo-period Japan, drawn by Hokusai. Depicts street scenes, workshops, or domestic interiors with numerous figures interacting. Focus on observation and capturing the energy of human activity with dynamic compositions and varied character types."
+          },
+          {
+            "prompt": "Studies of human anatomy, facial expressions, or figures in motion, in the versatile style found in Hokusai's Manga. Demonstrates keen observation and skillful draftsmanship through fluid, calligraphic lines. Often monochrome or lightly colored."
+          }
+        ]
+      },
+      {
+        "id": "1d",
+        "name": "Myth & Legend / Supernatural",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A scene depicting Japanese ghosts (yūrei) or supernatural beings (yōkai), in the imaginative style of Hokusai. Figures might be eerie, humorous, or grotesque. Dynamic compositions and expressive lines convey the otherworldly nature of the subjects. Woodblock print aesthetic."
+          },
+          {
+            "prompt": "Illustration of a famous Japanese myth, legend, or historical event by Hokusai. Features gods, heroes, or legendary creatures rendered with energy and detail. Strong narrative quality and dramatic compositions characterize these works."
+          },
+          {
+            "prompt": "Fantastical creatures or apparitions interacting with humans or nature, characteristic of Hokusai's exploration of the supernatural. Imaginative designs and dynamic linework create a compelling and often unsettling scene from folklore."
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "name": "Landscapes (Tōkaidō Road, Views of Edo)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A landscape print depicting a station along the Tōkaidō road, in the style of Utagawa Hiroshige's famous series. Captures the specific scenery, weather, and human activity associated with that location. Emphasis on atmosphere, poetic mood, and subtle color gradations (bokashi). Often features travelers or local people."
+          },
+          {
+            "prompt": "Iconic view of Edo (Tokyo) from Hiroshige's 'One Hundred Famous Views of Edo' series. Often uses interesting compositional devices like large foreground elements framing a distant view (e.g., 'Plum Park in Kameido'). Captures specific landmarks, seasons, and the life of the city."
+          },
+          {
+            "prompt": "A serene landscape by Hiroshige, focusing on tranquility and the beauty of nature. Gentle hills, winding rivers, distant mountains, or coastal views rendered with delicate lines and soft, atmospheric coloring. Evokes a specific mood, often peaceful or slightly melancholic."
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "name": "Nature Studies (Birds & Flowers - Kachō-ga)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "Delicate depiction of birds perched on flowering branches (Kachō-ga), in the refined style of Utagawa Hiroshige. Accurate observation of bird species and plant forms combined with elegant composition. Soft colors and fine lines capture the beauty and fragility of nature."
+          },
+          {
+            "prompt": "Japanese woodblock print by Hiroshige featuring flowers, grasses, or insects. Emphasis on graceful lines, subtle color variations, and harmonious arrangement. Often includes poetic inscriptions. Reflects traditional East Asian aesthetics."
+          },
+          {
+            "prompt": "Study of a specific bird or flower by Hiroshige, showcasing its characteristic features and posture. Set against a plain or subtly graded background to focus attention on the natural subject. Delicate and lyrical Ukiyo-e style."
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "name": "Weather & Atmosphere (Rain, Snow, Mist)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A landscape scene during a sudden shower, characteristic of Hiroshige's depictions of weather, like 'Sudden Shower over Shin-Ōhashi bridge and Atake'. Fine parallel lines represent falling rain against a darkening sky, with figures hurrying for cover. Masterful evocation of atmosphere."
+          },
+          {
+            "prompt": "Snow falling gently on a landscape or cityscape, rendered in the poetic style of Hiroshige. Soft white snow blankets rooftops and trees, creating a quiet, muffled atmosphere. Subtle use of color and line conveys the stillness of a winter scene."
+          },
+          {
+            "prompt": "A landscape enveloped in mist or fog, typical of Hiroshige's atmospheric works. Distant mountains or trees are partially obscured, creating a sense of depth and mystery. Soft, graded colors (bokashi) enhance the hazy effect. Ukiyo-e print."
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "name": "Portraits of Beautiful Women (Ōkubi-e)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An elegant large-head portrait (Ōkubi-e) of a beautiful woman (bijin), in the distinctive style of Kitagawa Utamaro. Focus on idealized feminine beauty, intricate hairstyles, and expressive (though often subtle) facial features against a plain or mica background. Delicate lines and refined use of color."
+          },
+          {
+            "prompt": "Close-up depiction of a courtesan or geisha by Utamaro. Emphasis on luxurious kimono patterns, elaborate hair ornaments, and graceful posture. Captures the allure and refinement associated with the 'floating world' entertainment districts. Woodblock print aesthetic."
+          },
+          {
+            "prompt": "Utamaro's portrayal of ideal female beauty, focusing on the face and upper torso. Delicate rendering of skin, expressive eyes, and intricate hair details. The composition highlights the elegance and idealized sensuality of the subject."
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "name": "Women in Daily Life",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "Scene depicting women engaged in everyday activities – grooming, reading, sewing, or caring for children – by Kitagawa Utamaro. Provides intimate glimpses into the lives of women in Edo-period Japan. Elegant compositions and refined linework characteristic of the artist."
+          },
+          {
+            "prompt": "Utamaro's portrayal of mothers with their children. Captures tender moments and interactions with sensitivity. Figures rendered with graceful lines and attention to details of clothing and setting. Focus on maternal affection and domestic intimacy."
+          },
+          {
+            "prompt": "Depiction of women from various social classes by Utamaro, showcasing differences in attire, hairstyles, and activities. Observational details combined with idealized representations of feminine grace. Ukiyo-e woodblock print style."
+          }
+        ]
+      },
+      {
+        "id": "3c",
+        "name": "Elegant Group Compositions",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "Composition featuring multiple beautiful women interacting, perhaps conversing or engaged in a shared activity, in the style of Kitagawa Utamaro. Harmonious arrangement of figures, intricate patterns of kimonos overlapping, and graceful interplay of lines create a decorative and elegant scene."
+          },
+          {
+            "prompt": "A group of courtesans displayed elegantly, characteristic of Utamaro. Emphasis on the collective beauty and sophisticated fashions of the floating world. Rich details in fabrics and hairstyles, rendered with masterful woodblock printing techniques."
+          },
+          {
+            "prompt": "Utamaro's skill in composing multi-figure scenes within the Ukiyo-e format. Figures relate to each other through gesture and gaze, creating a subtle narrative or mood. Balanced composition and refined aesthetic."
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "name": "Kabuki Actor Portraits (Close-up)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A dramatic close-up portrait (Ōkubi-e) of a Kabuki actor in a specific role, in the highly stylized manner of Tōshūsai Sharaku. Exaggerated facial expressions (mie pose), intense gaze, and characteristic makeup capture the theatrical energy. Bold, dynamic lines against a dark mica background."
+          },
+          {
+            "prompt": "Sharaku's portrayal of a Kabuki actor, emphasizing individualistic features and the dramatic intensity of the performance. Unflattering realism combined with powerful stylization. Strong contours and unconventional compositions."
+          },
+          {
+            "prompt": "Bust portrait of an actor by Sharaku, focusing on the expressive power of the face and upper body gesture. Dynamic linework conveys the character's emotion and the theatrical moment being depicted. Unique and powerful Ukiyo-e style."
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "name": "Kabuki Actor Portraits (Full-length)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "Full-length portrait of a Kabuki actor in costume for a specific role, depicted by Tōshūsai Sharaku. Captures the entire figure, showcasing the elaborate costume details and the actor's characteristic pose or stance for the character. Strong lines and bold composition."
+          },
+          {
+            "prompt": "Yakusha-e print by Sharaku showing an actor on stage. The pose conveys the drama of the Kabuki performance. Attention to the patterns and textures of the costume, rendered with sharp lines and impactful design."
+          },
+          {
+            "prompt": "Depiction of two Kabuki actors interacting on stage, captured by Sharaku. Dynamic interplay between the figures, emphasizing the theatrical tension and exaggerated poses of the performance. Bold, expressive Ukiyo-e style."
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "name": "Warrior Prints (Musha-e)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A dynamic depiction of samurai heroes or legendary warriors in battle, in the energetic style of Utagawa Kuniyoshi. Figures portrayed with dramatic poses, intense expressions, and elaborate armor. Dynamic compositions featuring swirling movement, powerful action, and intricate detail. Often based on historical chronicles or epic tales."
+          },
+          {
+            "prompt": "Heroic warrior battling a giant monster or supernatural foe, characteristic of Kuniyoshi's imaginative musha-e. Combines historical or legendary figures with fantastical elements. Vibrant colors, strong lines, and dramatic storytelling."
+          },
+          {
+            "prompt": "Close-up on a famous samurai warrior by Kuniyoshi, emphasizing their fierce determination, detailed armor, and weaponry. Powerful rendering captures the spirit and legend of the historical figure. Woodblock print with bold visual impact."
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "name": "Mythological & Supernatural Scenes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A fantastical scene featuring mythological creatures, ghosts (yūrei), or demons (oni) from Japanese folklore, rendered in the imaginative and often dramatic style of Utagawa Kuniyoshi. Creatures depicted with unique designs, interacting with humans or haunting landscapes. Dynamic compositions and expressive linework."
+          },
+          {
+            "prompt": "Kuniyoshi's portrayal of legendary events or supernatural transformations. Figures might change shape or interact with magical elements. Combines realism in human figures with imaginative depiction of the otherworldly. Vibrant colors and intricate details."
+          },
+          {
+            "prompt": "A scene depicting heroes confronting monstrous spiders, giant skeletons (like the Takiyasha the Witch and the Skeleton Spectre print), or other terrifying apparitions, characteristic of Kuniyoshi's popular supernatural prints. Emphasis on drama, horror, and fantastical imagery."
+          }
+        ]
+      },
+      {
+        "id": "5c",
+        "name": "Cats & Animals",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "Playful depiction of cats, often anthropomorphized or shown in humorous situations, in the charming style of Utagawa Kuniyoshi. Cats might mimic human activities, dress in clothes, or form parts of visual puns (e.g., cats forming characters). Lively linework and expressive feline characters."
+          },
+          {
+            "prompt": "Studies of various animals (cats, fish, birds, etc.) by Kuniyoshi. Accurate observation combined with his characteristic dynamic style. Animals might be depicted realistically or incorporated into fantastical or narrative scenes."
+          },
+          {
+            "prompt": "A triptych or composition featuring numerous cats engaged in various activities, showcasing Kuniyoshi's fondness for the subject. Detailed rendering of different cat breeds and poses, often with a touch of humor or whimsy. Ukiyo-e print style."
+          }
+        ]
+      },
+      {
+        "id": "6a",
+        "name": "Historical & Warrior Scenes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A dramatic historical battle or scene featuring samurai warriors, depicted in the intense, later Ukiyo-e style of Tsukioka Yoshitoshi. Dynamic compositions, detailed armor and weaponry, and often a focus on moments of violence or intense emotion. Strong linework and often rich colors."
+          },
+          {
+            "prompt": "Yoshitoshi's portrayal of famous heroes or figures from Japanese history and legend. Emphasis on psychological depth and dramatic tension, even in static poses. Figures rendered with greater realism than earlier Ukiyo-e artists, reflecting Western influence."
+          },
+          {
+            "prompt": "Scene depicting a specific historical event from Japan's feudal past, illustrated by Yoshitoshi. Attention to historical detail in costumes and settings, combined with powerful storytelling and dynamic compositions. Captures the drama and often tragedy of historical moments."
+          }
+        ]
+      },
+      {
+        "id": "6b",
+        "name": "Ghost Stories & Supernatural",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An eerie scene from a Japanese ghost story (kaidan), characteristic of Tsukioka Yoshitoshi's 'Thirty-six Ghosts' series. Depicts vengeful spirits, haunting apparitions, or supernatural encounters with psychological intensity. Often uses dramatic lighting, unusual compositions, and expressive figures to create a chilling atmosphere."
+          },
+          {
+            "prompt": "Yoshitoshi's depiction of yōkai (supernatural monsters or spirits) from Japanese folklore. Creatures are rendered with imaginative detail, often interacting with humans in dramatic or eerie ways. Masterful use of line and shadow to enhance the supernatural mood."
+          },
+          {
+            "prompt": "A scene focusing on the psychological horror or suspense of a ghost story, in Yoshitoshi's style. Emphasis on the reactions of human characters confronting the supernatural. Darker palettes and expressive linework contribute to the unsettling atmosphere."
+          }
+        ]
+      },
+      {
+        "id": "6c",
+        "name": "Beautiful Women (Bijin-ga)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "Portrait of a beautiful woman (bijin) in the later Ukiyo-e style of Tsukioka Yoshitoshi. Figures often display more naturalism and psychological depth compared to Utamaro. Depicted in contemporary Meiji-era settings or traditional attire, sometimes with a melancholic or thoughtful expression."
+          },
+          {
+            "prompt": "Yoshitoshi's depiction of women from history or legend, showcasing their beauty, strength, or tragic fate. Elegant compositions combined with detailed rendering of intricate kimono patterns and hairstyles. Reflects changing ideals of beauty in the late 19th century."
+          },
+          {
+            "prompt": "A scene featuring women engaged in daily life or leisure activities, by Yoshitoshi. Greater realism in anatomy and setting compared to earlier bijin-ga. Captures subtle moods and interactions with sensitivity. Refined linework and sophisticated use of color."
+          }
+        ]
+      },
+      {
+        "id": "6d",
+        "name": "Modern Life / Meiji Era Scenes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A scene reflecting the changes in Japan during the Meiji Restoration, depicted by Tsukioka Yoshitoshi. Might show figures in Westernized clothing, new technologies like trains or telegraph wires, or traditional settings adapting to modernity. Captures the transitional period with historical detail."
+          },
+          {
+            "prompt": "Yoshitoshi's portrayal of contemporary events or social scenes from the Meiji era. Illustrations might relate to news reports, urban life, or changing customs. Combines Ukiyo-e techniques with influences from Western illustration and journalism."
+          },
+          {
+            "prompt": "A print by Yoshitoshi showing the juxtaposition of old and new Japan. Traditional figures or settings might interact with symbols of modernization. Reflects the cultural shifts occurring during his lifetime, rendered in his dynamic and detailed style."
+          }
+        ]
+      }
+    ]
+  }

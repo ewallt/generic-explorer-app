@@ -1,0 +1,404 @@
+{
+    "items": [
+      {
+        "id": "1a",
+        "name": "Starry Nights / Nocturnes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A swirling, intensely expressive night sky in the style of Vincent van Gogh's 'Starry Night'. Cypress trees reach dramatically towards turbulent heavens filled with glowing stars and a crescent moon. Dynamic, thick impasto brushstrokes convey powerful emotion and cosmic energy. Deep blues and vibrant yellows dominate the palette."
+          },
+          {
+            "prompt": "A nocturnal scene by Van Gogh, perhaps a 'Café Terrace at Night' or 'Starry Night Over the Rhône'. Artificial gaslight glows warmly against the deep blue night sky, reflecting on water or cobblestones. Stars are rendered as vibrant points of light. Emphasis on color contrast and emotional atmosphere rather than strict realism."
+          },
+          {
+            "prompt": "Van Gogh's depiction of a night landscape under a starlit sky. Focus on the energy and movement within the scene, conveyed through swirling, directional brushstrokes in both the sky and the earth below. A sense of intense feeling, solitude, and the power of nature at night."
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "name": "Sunflowers / Still Lifes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A vase of sunflowers painted with the vibrant intensity and thick impasto of Vincent van Gogh. Sunflowers in various stages of bloom and decay, rendered in brilliant yellows, golds, and ochres against a contrasting background. Expressive brushwork defines the textures of petals and stems. A powerful symbol of life and energy."
+          },
+          {
+            "prompt": "Still life composition in Van Gogh's style, perhaps featuring simple objects like potatoes, shoes, or onions. Emphasis on the humble subject matter, rendered with expressive lines and textures that convey weight and presence. Earthy color palette, often with bold outlines."
+          },
+          {
+            "prompt": "Van Gogh's depiction of irises or other flowers in a vase or garden setting. Intense colors, particularly blues and purples for irises, rendered with dynamic, curving brushstrokes that capture the vital energy of the plants. Strong sense of line and pattern."
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "name": "Portraits (Self & Others)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An intense self-portrait in the style of Vincent van Gogh. Capturing psychological depth and emotional turmoil through expressive brushwork, strong color contrasts, and a direct, searching gaze. Backgrounds are often dynamic and textured, echoing the sitter's inner state."
+          },
+          {
+            "prompt": "Portrait of a figure like the Postman Roulin or Dr. Gachet by Van Gogh. Focus on capturing the individual character and personality through bold lines, vibrant colors, and expressive simplification of form. Often set against a patterned or energetically painted background."
+          },
+          {
+            "prompt": "Van Gogh's portrayal of peasant figures, showing empathy and focusing on their connection to their life and work. Rendered with strong lines, earthy colors, and an emphasis on conveying emotion and character through pose and expression rather than idealized beauty."
+          }
+        ]
+      },
+      {
+        "id": "1d",
+        "name": "Landscapes (Arles, Saint-Rémy, Auvers)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A sun-drenched landscape near Arles in the South of France, painted with Van Gogh's vibrant palette and energetic brushstrokes. Wheatfields under a brilliant blue sky, orchards in bloom, or views of the town. Intense yellows, greens, and blues convey the heat and light of Provence."
+          },
+          {
+            "prompt": "View of the Alpilles mountains or olive groves near Saint-Rémy-de-Provence, depicted with the swirling, dynamic energy of Van Gogh's style during his time at the asylum. Twisted, expressive forms of trees and rocks under a vibrant sky. Captures intense emotion and the power of nature."
+          },
+          {
+            "prompt": "A landscape from Auvers-sur-Oise, characteristic of Van Gogh's final period. Often featuring wheatfields under troubled skies ('Wheatfield with Crows'), thatched cottages, or village streets. Expressive, sometimes agitated brushwork and a somber or intense mood."
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "name": "Tahitian Scenes (Figures, Landscapes, Symbolism)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A vibrant depiction of Tahitian life in the Synthetist style of Paul Gauguin. Native figures, often women, rendered with simplified forms and bold outlines, set against lush tropical landscapes. Rich, saturated, non-naturalistic colors convey mood and symbolism rather than objective reality. Flat color areas dominate."
+          },
+          {
+            "prompt": "A symbolic Tahitian scene by Gauguin, exploring themes of primitivism, spirituality, or the exotic 'other'. Figures might appear statuesque or mysterious. The landscape incorporates stylized tropical plants and perhaps idols or symbolic elements. Colors are chosen for emotional and decorative impact."
+          },
+          {
+            "prompt": "Gauguin's portrayal of the Tahitian landscape itself, featuring vibrant foliage, volcanic mountains, and turquoise waters. Simplified forms and flattened perspective emphasize pattern and color. A sense of paradise tinged with melancholy or mystery."
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "name": "Breton Scenes (Peasant life, Cloisonnism)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "Scene of peasant life in Brittany, painted in Paul Gauguin's Cloisonnist style. Figures, often women in traditional Breton costume, are depicted with simplified forms and strong, dark outlines separating flat areas of bold color, resembling stained glass or cloisonné enamel. Focus on pattern and decorative effect."
+          },
+          {
+            "prompt": "A religious or symbolic scene set in Brittany, such as 'Vision after the Sermon', characteristic of Gauguin. Combines observed reality (Breton women) with imaginative or spiritual elements. Uses non-naturalistic color (like a red ground) and simplified forms to convey subjective experience or religious feeling."
+          },
+          {
+            "prompt": "Breton landscape by Gauguin, featuring rolling hills, simple cottages, and perhaps figures working. Emphasis on strong outlines, flattened shapes, and expressive use of color rather than atmospheric perspective. A decorative and symbolic interpretation of the rural environment."
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "name": "Still Lifes / Interiors",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A still life composition by Paul Gauguin, often featuring fruit, pottery, or objects with symbolic meaning. Bold colors, simplified forms, and flattened perspective create a decorative effect. The arrangement might feel deliberate and somewhat unconventional compared to traditional still lifes."
+          },
+          {
+            "prompt": "Interior scene depicted by Gauguin, perhaps from his time in Brittany or Tahiti. Includes figures within a room decorated with patterns or objects significant to the location or theme. Use of color and line creates mood and decorative unity."
+          },
+          {
+            "prompt": "Still life incorporating exotic flowers or fruits from Tahiti, painted in Gauguin's signature style. Vibrant, saturated colors and simplified shapes celebrate the tropical subject matter, possibly imbued with symbolic undertones."
+          }
+        ]
+      },
+      {
+        "id": "2d",
+        "name": "Self-Portraits / Symbolic Portraits",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A self-portrait by Paul Gauguin, often presenting himself in a symbolic or allegorical manner (e.g., with a halo, as suffering artist). Intense gaze, simplified forms, and expressive use of color convey complex aspects of his identity and artistic persona."
+          },
+          {
+            "prompt": "Portrait by Gauguin where the background or included objects carry symbolic weight, relating to the sitter's personality or Gauguin's interpretation of them. Flattened forms, strong outlines, and non-naturalistic color contribute to the symbolic reading."
+          },
+          {
+            "prompt": "Gauguin's portrait emphasizing pattern and decoration, perhaps integrating the sitter with a richly patterned background. Explores the interplay between figure and ground, using color and line to create a unified, decorative surface."
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "name": "Mont Sainte-Victoire Landscapes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A landscape featuring Mont Sainte-Victoire near Aix-en-Provence, painted in the constructive, analytical style of Paul Cézanne. The mountain's form is rendered through planes of color and geometric shapes. Emphasis on underlying structure and the relationship between forms, rather than fleeting light effects. Orderly, parallel brushstrokes ('constructive stroke')."
+          },
+          {
+            "prompt": "View of Mont Sainte-Victoire by Cézanne, showcasing his technique of 'passage' where planes merge and transition smoothly between objects (like mountain, sky, trees). Cool and warm colors are used to model form and create depth. A sense of solidity and timelessness."
+          },
+          {
+            "prompt": "Panoramic landscape with Mont Sainte-Victoire dominating the horizon, depicted by Cézanne. The composition is carefully structured, balancing vertical elements (trees) with the horizontal sweep of the valley and the mass of the mountain. Flattened perspective, focus on geometric essentials."
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "name": "Still Lifes (Apples, Oranges, Skulls)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A still life with apples and oranges arranged on a table, characteristic of Paul Cézanne. Focus on the solid, geometric forms of the fruit, modeled with patches of color. Perspective may appear slightly distorted as objects are viewed from multiple viewpoints simultaneously. Structured composition."
+          },
+          {
+            "prompt": "Cézanne's still life featuring fruit, pottery, and draped fabric. Emphasis on the relationships between objects, their volumes, and their placement in space. Careful construction of the composition using color planes and structured brushwork. A sense of permanence and solidity."
+          },
+          {
+            "prompt": "A still life including a skull, painted by Cézanne. A 'vanitas' theme exploring mortality. The skull is rendered with the same objective analysis of form and structure as other objects, using planes of color to define its volume. Somber mood combined with formal investigation."
+          }
+        ]
+      },
+      {
+        "id": "3c",
+        "name": "Bathers / Figure Compositions",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A composition of nude bathers in a landscape setting, in the late style of Paul Cézanne. Figures are simplified, almost architectural forms integrated with the landscape (trees, water, sky). Triangular compositions, often framed by arching trees. Focus on rhythm, structure, and harmony between figures and nature."
+          },
+          {
+            "prompt": "Study of bathers by Cézanne, where figures are constructed from planes of color. Emphasis on the structure and volume of the bodies rather than anatomical detail or sensuality. Figures relate to each other and the surrounding space in a formal, almost abstract manner."
+          },
+          {
+            "prompt": "Cézanne's depiction of figures (clothed or nude) within a landscape, focusing on their structural presence. Figures rendered with solidity, using parallel brushstrokes and color modulation to suggest form. Harmonious integration into the overall composition."
+          }
+        ]
+      },
+      {
+        "id": "3d",
+        "name": "Portraits (Madame Cézanne, others)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A portrait, perhaps of Madame Cézanne, painted with Paul Cézanne's characteristic focus on structure and form. The sitter is depicted with solidity and presence, modeled through planes of color rather than traditional shading. Often features a mask-like, impassive expression. Background is simplified or treated with equal structural attention."
+          },
+          {
+            "prompt": "Portrait by Cézanne emphasizing the geometric underlying structure of the head and body. Features are simplified, and the figure has a sense of weight and permanence. Careful arrangement of color patches builds form and volume. Objective, analytical approach."
+          },
+          {
+            "prompt": "Cézanne's portrait of a peasant or local figure, such as 'Man with a Pipe'. Depicted with rugged solidity and dignity. Emphasis on form, volume, and the interaction between the figure and simple background elements, constructed with deliberate brushwork."
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "name": "Leisure Scenes (Pointillism)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A large scene of Parisians enjoying leisure time on an island or riverbank, like 'A Sunday Afternoon on the Island of La Grande Jatte', painted in Georges Seurat's Pointillist style. Figures are rendered as simplified, almost statuesque forms composed of tiny dots of pure color. Highly structured, formal composition. Bright, luminous light."
+          },
+          {
+            "prompt": "Depiction of bathers relaxing by the Seine, reminiscent of Seurat's 'Bathers at Asnières'. Figures composed of small dots or dabs of color that blend optically in the viewer's eye (Divisionism). Study of light and color based on scientific theories. Atmosphere of calm and stillness."
+          },
+          {
+            "prompt": "Pointillist painting by Seurat capturing modern leisure activities. Figures strolling, sitting, or boating under a bright sky. Meticulous application of color dots creates a vibrant, shimmering surface. Composition is often balanced and geometrically ordered."
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "name": "Coastal Landscapes / Seascapes (Pointillism)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A serene coastal landscape or harbor scene (Gravelines, Honfleur), painted in Georges Seurat's Pointillist technique. Calm sea, sailboats, docks, and distant shoreline rendered in tiny dots of color. Emphasis on light, atmosphere, and harmonious composition. Often features strong horizontal and vertical elements."
+          },
+          {
+            "prompt": "Seurat's depiction of the seaside using Divisionism. Focus on capturing the shimmering quality of light on water and sand through the precise application of color dots. Geometric structure underlies the composition, creating a sense of order and tranquility."
+          },
+          {
+            "prompt": "Pointillist seascape by Seurat emphasizing atmospheric effects. Soft light, perhaps early morning or late afternoon, rendered through meticulous dots of complementary colors to create luminosity. Simplified forms of boats and coastline contribute to the peaceful, ordered scene."
+          }
+        ]
+      },
+      {
+        "id": "4c",
+        "name": "Circus / Entertainment Scenes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A scene from the circus or other Parisian entertainment, like 'Circus Sideshow (Parade de cirque)', painted in Georges Seurat's distinctive Pointillist style. Figures (performers, musicians, audience) depicted under artificial gaslight. Application of color dots explores the effects of artificial light and creates a unique nocturnal atmosphere. Simplified, somewhat flattened forms."
+          },
+          {
+            "prompt": "Pointillist depiction of performers by Seurat, perhaps clowns, acrobats, or musicians. Focus on the patterns of light and color under artificial illumination. Composition is carefully structured, often emphasizing geometric shapes and rhythmic arrangements."
+          },
+          {
+            "prompt": "Interior scene of a café-concert or dance hall, rendered using Seurat's Divisionist technique. Captures the lively atmosphere and artificial lighting of Parisian nightlife. Figures are composed of dots of color, creating a vibrant, shimmering effect."
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "name": "Moulin Rouge / Cabaret Scenes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A vibrant scene capturing the energetic atmosphere of the Moulin Rouge cabaret in Paris, in the distinctive style of Henri de Toulouse-Lautrec. Dynamic figures dancing, drinking, and socializing under artificial lights. Strong, expressive lines, bold cropping, and unusual viewpoints capture the decadent energy of the Belle Époque nightlife. Often uses oil paint thinned with turpentine on cardboard."
+          },
+          {
+            "prompt": "Depiction of famous Moulin Rouge performers like La Goulue or Valentin le Désossé, characteristic of Toulouse-Lautrec. Focus on capturing their unique personalities and dynamic movements through incisive lines and bold shapes. Backgrounds are often simplified or suggestive of the cabaret setting."
+          },
+          {
+            "prompt": "A crowded interior of a Parisian cabaret or dance hall by Toulouse-Lautrec. Figures rendered with sharp observation and caricature-like exaggeration. Artificial lighting creates strong contrasts and illuminates faces and costumes. Composition feels immediate and captures a fleeting moment of nightlife."
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "name": "Portraits (Performers, Friends)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A striking portrait of a Parisian performer (singer, dancer, actor) like Aristide Bruant or Jane Avril, in the style of Henri de Toulouse-Lautrec. Bold, simplified forms, strong outlines, and flat areas of color capture the subject's iconic persona and stage presence. Often uses techniques derived from Japanese prints and poster design."
+          },
+          {
+            "prompt": "An intimate portrait study by Toulouse-Lautrec, perhaps of a friend or associate. Captures the subject's personality with psychological insight, using expressive lines and sometimes somber colors. Focus on the face and individual character beyond their public image."
+          },
+          {
+            "prompt": "Portrait emphasizing silhouette and graphic impact, characteristic of Toulouse-Lautrec's work influenced by poster design. Strong contours define the figure against a simplified background. Effective use of negative space and bold composition."
+          }
+        ]
+      },
+      {
+        "id": "5c",
+        "name": "Brothel Scenes (Elles series)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An intimate scene depicting women in a brothel ('maison close'), from Toulouse-Lautrec's 'Elles' series. Shows women during private moments – dressing, washing, resting – portrayed with unsentimental realism and empathy. Lithographic style with fluid lines and subtle coloring on toned paper."
+          },
+          {
+            "prompt": "Study of figures within the interior of a brothel, characteristic of Toulouse-Lautrec. Focus on capturing natural poses and gestures in moments of repose or daily routine. Atmosphere is often quiet and introspective, contrasting with his cabaret scenes."
+          },
+          {
+            "prompt": "Composition from the 'Elles' portfolio by Toulouse-Lautrec, showcasing his mastery of lithography. Expressive lines define form and suggest movement. Subtle use of color and tone creates atmosphere within the intimate interior settings."
+          }
+        ]
+      },
+      {
+        "id": "5d",
+        "name": "Posters / Graphic Style",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A dynamic advertising poster for a Parisian cabaret or performer (like Moulin Rouge, Aristide Bruant, Jane Avril), designed in the iconic graphic style of Henri de Toulouse-Lautrec. Bold silhouettes, strong diagonal compositions, simplified forms, flat areas of striking color, and integrated expressive lettering."
+          },
+          {
+            "prompt": "Illustration capturing the essence of a performer or venue with maximum graphic impact, suitable for a poster by Toulouse-Lautrec. Uses minimal lines and bold color choices to create a memorable and instantly recognizable image. Influence of Japanese woodblock prints is evident."
+          },
+          {
+            "prompt": "Composition emphasizing rhythm, movement, and visual excitement, characteristic of Toulouse-Lautrec's best poster designs. Dynamic use of line and shape captures the energy of the performer or the atmosphere of the venue. Innovative integration of text and image."
+          }
+        ]
+      },
+      {
+        "id": "6a",
+        "name": "Coastal Scenes / Harbors (Pointillism)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A vibrant harbor scene, perhaps Saint-Tropez or Collioure, painted in the Pointillist/Divisionist style of Paul Signac. Bright Mediterranean sunlight illuminates colorful sailboats, water, and buildings, all rendered in distinct dots or small dashes of pure color. Creates a shimmering, mosaic-like effect. Emphasis on light and vibrant color."
+          },
+          {
+            "prompt": "Coastal landscape by Signac using the Neo-Impressionist technique. Focus on the optical mixing of colors applied in separate dots or dashes. Captures the intense light and atmosphere of the seaside. Composition often features strong contrasts and rhythmic patterns."
+          },
+          {
+            "prompt": "View of a port with reflections of boats and buildings in the water, characteristic of Signac's Pointillism. The water surface is broken down into myriad dots of complementary colors, creating a dazzling effect of light and movement. Structured yet vibrant composition."
+          }
+        ]
+      },
+      {
+        "id": "6b",
+        "name": "Landscapes (Pointillism)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A landscape painted using Paul Signac's Divisionist method, applying small strokes or dots of color side-by-side. Subject could be riverside scenes, fields, or trees under bright sunlight. Focus on achieving maximum luminosity and color vibration through optical mixing. More dynamic brushwork than Seurat."
+          },
+          {
+            "prompt": "Pointillist landscape by Signac capturing the effects of sunlight on foliage and water. Greens, blues, yellows, and oranges are applied in separate touches, creating a vibrant, shimmering texture. The composition is often based on harmonious contrasts and balanced forms."
+          },
+          {
+            "prompt": "Landscape emphasizing pattern and rhythm, characteristic of Signac's later Pointillist work. Brushstrokes might become larger or more rectangular (tesserae-like). Strong decorative quality combined with the scientific application of color theory."
+          }
+        ]
+      },
+      {
+        "id": "6c",
+        "name": "Cityscapes (Pointillism)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A cityscape, perhaps Paris or Venice, depicted using Paul Signac's Pointillist technique. Architectural forms, water, and sky are broken down into dots of color. Focus on capturing the specific light and atmosphere of the city through the vibrant interplay of color touches."
+          },
+          {
+            "prompt": "View of a bridge or landmark within a city setting, rendered in Signac's Divisionist style. Emphasis on the effects of light on urban structures and water reflections. Creates a bright, mosaic-like impression of the city."
+          },
+          {
+            "prompt": "Pointillist depiction of a bustling city scene by Signac. Captures the energy and movement of urban life through the vibrant application of color dots, while maintaining a sense of underlying compositional order."
+          }
+        ]
+      },
+      {
+        "id": "7a",
+        "name": "Jungle Scenes / Exotic Landscapes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A lush, dreamlike jungle scene in the Naïve style of Henri Rousseau ('Le Douanier'). Dense, oversized tropical foliage, exotic flowers, and perhaps hidden animals rendered with meticulous detail and flattened perspective. A sense of mystery and enchantment pervades the highly imaginative, decorative landscape."
+          },
+          {
+            "prompt": "Exotic landscape by Henri Rousseau featuring wild animals (lions, tigers, monkeys) peering out from stylized, decorative jungle plants under a full moon or setting sun. Stiff, frontal poses of animals contribute to the visionary, otherworldly atmosphere. Rich greens dominate the palette."
+          },
+          {
+            "prompt": "Imaginative depiction of a tropical forest by Rousseau, focusing on the intricate patterns of leaves and flowers. Every element is rendered with sharp focus and clarity, creating a dense, tapestry-like surface. The scene feels both realistic in detail and fantastical in overall effect."
+          }
+        ]
+      },
+      {
+        "id": "7b",
+        "name": "Portraits",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A portrait in the unique Naïve style of Henri Rousseau. The sitter is often depicted in a stiff, frontal pose, looking directly at the viewer. Features are clearly delineated, sometimes slightly simplified or stylized. The background might be a simple setting or an imaginative landscape."
+          },
+          {
+            "prompt": "Self-portrait by Rousseau, rendered with characteristic precision and clarity. Direct gaze, meticulous attention to details of clothing and features, often set against a backdrop related to his life or imagination (like a jungle or Parisian scene)."
+          },
+          {
+            "prompt": "Group portrait by Henri Rousseau, perhaps depicting a family or gathering. Figures are arranged formally, often side-by-side, each rendered with individual detail in his distinctive flat, linear style. A sense of stillness and careful composition."
+          }
+        ]
+      },
+      {
+        "id": "7c",
+        "name": "Cityscapes / Suburban Scenes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A view of Paris or its suburbs depicted in Henri Rousseau's precise, simplified Naïve style. Features buildings, bridges (like the Passy footbridge), smokestacks, or perhaps hot air balloons rendered with clear outlines and flat areas of color. Perspective might be slightly unconventional."
+          },
+          {
+            "prompt": "Suburban landscape by Rousseau showing houses, gardens, and perhaps figures engaged in everyday activities. Scene rendered with meticulous detail and a sense of order. Clear light and well-defined forms characterize his depiction of familiar environments."
+          },
+          {
+            "prompt": "A specific Parisian landmark or view painted by Rousseau. Emphasis on clarity, detail, and a somewhat stiff, formal composition. Captures the scene with a unique blend of realism and stylized simplification."
+          }
+        ]
+      }
+    ]
+  }

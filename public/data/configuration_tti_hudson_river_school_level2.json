@@ -1,0 +1,308 @@
+{
+    "items": [
+      {
+        "id": "1a",
+        "name": "Allegorical Landscapes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A grand, allegorical landscape painting in the style of Thomas Cole, depicting a stage from 'The Course of Empire' or 'The Voyage of Life'. Combine detailed natural scenery with symbolic architectural elements under a dramatic, expressive sky. Convey a moral or historical narrative through the landscape's state, whether pastoral ideal, imperial grandeur, or desolate ruin. Romantic atmosphere, rich detail."
+          },
+          {
+            "prompt": "Thomas Cole's vision of untamed nature intertwined with allegory. A vast wilderness scene featuring mountains, forests, and rivers, possibly containing subtle symbolic elements or ruins suggesting the passage of time or the cycle of nature and civilization. Dramatic lighting enhances the sublime and didactic mood."
+          },
+          {
+            "prompt": "An allegorical landscape by Thomas Cole where nature itself tells a story. Storm clouds gather over a peaceful valley, or sunlight breaks through after a tempest, symbolizing themes like the fragility of life, the power of nature, or divine presence. Detailed rendering of natural elements serves the overarching narrative."
+          }
+        ]
+      },
+      {
+        "id": "1b",
+        "name": "Wild American Landscapes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A dramatic rendering of the untamed American wilderness in the style of Thomas Cole. Rugged mountains (Catskills, White Mountains), dense primeval forests, and cascading waterfalls under a dynamic sky. Emphasis on the sublime power and raw beauty of nature, often with a tiny human figure to show scale. Detailed foreground elements lead into a vast panorama."
+          },
+          {
+            "prompt": "Thomas Cole's depiction of a wild river gorge or mountain pass. Craggy rocks, turbulent water, and wind-swept trees convey the forces of nature. Dramatic contrasts of light and shadow enhance the romantic and awe-inspiring atmosphere. Focus on the specific character of the American landscape."
+          },
+          {
+            "prompt": "A panoramic view of the American wilderness as envisioned by Thomas Cole. Expansive vista showcasing mountains, lakes, and forests stretching into the distance. The sky is active, perhaps with gathering storm clouds or brilliant sunset colors, reflecting the wild spirit of the landscape."
+          }
+        ]
+      },
+      {
+        "id": "1c",
+        "name": "Pastoral Landscapes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An idealized pastoral landscape by Thomas Cole, depicting a more settled American scene. Gentle hills, cultivated fields, grazing livestock, and perhaps a distant farmhouse under a calm, luminous sky. A sense of peace, harmony, and agrarian virtue, often imbued with soft, warm light."
+          },
+          {
+            "prompt": "A scene reflecting Cole's vision of nature's harmony, possibly featuring calm rivers winding through fertile valleys dotted with picturesque trees. The light suggests a tranquil time of day, like late afternoon. Careful composition balances natural elements in an inviting, idealized manner."
+          },
+          {
+            "prompt": "Thomas Cole's portrayal of a peaceful clearing or meadow within a more gentle landscape setting. Sunlight filters softly through trees, highlighting flowers and grasses. The scene evokes a sense of bucolic serenity and the quiet beauty of the cultivated American countryside."
+          }
+        ]
+      },
+      {
+        "id": "2a",
+        "name": "Detailed Forest Interiors",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An intricate forest interior in the detailed, realistic style of Asher B. Durand. Focus on the complex textures of tree bark, moss-covered rocks, and layers of fallen leaves. Dappled sunlight filters through a dense canopy, illuminating specific areas with clarity. Often includes meticulously rendered ferns and undergrowth. A feeling of quiet immersion in nature."
+          },
+          {
+            "prompt": "A scene reminiscent of Durand's 'Kindred Spirits', depicting figures (perhaps artists or poets) within a majestic, detailed forest setting overlooking a gorge or waterfall. Emphasis on the precise rendering of individual trees, rocks, and foliage, celebrating the specific beauty of the American wilderness (Catskills, Adirondacks)."
+          },
+          {
+            "prompt": "Close-up study of tree trunks and rocky terrain within a forest, painted with Asher B. Durand's commitment to truthful representation. Every detail of bark texture, lichen growth, and geological formation is carefully observed and rendered. Naturalistic lighting enhances the textures and forms."
+          }
+        ]
+      },
+      {
+        "id": "2b",
+        "name": "Pastoral Landscapes (Durand)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A serene pastoral landscape by Asher B. Durand, depicting the gentle beauty of the American countryside. Rolling hills, grazing sheep or cattle, large shade trees, and perhaps a distant spire under a calm sky. Naturalistic light, often late afternoon, bathes the scene in a warm, gentle glow. Meticulous detail in the foreground elements."
+          },
+          {
+            "prompt": "View across cultivated fields or meadows bordered by woodlands, in Durand's realistic style. Focus on the textures of grasses, crops, and foliage, rendered with precision. The composition feels balanced and harmonious, celebrating the quiet dignity of the agrarian landscape."
+          },
+          {
+            "prompt": "A tranquil scene featuring majestic, meticulously detailed trees dominating a pastoral setting, characteristic of Durand. The specific species and structure of the trees are carefully rendered. The overall atmosphere is peaceful and contemplative, reflecting a deep reverence for nature."
+          }
+        ]
+      },
+      {
+        "id": "2c",
+        "name": "Mountain Landscapes (Durand)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A realistic portrayal of the Catskill or Adirondack mountains by Asher B. Durand. Detailed rendering of rocky slopes, forested hillsides, and distant peaks under a clearly depicted sky. Focus on capturing the true character and structure of the mountain landscape without overt romantic dramatization."
+          },
+          {
+            "prompt": "Panoramic view from a mountain vantage point, looking out over valleys and forests, in Durand's meticulous style. Clear, natural light reveals the details of the topography. A sense of expansive space combined with careful attention to the textures and forms of the natural elements."
+          },
+          {
+            "prompt": "Study of rock formations and mountain foliage by Durand. Emphasis on geological accuracy and botanical detail within a specific mountain setting. The lighting conditions are carefully observed and rendered to enhance the realism of the scene."
+          }
+        ]
+      },
+      {
+        "id": "3a",
+        "name": "South American Landscapes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A dramatic, panoramic landscape of the Andes mountains in the style of Frederic Edwin Church. Towering, snow-capped volcanic peaks pierce a luminous sky filled with atmospheric effects. Detailed depiction of exotic flora, winding rivers, and perhaps distant ruins in the vast valley below. Emphasis on the sublime scale and exoticism of the South American wilderness."
+          },
+          {
+            "prompt": "Lush, incredibly detailed jungle interior painted by Frederic Edwin Church. Dense tropical vegetation, exotic birds, intricate vines, and dramatic shafts of sunlight breaking through the canopy. A feeling of immense biodiversity and the overwhelming power of tropical nature, rendered with near-scientific precision."
+          },
+          {
+            "prompt": "View of a specific South American natural wonder, like Cotopaxi volcano erupting or Chimborazo peak, characteristic of Church. Combines geological accuracy with dramatic lighting and atmospheric effects (like rainbows or intense sunsets) to create a breathtaking, sublime spectacle."
+          }
+        ]
+      },
+      {
+        "id": "3b",
+        "name": "North American Panoramas",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "Frederic Edwin Church's majestic depiction of Niagara Falls. Capturing the immense power and scale of the cascading water, the mist rising, and the surrounding landscape. Often includes a rainbow arching through the spray. Panoramic composition emphasizing the sublime natural wonder."
+          },
+          {
+            "prompt": "A dramatic scene of icebergs floating in the Arctic seas, in the style of Church. Jagged ice formations glowing under unusual polar light (aurora borealis or midnight sun). Reflections in the icy water, perhaps a distant ship adding scale. Evokes themes of exploration, danger, and sublime beauty."
+          },
+          {
+            "prompt": "Expansive panorama of a North American landscape, like the coast of Maine or the Hudson Valley, painted by Church. Focus on dramatic skies, detailed foregrounds, and a vast sense of space. Often incorporates elements of Luminism with calm water reflecting a radiant sky at sunrise or sunset."
+          }
+        ]
+      },
+      {
+        "id": "3c",
+        "name": "Luminous Skies & Sunsets",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A breathtaking sunset sky painted with the luminosity and detail characteristic of Frederic Edwin Church. Intense, saturated colors—fiery oranges, reds, purples—blend seamlessly across the expansive sky, reflected perhaps in calm water below. Clouds are rendered with dramatic form and light. Focus is primarily on the atmospheric light effects."
+          },
+          {
+            "prompt": "A landscape dominated by a radiant, light-filled sky, embodying the principles of Luminism favored by Church. Hazy, diffused sunlight creates a palpable atmosphere. Minimal elements in the landscape serve primarily to anchor the composition and reflect the sky's glow. A feeling of profound peace and spiritual presence in nature."
+          },
+          {
+            "prompt": "Dramatic atmospheric effects in the sky, such as approaching storm clouds, rainbows, or crepuscular rays, rendered with Church's typical blend of realism and heightened drama. The landscape below responds to the dynamic sky, creating a unified and powerful natural spectacle."
+          }
+        ]
+      },
+      {
+        "id": "4a",
+        "name": "Rocky Mountain Scenes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A majestic panorama of the Rocky Mountains in the dramatic, large-scale style of Albert Bierstadt. Jagged, snow-capped peaks tower over lush valleys with pristine lakes and waterfalls. Golden, atmospheric light often bathes the scene, emphasizing the sublime grandeur and idealized beauty of the American West."
+          },
+          {
+            "prompt": "Scene within the Rocky Mountains by Bierstadt, perhaps focusing on a specific peak or valley like Estes Park or Mount Corcoran. Detailed rendering of geological formations, alpine forests, and atmospheric effects like mist or storm clouds. Often includes wildlife or Native American figures to enhance the sense of scale and wilderness."
+          },
+          {
+            "prompt": "Dramatic lighting effects in a Bierstadt Rocky Mountain landscape. Shafts of sunlight breaking through storm clouds, illuminating parts of the scene while others remain in deep shadow. Creates a powerful, almost theatrical sense of awe and the sublime power of nature."
+          }
+        ]
+      },
+      {
+        "id": "4b",
+        "name": "Yosemite Valley Views",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "An iconic view of Yosemite Valley, painted in the grand, romantic style of Albert Bierstadt. Towering granite cliffs like El Capitan or Half Dome dominate the composition, framing the valley floor with Bridalveil or Yosemite Falls cascading down. Luminous, often golden light fills the valley, creating an idealized, majestic atmosphere."
+          },
+          {
+            "prompt": "Looking down Yosemite Valley by Bierstadt, capturing the vast scale and unique geological features. Detailed rendering of the granite cliffs, pine forests, and the Merced River winding through the valley. Atmospheric perspective creates a sense of immense depth."
+          },
+          {
+            "prompt": "A specific feature within Yosemite, like Bridalveil Fall or the giant sequoias, depicted by Bierstadt. Focus on the unique textures and scale of the natural wonder, bathed in dramatic or ethereal light. Often includes small figures or animals to emphasize the monumentality."
+          }
+        ]
+      },
+      {
+        "id": "4c",
+        "name": "Native Americans in Landscapes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A scene depicting Native American figures within a majestic Western landscape, painted by Albert Bierstadt. The figures are often shown living harmoniously with nature, perhaps setting up camp near a lake or hunting buffalo on the plains. The landscape remains the dominant subject, rendered with grandeur and romanticism."
+          },
+          {
+            "prompt": "Bierstadt's portrayal of a Native American encampment against the backdrop of the Rocky Mountains or Yosemite. Tipis, horses, and figures engaged in daily life are depicted with detail, integrated into the vast, luminous landscape. Often idealized and picturesque."
+          },
+          {
+            "prompt": "Close-up focus on Native American figures in traditional attire within a landscape setting, style of Bierstadt. Attention to the details of clothing, beadwork, and features, presented with dignity within the context of the sublime natural environment."
+          }
+        ]
+      },
+      {
+        "id": "4d",
+        "name": "Luminous Western Sunsets/Storms",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A spectacular sunset over the American West, painted with Albert Bierstadt's characteristic luminosity and drama. Intense oranges, pinks, and golds fill the sky, reflecting off clouds, mountains, and water surfaces. Creates a powerful, awe-inspiring, and often idealized vision of the western landscape."
+          },
+          {
+            "prompt": "A dramatic storm gathering over the Rocky Mountains or plains, depicted by Bierstadt. Dark, turbulent clouds contrast with shafts of brilliant light breaking through. Captures the sublime power and theatricality of weather in the vast western wilderness."
+          },
+          {
+            "prompt": "Luminous, hazy atmosphere characteristic of Bierstadt's work, perhaps during early morning or late afternoon. Soft, glowing light diffuses through the air, unifying the landscape elements (mountains, lakes, forests) and creating a sense of peace and grandeur."
+          }
+        ]
+      },
+      {
+        "id": "5a",
+        "name": "Autumn Landscapes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A vibrant autumn landscape in the distinct style of Jasper Francis Cropsey. Trees ablaze with brilliant reds, oranges, and yellows, reflecting in a calm lake or river. Clear, crisp autumnal light enhances the vivid colors. Detailed rendering of foliage and the specific character of the Northeastern American landscape in fall."
+          },
+          {
+            "prompt": "Panoramic view of hills and valleys during peak autumn foliage, characteristic of Cropsey. Expansive sky, often with soft clouds, complements the colorful spectacle below. A celebration of the beauty and abundance of the American autumn season."
+          },
+          {
+            "prompt": "Close-up focusing on the intense colors and textures of autumn leaves, perhaps on a single maple or oak tree, painted by Cropsey. Meticulous detail captures the individual leaf shapes and the variations in color, bathed in bright autumnal sunlight."
+          }
+        ]
+      },
+      {
+        "id": "5b",
+        "name": "Pastoral Scenes (Cropsey)",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A peaceful pastoral scene by Jasper Francis Cropsey, often set in the Hudson Valley or New England. Features rolling hills, grazing cattle, picturesque farmhouses, and tranquil bodies of water. Frequently incorporates the warm colors and gentle light of autumn, even in non-autumnal scenes."
+          },
+          {
+            "prompt": "American countryside depicted by Cropsey with a focus on the harmony between human settlement and nature. Well-kept fields, sturdy trees, and clear skies create a sense of prosperity and idyllic rural life. Detailed rendering and often a warm overall tonality."
+          },
+          {
+            "prompt": "A landscape featuring a gentle river or lake reflecting the surrounding scenery, characteristic of Cropsey's pastoral works. Calm water mirrors colorful trees (especially in autumn) and a serene sky. A quiet, inviting composition."
+          }
+        ]
+      },
+      {
+        "id": "5c",
+        "name": "Architectural Elements in Landscape",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A landscape painting by Jasper Francis Cropsey prominently featuring architectural elements, such as a detailed country estate, a rustic mill, or a picturesque bridge. The architecture is carefully rendered and integrated harmoniously into the surrounding natural scenery, often autumnal."
+          },
+          {
+            "prompt": "View including historical ruins or allegorical structures within a landscape, reminiscent of some of Cropsey's works (like 'The Spirit of War'/'The Spirit of Peace'). Nature intertwines with man-made elements, often conveying a specific theme or mood, usually set within his characteristic detailed style."
+          },
+          {
+            "prompt": "A detailed depiction of a specific building, like a church or farmhouse, nestled within a vibrant landscape, particularly in autumn, by Cropsey. Focus on the interaction of light and shadow on the architectural forms and the surrounding colorful foliage."
+          }
+        ]
+      },
+      {
+        "id": "6a",
+        "name": "Luminist Coastal Scenes",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A serene coastal scene embodying Luminism, in the style of John Frederick Kensett. Calm, glassy water reflecting a soft, hazy, light-filled sky. Minimal compositional elements, perhaps a distant sailboat or headland. Emphasis on atmosphere, stillness, and the subtle gradations of light and color. Smooth, almost invisible brushwork."
+          },
+          {
+            "prompt": "Sunset or sunrise over a tranquil sea by Kensett. Soft, warm light permeates the hazy atmosphere, blurring the horizon line between water and sky. A feeling of profound peace, quiet contemplation, and spiritual harmony with nature. Carefully balanced composition."
+          },
+          {
+            "prompt": "A wide, horizontal composition depicting a calm bay or shoreline under a luminous sky, characteristic of Kensett's Luminist works. Focus on the horizontal bands of water, land, and sky, rendered with subtle tonal shifts and a smooth finish. Evokes silence and expansive tranquility."
+          }
+        ]
+      },
+      {
+        "id": "6b",
+        "name": "Tranquil Inland Lakes & Forests",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A view of Lake George or another serene inland lake, painted with the clarity and tranquility typical of John Frederick Kensett. Still water reflects the surrounding forested hills and clear sky with precision. Calm, even light illuminates the scene. Detailed rendering of trees and rocks along the shoreline."
+          },
+          {
+            "prompt": "A peaceful forest interior by Kensett, perhaps near a lake or stream. Clear, gentle sunlight filters through the trees. Emphasis on the quiet beauty and order of nature, rendered with careful detail and smooth brushwork. A feeling of stillness and solitude."
+          },
+          {
+            "prompt": "Composition featuring a balance of water, trees, and rocks in a tranquil landscape setting, characteristic of Kensett. Each element is clearly defined and bathed in gentle, unifying light. The overall mood is calm, restorative, and contemplative."
+          }
+        ]
+      },
+      {
+        "id": "6c",
+        "name": "Rocky Shorelines",
+        "sectionProperties": ["prompt"],
+        "sections": [
+          {
+            "prompt": "A detailed study of a rocky shoreline, perhaps along the New England coast, in the precise style of John Frederick Kensett. Focus on the textures, forms, and colors of the rocks meeting the calm sea. Clear, cool light reveals the geological details. Often contrasted with a serene sky and placid water."
+          },
+          {
+            "prompt": "Coastal scene by Kensett where rugged rock formations in the foreground contrast with the tranquil expanse of sea and sky beyond. Meticulous rendering of the rocks' surfaces and structures. A sense of permanence and the quiet forces of nature."
+          },
+          {
+            "prompt": "Waves gently lapping against a detailed rocky coast, depicted by Kensett. Captures the subtle movement of water around the solid forms of the rocks under a calm, atmospheric light. Smooth finish and careful attention to detail."
+          }
+        ]
+      }
+    ]
+  }

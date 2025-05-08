@@ -1,0 +1,35 @@
+{
+    "appTitle": "Post-Impressionism: Artist Prompts",
+    "firstLevelLabel": "Artist",
+    "secondLevelLabel": "Theme/Subject",
+    "items": [
+      {
+        "id": "1",
+        "name": "Vincent van Gogh"
+      },
+      {
+        "id": "2",
+        "name": "Paul Gauguin"
+      },
+      {
+        "id": "3",
+        "name": "Paul Cézanne"
+      },
+      {
+        "id": "4",
+        "name": "Georges Seurat"
+      },
+      {
+        "id": "5",
+        "name": "Henri de Toulouse-Lautrec"
+      },
+      {
+        "id": "6",
+        "name": "Paul Signac"
+      },
+      {
+        "id": "7",
+        "name": "Henri Rousseau"
+      }
+    ]
+  }

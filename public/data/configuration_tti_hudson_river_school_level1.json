@@ -1,0 +1,31 @@
+{
+    "appTitle": "Hudson River School: Landscape Prompts",
+    "firstLevelLabel": "Artist",
+    "secondLevelLabel": "Theme/Subject",
+    "items": [
+      {
+        "id": "1",
+        "name": "Thomas Cole"
+      },
+      {
+        "id": "2",
+        "name": "Asher B. Durand"
+      },
+      {
+        "id": "3",
+        "name": "Frederic Edwin Church"
+      },
+      {
+        "id": "4",
+        "name": "Albert Bierstadt"
+      },
+      {
+        "id": "5",
+        "name": "Jasper Francis Cropsey"
+      },
+      {
+        "id": "6",
+        "name": "John Frederick Kensett"
+      }
+    ]
+  }

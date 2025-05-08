@@ -1,0 +1,244 @@
+{
+  "items": [
+    {
+      "id": "1a",
+      "name": "Lyrical Landscapes",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A hazy, poetic landscape in the late style of Corot. Feathery trees with silvery-green foliage frame a tranquil pond or meadow. Soft, diffused light, perhaps early morning or late afternoon, creates a dreamy, atmospheric mood. Subtle tonal variations dominate over sharp details, evoking a sense of memory or reverie. Oil painting aesthetic with delicate, almost blurred brushwork."
+        },
+        {
+          "prompt": "A pastoral scene reminiscent of Corot's idyllic compositions. A lone figure, perhaps a peasant woman or piper, rests near a cluster of softly rendered trees by calm water. The overall palette is muted greens, soft grays, and earthy browns, unified by a silvery atmospheric haze. The composition feels balanced and serene, emphasizing harmony between humanity and nature."
+        },
+        {
+          "prompt": "A classic Corot landscape featuring a vista opening through sensitively painted trees. A distant village or castle might be hinted at. The sky is luminous but gentle, perhaps with soft clouds reflecting in water. Focus on the tonal harmony and the delicate rendering of light and atmosphere, characteristic of his mature, lyrical style."
+        }
+      ]
+    },
+    {
+      "id": "1b",
+      "name": "Plein Air & Italian Studies",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An Italian landscape study in the style of Corot's earlier, more realistic plein air work. Clearer, warmer light illuminates classical ruins or simple rural buildings set against hills near Rome. More defined forms and a focus on accurate representation of light and structure compared to his later lyrical works. Oil sketch capturing a specific moment outdoors."
+        },
+        {
+          "prompt": "A direct landscape sketch from nature by Corot, possibly French countryside. Emphasis on capturing the immediate impression of light, form, and color. Brushwork might be quicker and more visible. Focus on the accurate depiction of natural elements like trees, rocks, and earth under specific daylight conditions."
+        },
+        {
+          "prompt": "View of a sunlit bridge or aqueduct in the Italian countryside, reminiscent of Corot's studies. Stronger contrasts between light and shadow, architectural forms clearly rendered but integrated naturally into the landscape setting. A sense of place and observation from life."
+        }
+      ]
+    },
+    {
+      "id": "1c",
+      "name": "Forest of Fontainebleau Scenes",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A tranquil scene within the Forest of Fontainebleau, in the style of Corot. Towering trees with detailed bark and foliage filter soft, dappled sunlight onto the forest floor. A sense of quiet solitude pervades the atmosphere. Focus on the interplay of light and shadow among the trees and undergrowth, rendered with subtle tonal gradations."
+        },
+        {
+          "prompt": "An intimate view of a rocky outcrop or clearing within the Fontainebleau forest, painted with Corot's sensitivity to natural forms. The textures of rocks and earth are carefully observed, contrasting with the softer foliage. The lighting suggests a specific time of day, unifying the composition."
+        },
+        {
+          "prompt": "A pathway winding through the dense Forest of Fontainebleau, style of Corot. Overhanging branches create a natural archway. The perspective leads the viewer's eye into the depths of the woods. A solitary figure might be subtly included, emphasizing the scale of nature."
+        }
+      ]
+    },
+    {
+      "id": "2a",
+      "name": "Forest Interiors (Fontainebleau)",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A dense, atmospheric forest interior in the style of Théodore Rousseau. Ancient, gnarled oak trees dominate the composition, their powerful forms rendered with detailed attention to bark texture and structure. Dramatic shafts of light pierce the canopy, illuminating patches of the undergrowth. A feeling of untamed nature and the sublime power of the forest."
+        },
+        {
+          "prompt": "Deep within the Forest of Fontainebleau, depicted by Théodore Rousseau. Intricate rendering of mossy rocks, tangled roots, and decaying leaves on the forest floor. The lighting is complex, perhaps late afternoon, creating deep shadows and pockets of intense light. A focus on the rugged textures and complex details of the natural environment."
+        },
+        {
+          "prompt": "A group of monumental, ancient trees in the Forest of Fontainebleau, characteristic of Rousseau's work. Emphasis on the individual character and structural complexity of each tree. The overall mood is somber and majestic, reflecting a deep reverence for the primeval forest. Rich, dark earth tones dominate the palette."
+        }
+      ]
+    },
+    {
+      "id": "2b",
+      "name": "Open Plains & Marshes",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An expansive view across a flat, open plain or marshland under a dramatic sky, in the style of Théodore Rousseau. The horizon line is low, emphasizing the vastness of the sky, which might feature turbulent storm clouds or the glow of sunset. A sense of solitude and the raw power of nature in open spaces."
+        },
+        {
+          "prompt": "A wide landscape depicting the marshy regions near Barbizon by Rousseau. Pools of water reflect the vast, dynamic sky. Sparse vegetation, perhaps a few gnarled trees or distant cattle, punctuate the horizontal expanse. Focus on atmospheric effects and the textures of the wet earth and grasses."
+        },
+        {
+          "prompt": "Panoramic landscape by Rousseau showing rolling plains under a sweeping sky. The light suggests a specific weather condition, perhaps the clearing after a storm or approaching dusk. Emphasis on the broad structure of the land and the atmospheric drama overhead. Realistic depiction of rural French topography."
+        }
+      ]
+    },
+    {
+      "id": "2c",
+      "name": "Sunset & Twilight Landscapes",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A dramatic sunset over a landscape, painted in the intense, detailed style of Théodore Rousseau. Fiery reds, oranges, and deep purples fill the sky, silhouetting trees or distant hills. Emphasis on the powerful emotional impact of the light and color at the end of the day, rendered with realistic detail."
+        },
+        {
+          "prompt": "Twilight descending over a Barbizon landscape by Rousseau. The last light catches the edges of clouds and treetops, while deep shadows envelop the land. A sense of quiet melancholy and the transition from day to night. Careful attention to the subtle gradations of light and color in the fading light."
+        },
+        {
+          "prompt": "A landscape scene by Rousseau capturing the moments just after sunset. The sky still holds residual warmth, contrasted against the cooling blues and greys of the land. Silhouetted forms of trees or buildings stand against the luminous sky. A focus on capturing the precise atmospheric effects of twilight."
+        }
+      ]
+    },
+    {
+      "id": "3a",
+      "name": "River Scenes (Seine, Oise)",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A tranquil river scene on the Oise or Seine, painted from the perspective of Daubigny's studio boat, 'Le Botin'. Lush riverbanks with trees and vegetation are reflected in the calm water. Soft, natural light pervades the scene, perhaps a gentle overcast day or calm afternoon. Focus on the peaceful atmosphere and the fluidity of water reflections."
+        },
+        {
+          "prompt": "Impressionistic yet realistic depiction of river life by Daubigny. Perhaps featuring washerwomen on the banks, small boats, or ducks on the water. The brushwork is looser than Rousseau's but retains a strong sense of place and atmosphere. Emphasis on capturing the effects of light on water."
+        },
+        {
+          "prompt": "A wide view of a river winding through the French countryside, characteristic of Daubigny. The composition often features a low horizon and an expansive sky, reflecting in the broad surface of the water. A sense of quiet naturalism and the beauty of the everyday river landscape."
+        }
+      ]
+    },
+    {
+      "id": "3b",
+      "name": "Orchards & Springtime",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "An apple orchard in full bloom during springtime, painted in the fresh, naturalistic style of Daubigny. Delicate white and pink blossoms cover the trees, set against a backdrop of fresh green grass and a soft blue sky. A celebration of the renewal of nature, rendered with sensitivity to light and atmosphere."
+        },
+        {
+          "prompt": "A pastoral scene featuring flowering fruit trees in the French countryside by Daubigny. Perhaps sheep grazing beneath the blossoms or a glimpse of a farmhouse. The light is bright and clear, typical of spring. Focus on the textures of blossoms and new leaves."
+        },
+        {
+          "prompt": "Close-up view within an orchard by Daubigny, focusing on the patterns of branches laden with blossoms against the sky. The treatment is gentle and observant, capturing the delicate beauty of the flowering trees with soft colors and naturalistic detail."
+        }
+      ]
+    },
+    {
+      "id": "3c",
+      "name": "Coastal Views (Normandy)",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A coastal landscape of the Normandy region by Charles-François Daubigny. View of cliffs overlooking the sea, or a quiet beach scene. The light is characteristic of the northern French coast, perhaps slightly hazy or overcast. Focus on the meeting of land and sea, rendered with naturalism."
+        },
+        {
+          "prompt": "Seascape by Daubigny showing fishing boats near the shore or on the open water. Attention to the movement of waves and the reflection of the sky on the sea surface. The palette captures the specific colors of the Channel coast."
+        },
+        {
+          "prompt": "View along the coastline near Villerville or Trouville, in the style of Daubigny. Capturing the beaches, dunes, and perhaps small seaside dwellings under a wide sky. Emphasis on atmospheric effects and the natural character of the coastal environment."
+        }
+      ]
+    },
+    {
+      "id": "4a",
+      "name": "Peasant Labor Scenes",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "Depiction of peasants working in the fields, in the solemn, realistic style of Jean-François Millet. Figures engaged in labor like sowing seeds ('The Sower') or gathering harvest ('The Gleaners'). Emphasis on the dignity and monumentality of the figures, silhouetted against the land or sky. Often set during dawn or dusk, with warm, earthy tones."
+        },
+        {
+          "prompt": "A powerful portrayal of rural labor by Millet. Focus on the physical effort and connection to the earth. Figures are rendered with solidity and weight. The landscape serves as a simple, often stark backdrop to the human drama. Lighting is often used symbolically or to enhance the mood."
+        },
+        {
+          "prompt": "Close-up on the hands or figures of peasants performing agricultural tasks, characteristic of Millet's sympathetic depiction of rural life. Emphasis on the textures of rough clothing, weathered skin, and the tools of labor. A sense of hardship but also quiet nobility."
+        }
+      ]
+    },
+    {
+      "id": "4b",
+      "name": "Rural Landscapes",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A simple, expansive rural landscape near Barbizon, in the style of Jean-François Millet. Often featuring the vast plains of Chailly under a wide, expressive sky. The focus is less on intricate detail and more on the broad forms of the land and the atmospheric mood. Earthy color palette."
+        },
+        {
+          "prompt": "A humble rural scene by Millet, perhaps depicting a simple cottage, a well, or a path winding through fields. The landscape feels lived-in but unidealized. Lighting often suggests twilight or an overcast day, contributing to a somber or contemplative atmosphere."
+        },
+        {
+          "prompt": "Landscape emphasizing the connection between the land and the sky, typical of Millet. A low horizon line gives prominence to cloud formations or the effects of light in the sky. The earth below is rendered with simple, powerful forms."
+        }
+      ]
+    },
+    {
+      "id": "4c",
+      "name": "Shepherds & Flocks",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A shepherdess tending her flock of sheep on a plain, in the quiet, pastoral style of Jean-François Millet. Often depicted at twilight or under moonlight, creating a serene yet melancholic mood. Focus on the solitary figure and her connection to the animals and the vast landscape."
+        },
+        {
+          "prompt": "Scene of sheep grazing or returning home at the end of the day, characteristic of Millet. Soft, atmospheric lighting unifies the composition. The forms of the animals are rendered with solidity and sympathy. A feeling of peace and the rhythm of rural life."
+        },
+        {
+          "prompt": "Close view of sheep within a flock, perhaps huddled together against the elements, painted by Millet. Attention to the texture of wool and the grouping of the animals. The landscape background is simple, emphasizing the flock itself."
+        }
+      ]
+    },
+    {
+      "id": "5a",
+      "name": "Forest Interiors (Dappled Light)",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A sun-dappled forest interior in the Forest of Fontainebleau, painted in the vibrant, textured style of Narcisse Diaz de la Peña. Intense spots of sunlight break through the dense canopy, illuminating patches of the forest floor, mossy rocks, and tree trunks. Rich colors and jewel-like effects in the highlighted areas."
+        },
+        {
+          "prompt": "Deep woodland scene by Diaz de la Peña, characterized by dramatic contrasts between light and shadow. The textures of bark, leaves, and earth are rendered with thick impasto or rich glazes. A feeling of enchantment and mystery within the forest depths."
+        },
+        {
+          "prompt": "A pathway through a sunlit patch of the Fontainebleau forest, style of Diaz. Emphasis on the sparkling effect of light filtering through leaves, creating patterns on the ground. Often includes small figures subtly placed within the scene. More colorful and romantic than Rousseau's forest views."
+        }
+      ]
+    },
+    {
+      "id": "5b",
+      "name": "Stormy Landscapes",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A dramatic landscape under a turbulent, stormy sky, painted by Narcisse Diaz de la Peña. Dark, heavy clouds dominate, perhaps with flashes of light or rain sweeping across the scene. Trees might be bent by the wind. A sense of nature's power and romantic drama."
+        },
+        {
+          "prompt": "Landscape view just before or after a storm, by Diaz. The light is dramatic and unusual, with intense contrasts and potentially vivid colors in the sky reflected on wet ground. A focus on atmospheric effects and the untamed aspects of nature."
+        },
+        {
+          "prompt": "A clearing in the forest under threatening storm clouds, style of Diaz. Broken branches or rugged terrain might add to the wild atmosphere. Palette uses deep shadows contrasted with highlights from the dramatic sky."
+        }
+      ]
+    },
+    {
+      "id": "5c",
+      "name": "Figures in Forest / Mythology",
+      "sectionProperties": ["prompt"],
+      "sections": [
+        {
+          "prompt": "A forest clearing depicted by Diaz de la Peña, featuring small, elegantly dressed figures or perhaps bathers or nymphs subtly integrated into the landscape. The figures are often secondary to the overall effect of light and texture in the forest setting. A touch of Rococo influence or romantic fantasy."
+        },
+        {
+          "prompt": "Mythological or allegorical figures (like nymphs, Venus, or putti) placed within a lush, sun-dappled forest interior, characteristic of some works by Diaz. The figures are often idealized, contrasting with the detailed naturalism of the surrounding forest."
+        },
+        {
+          "prompt": "A group of children or elegantly attired women resting or playing beneath the trees in the Forest of Fontainebleau, painted by Diaz. The scene combines landscape with genre elements, focusing on the picturesque quality and the effects of dappled sunlight on the figures and foliage."
+        }
+      ]
+    }
+  ]
+}
