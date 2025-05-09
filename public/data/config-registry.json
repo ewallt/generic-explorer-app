@@ -1,16 +1,34 @@
 {
     "apps": [
       {
-        "id": "theology_nonviolence_explorer",
-        "name": "Theology & Nonviolence Explorer",
-        "level1Config": "/data/configuration_nonviolent_theology_level1.json",
-        "level2Config": "/data/configuration_nonviolent_theology_level2.json"
+        "id": "french_impressionism",
+        "name": "French Impressionism Prompt Generator",
+        "level1Config": "/data/configuration_tti_french_impressionism_level1.json",
+        "level2Config": "/data/configuration_tti_french_impressionism_level2.json"
       },
       {
-        "id": "cross_revelation_explorer",
-        "name": "Cross‑as‑Revelation Explorer",
-        "level1Config": "/data/config_cross_revelation_level1.json",
-        "level2Config": "/data/config_cross_revelation_level2.json"
+        "id": "barbizon_school",
+        "name": "Barbizon School Prompt Generator",
+        "level1Config": "/data/configuration_tti_barbizon_school_level1.json",
+        "level2Config": "/data/configuration_tti_barbizon_school_level2.json"
+      },
+      {
+        "id": "hudson_river_school",
+        "name": "Hudson River School Prompt Generator",
+        "level1Config": "/data/configuration_tti_hudson_river_school_level1.json",
+        "level2Config": "/data/configuration_tti_hudson_river_school_level2.json"
+      },
+      {
+        "id": "post_impressionism",
+        "name": "Post-Impressionism Prompt Generator",
+        "level1Config": "/data/configuration_tti_post_impressionism_level1.json",
+        "level2Config": "/data/configuration_tti_post_impressionism_level2.json"
+      },
+      {
+        "id": "japanese_woodblock",
+        "name": "Japanese Woodblock Art Prompt Generator",
+        "level1Config": "/data/configuration_tti_japanese_woodblock_level1.json",
+        "level2Config": "/data/configuration_tti_japanese_woodblock_level2.json"
       }
-    ]  
+    ]
   }
